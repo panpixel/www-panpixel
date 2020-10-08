@@ -71,6 +71,9 @@ export default {
     ** Build configuration
     */
     build: {
+        babel: {
+            compact: true
+          },
         extractCSS: true,
         /*
         ** You can extend webpack config here
