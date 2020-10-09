@@ -25,7 +25,6 @@ const _49914da8 = () => interopDefault(import('..\\pages\\home-masonry-gallery.v
 const _e280ea82 = () => interopDefault(import('..\\pages\\home-minimal-agency.vue' /* webpackChunkName: "pages/home-minimal-agency" */))
 const _39fc5a98 = () => interopDefault(import('..\\pages\\home-minimal-metro-grid.vue' /* webpackChunkName: "pages/home-minimal-metro-grid" */))
 const _a8a71c04 = () => interopDefault(import('..\\pages\\home-minimal-portfolio.vue' /* webpackChunkName: "pages/home-minimal-portfolio" */))
-const _5102dfd7 = () => interopDefault(import('..\\pages\\home-onepage.vue' /* webpackChunkName: "pages/home-onepage" */))
 const _786277ef = () => interopDefault(import('..\\pages\\home-photo-slider-gallery.vue' /* webpackChunkName: "pages/home-photo-slider-gallery" */))
 const _289bf54e = () => interopDefault(import('..\\pages\\home-portfolio-slide.vue' /* webpackChunkName: "pages/home-portfolio-slide" */))
 const _e7a95dca = () => interopDefault(import('..\\pages\\home-product-landing.vue' /* webpackChunkName: "pages/home-product-landing" */))
@@ -187,10 +186,6 @@ export const routerOptions = {
     path: "/home-minimal-portfolio",
     component: _a8a71c04,
     name: "home-minimal-portfolio"
-  }, {
-    path: "/home-onepage",
-    component: _5102dfd7,
-    name: "home-onepage"
   }, {
     path: "/home-photo-slider-gallery",
     component: _786277ef,

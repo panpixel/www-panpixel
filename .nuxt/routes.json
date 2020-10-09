@@ -154,13 +154,6 @@
     "_name": "_a8a71c04"
   },
   {
-    "name": "home-onepage",
-    "path": "/home-onepage",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\home-onepage.vue",
-    "chunkName": "pages/home-onepage",
-    "_name": "_5102dfd7"
-  },
-  {
     "name": "home-photo-slider-gallery",
     "path": "/home-photo-slider-gallery",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\home-photo-slider-gallery.vue",

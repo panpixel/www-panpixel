@@ -77,32 +77,7 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li class="mega--title">
-                                HOME SAMPLES 04
-                                <ul>
-                                    <li>
-                                        <nuxt-link to="/home-creative-portfolio"><span>Home Creative Portfolio</span></nuxt-link>
-                                    </li>
-                                    <li>
-                                        <nuxt-link to="/home-minimal-portfolio"><span>Home Minimal Portfolio</span></nuxt-link>
-                                    </li>
-                                    <li>
-                                        <nuxt-link to="/home-portfolio-slide"><span>Home Portfolio Slide</span></nuxt-link>
-                                    </li>
-                                    <li>
-                                        <nuxt-link to="/home-fullscreen-slider-left-vertical-header"><span>Portfolio Fullscreen Slider</span></nuxt-link>
-                                    </li>
-                                    <li>
-                                        <nuxt-link to="/home-blog-grid"><span>Home Blog Grid</span></nuxt-link>
-                                    </li>
-                                    <li>
-                                        <nuxt-link to="/home-masonry-gallery"><span>Home Masonry Gallery</span></nuxt-link>
-                                    </li>
-                                    <li>
-                                        <nuxt-link to="/home-minimal-metro-grid"><span>Home Minimal Metro Grid</span></nuxt-link>
-                                    </li>
-                                </ul>
-                            </li>
+                            
                         </div>
                     </div>
                 </ul>
