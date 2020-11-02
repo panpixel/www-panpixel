@@ -36,8 +36,8 @@
                 </div>
                 <div class="col-lg-6 col-12 pl--50">
                     <div class="contact-form">
-                        <form id="contact-form" name="kontakt" method="POST" netlify netlify-honeypot="bot-field">
-                        // Hidden input to check for bots
+                        <form id="contact-form" name="kontakt" action="/" method="POST" netlify netlify-honeypot="bot-field">
+                        
                             <input type="hidden" name="form-name" value="kontakt" />
                             <div class="row">
                                 <div class="col-lg-12">
@@ -59,7 +59,7 @@
                                 <div class="col-12 mt--30">
                                     <div class="check-box">
                                         <input type="checkbox" name="check" id="check">
-                                        <label for="check">Zgoda.</label>
+                                        <label for="check">Zgoda</label>
                                     </div>
                                 </div>
                                
