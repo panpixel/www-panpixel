@@ -37,6 +37,8 @@
                 <div class="col-lg-6 col-12 pl--50">
                     <div class="contact-form">
                         <form id="contact-form" name="kontakt" method="POST" netlify netlify-honeypot="bot-field">
+                        // Hidden input to check for bots
+                            <input type="hidden" name="form-name" value="kontakt" />
                             <div class="row">
                                 <div class="col-lg-12">
                                     <input name="con_name" type="text" placeholder="Name *">
