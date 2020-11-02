@@ -4,10 +4,13 @@
         </head>  
         <body {{ BODY_ATTRS }}> 
             
-            <form name="contactus" netlify netlify-honeypot="bot-field" hidden>    
-                <input type="text" name="name" />   
-                 <input type="radio" name="email" />   
-                  <textarea name="message"></textarea>  
+            <form name="kontakt" netlify netlify-honeypot="bot-field" hidden>    
+                <input name="con_name" type="text" placeholder="Name *">  
+                <input name="con_email" type="text" placeholder="Email *"> 
+                <input type="text" name="con_phone" placeholder="Phone number"> 
+                <textarea name="con_message" placeholder="Your message"></textarea>
+                <input type="checkbox" name="check" id="check">
+                   
                 </form>  
                 {{ APP }}
             </body>
