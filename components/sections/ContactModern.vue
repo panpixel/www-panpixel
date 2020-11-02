@@ -60,7 +60,7 @@
                                         <label for="check">I agree this terms and condition.</label>
                                     </div>
                                 </div>
-
+                                <div data-netlify-recaptcha="true"></div>
                                 <div class="col-lg-12 mt--30">
                                     <input type="submit" value="Send message">
                                     <p class="form-messege"></p>
