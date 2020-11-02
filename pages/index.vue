@@ -11,7 +11,7 @@
 
         <VideoService />
 
-        <PortfolioTwo addClass="pt--130 pb--100 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" />
+        <PortfolioTwo addClass="pt--130 pb--100 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
 
         <ServiceIconBoxWithTitleStleTwo class="pt-0 pb-0" />
 
