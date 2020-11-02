@@ -57,10 +57,11 @@
                                 <div class="col-12 mt--30">
                                     <div class="check-box">
                                         <input type="checkbox" name="check" id="check">
-                                        <label for="check">I agree this terms and condition.</label>
+                                        <label for="check">Zgoda.</label>
                                     </div>
                                 </div>
-                                <div data-netlify-recaptcha="true"></div>
+                                <div data-netlify-recaptcha="true">
+                                </div>
                                 <div class="col-lg-12 mt--30">
                                     <input type="submit" value="Send message">
                                     <p class="form-messege"></p>
