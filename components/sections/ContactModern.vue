@@ -36,7 +36,7 @@
                 </div>
                 <div class="col-lg-6 col-12 pl--50">
                     <div class="contact-form">
-                        <form id="contact-form" name="kontakt" method="POST" data-netlify="true">
+                        <form id="contact-form" name="kontakt" method="POST" netlify netlify-honeypot="bot-field">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <input name="con_name" type="text" placeholder="Name *">
@@ -60,8 +60,7 @@
                                         <label for="check">Zgoda.</label>
                                     </div>
                                 </div>
-                                <div data-netlify-recaptcha="true">
-                                </div>
+                               
                                 <div class="col-lg-12 mt--30">
                                     <input type="submit" value="Wyślij">
                                     <p class="form-messege"></p>
