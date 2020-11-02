@@ -217,11 +217,11 @@
 
         <FooterTwo />
 
-    </div>
+    </div>      
 </template>
 
 <script>
-    import data from '../../data/blog.json'
+    import data from '../../data/blog.json' 
     
     export default {
         components: {
@@ -242,7 +242,7 @@
         mounted () {
             this.data = data.blogs.find(blog => blog.id == this.$route.params.id);
 
-            document.body.classList.add('template-color-1', 'template-font-1')
+            document.body.classList.add('template-color-20', 'template-font-3')
         },
 
         head() {

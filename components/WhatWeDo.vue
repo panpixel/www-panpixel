@@ -4,9 +4,9 @@
             <div class="row">
                 <div class="col-lg-10 offset-lg-2">
                     <div class="bk-title--default text-left">
-                        <h5 class="heading heading-h5 theme-color">What we do</h5>
+                        <h5 class="heading heading-h5 theme-color">Wideo dla biznesu</h5>
                         <div class="bkseparator--30"></div>
-                        <h3 class="heading heading-h3">Effective solution<br> for every businesses</h3>
+                        <h3 class="heading heading-h3">Efektywne rozwiązania<br> dla każdego biznesu</h3>
                     </div>
                 </div>
             </div>

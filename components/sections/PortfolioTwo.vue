@@ -6,7 +6,7 @@
                     <div class="brook-section-title text-center mb--60">
                         <h6 class="heading heading-h6 theme-color font-blod">PORTFOLIOS</h6>
                         <div class="bkseparator--40"></div>
-                        <h2 class="heading heading-h2 heading-font">Collection of the greatest works.</h2>
+                        <h2 class="heading heading-h2 heading-font">Nasze realizacje</h2>
                     </div>
                 </div>
             </div>

@@ -5,7 +5,7 @@
                 <div class="col-lg-6 col-12 pr--50 ptb-md--80 ptb-sm--80">
                     <div class="contact-modern bg_color--18 space_dec--100 pt--120 pb--120 pl--60 pr--60">
                         <div class="inner">
-                            <h2 class="heading heading-h2 text-white">Start a new project?</h2>
+                            <h2 class="heading heading-h2 text-white">Zaczynamy nowy projekt?</h2>
 
                             <div class="classic-address text-left mt--60">
                                 <h4 class="heading heading-h4 text-white">Visit our studio at</h4>
@@ -15,23 +15,19 @@
                             </div>
 
                             <div class="classic-address text-left mt--60">
-                                <h4 class="heading heading-h4 text-white">Message us</h4>
+                                <h4 class="heading heading-h4 text-white">Kontakt</h4>
                                 <div class="desc mt--15 mb--30">
-                                    <p class="bk_pra line-height-2-22 text-white">info@yourdomain.com <br> (+68) 120034509</p>
+                                    <p class="bk_pra line-height-2-22 text-white">do@panpixel.com <br> (+48) 790 583 100</p>
                                 </div>
                                 <div class="social-share social--transparent text-white">
                                     <a href="https://www.facebook.com/" target="_blank">
                                         <i class="fab fa-facebook"></i>
                                     </a>
-                                    <a href="https://twitter.com/" target="_blank">
-                                        <i class="fab fa-twitter"></i>
-                                    </a>
+                                   
                                     <a href="https://www.instagram.com/" target="_blank">
                                         <i class="fab fa-instagram"></i>
                                     </a>
-                                    <a href="https://dribbble.com/" target="_blank">
-                                        <i class="fab fa-dribbble"></i>
-                                    </a>
+                                
                                 </div>
                             </div>
 
@@ -40,7 +36,7 @@
                 </div>
                 <div class="col-lg-6 col-12 pl--50">
                     <div class="contact-form">
-                        <form id="contact-form">
+                        <form id="contact-form" name="contact" method="POST" data-netlify="true" >
                             <div class="row">
                                 <div class="col-lg-12">
                                     <input name="con_name" type="text" placeholder="Name *">

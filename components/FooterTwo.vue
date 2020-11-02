@@ -8,18 +8,18 @@
                         <div class="footer-widget text-var--2">
                             <div class="logo">
                                 <n-link to="">
-                                    <img src="/img/logo/brook-white2.png" alt="brand logo">
+                                      <img src="/img/logo/panpixel_logo_white.png" alt="Panpixel.com Logo">
                                 </n-link>
                             </div>
                             <div class="footer-inner">
-                                <p>Brook is a multi-purpose WordPress theme for big and small-sized businesses. Enjoy the theme's original design, functional features & responsive layouts.</p>
+                                <p>Projektujemy i tworzymy narzędzia marketingowe, podnoszące skuteczność sprzedaży oraz prestiż przedsiębiorcy.</p>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-lg-2 col-sm-6 mt_mobile--40">
                         <div class="footer-widget text-var--2 menu--about">
-                            <h2 class="widgettitle">About us</h2>
+                            <h2 class="widgettitle">O nas</h2>
                             <div class="footer-menu">
                                 <ul class="ft-menu-list bk-hover">
                                     <li>
@@ -35,7 +35,7 @@
                                         <n-link to="/services-classic">Services</n-link>
                                     </li>
                                     <li>
-                                        <n-link to="/contact-us-modern">Contact</n-link>
+                                        <n-link to="/contact-us-modern">Kontakt</n-link>
                                     </li>
                                 </ul>
                             </div>
@@ -44,33 +44,25 @@
 
                     <div class="col-lg-3 col-sm-6 mt_md--40 mt_sm--40">
                         <div class="footer-widget text-var--2 menu--contact">
-                            <h2 class="widgettitle">Contact</h2>
+                            <h2 class="widgettitle">Kontakt</h2>
                             <div class="footer-address">
                                 <div class="bk-hover">
-                                    <p>2005 Stokes Isle Apt. 896, <br> Vacaville 10010, USA</p>
+                                    
                                     <p>
-                                        <a href="mailto:info@yourdomain.com">info@yourdomain.com</a>
+                                        <a href="mailto:do@panpixel.com">do@panpixel.com</a>
                                     </p>
                                     <p>
-                                        <a href="tel:(+68)120034509">(+68) 120034509</a>
+                                        <a href="tel:790 583 100"> 790 583 100</a>
                                     </p>
                                 </div>
                                 <div class="social-share social--transparent text-white">
                                     <a href="https://www.facebook.com/" target="_blank">
                                         <i class="fab fa-facebook"></i>
                                     </a>
-                                    <a href="https://twitter.com/" target="_blank">
-                                        <i class="fab fa-twitter"></i>
-                                    </a>
                                     <a href="https://www.instagram.com/" target="_blank">
                                         <i class="fab fa-instagram"></i>
                                     </a>
-                                    <a href="https://dribbble.com/" target="_blank">
-                                        <i class="fab fa-dribbble"></i>
-                                    </a>
-                                    <a href="https://www.pinterest.com/" target="_blank">
-                                        <i class="fab fa-pinterest"></i>
-                                    </a>
+                               
                                 </div>
                             </div>
                         </div>
@@ -117,13 +109,13 @@
                         <div class="copyright-left text-md-left text-center">
                             <ul class="bk-copyright-menu d-flex bk-hover justify-content-center justify-content-md-start flex-wrap flex-sm-nowrap">
                                 <li>
-                                    <n-link to="/blog-creative">Our Blogs</n-link>
+                                    <n-link to="/blog-grid-modern">Blog</n-link>
                                 </li>
                                 <li>
-                                    <n-link to="/portfolio/portfolio-grid-boxed">Latest Projects</n-link>
+                                    <n-link to="/portfolio/portfolio-grid-wide">Realizacje</n-link>
                                 </li>
                                 <li>
-                                    <n-link to="/contact-us-modern">Contact Us</n-link>
+                                    <n-link to="/contact-us-modern">Kontakt</n-link>
                                 </li>
                             </ul>
                         </div>
@@ -131,8 +123,8 @@
                     <div class="col-md-6">
                         <div class="copyright-right text-md-right text-center">
                             <p>
-                                © 2020 Brook. 
-                                <a href="https://hasthemes.com/" target="_blank"> All Rights Reserved.</a>
+                                © 2020 Panpixel. 
+                                <a href="https://panpixel.com/" target="_blank"> All Rights Reserved.</a>
                             </p>
                         </div>
                     </div>

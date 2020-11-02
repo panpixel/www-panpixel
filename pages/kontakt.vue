@@ -29,7 +29,7 @@
 
         head() {
             return {
-                title: 'Brook || Contact Us Modern'
+                title: 'Kontakt || skuteczne filmy reklamowe'
             }
         },
     };

@@ -12,7 +12,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="breadcrumb-inner text-left">
-                            <h1 class="heading heading-h1 line-height-1-5">We <span class="theme-color">design & build</span><br> brands and digital projects<br> for businesses.</h1>
+                            <h1 class="heading heading-h1 line-height-1-5">Fotografia<br><span class="theme-color">przemysłowa i reklamowa</span></h1>
                         </div>
                     </div>
                 </div>
@@ -21,12 +21,16 @@
 
         <div class="brook-service-list-area">
             <div class="bk-service-list d-block d-md-flex mb--70 align-items-center wow move-up" v-for="service in data.serviceList" :key="service.i">
+              
+
                 <div class="thumb">
                     <img class="w--100" :src="service.image" :alt="service.alt">
                 </div>
+               
+
                 <div class="content plr--130 plr_md--50 plr_sm--40">
                     <h3 class="heading heading-h3">{{ service.title }}</h3>
-                    <div class="bkseparator--35"></div>
+                    <div class="bkseparator--15"></div>
                     <p class="bk_pra">{{ service.desc }}</p>
                 </div>
             </div>
@@ -40,7 +44,7 @@
 </template>
 
 <script>
-    import data from '../data/service.json';
+    import data from '../data/fotografia.json';
     export default {
         components: {
             HeaderAbout: () => import('@/components/HeaderAbout'),
@@ -58,8 +62,29 @@
 
         head() {
             return {
-                title: 'Brook || Service List'
+                title: 'Produkcja filmowa || filmy promocyjne, spoty filmowe'
             }
         },
     };
 </script>
+
+<style lang="scss">
+  .bk-service-list .thumb {
+	flex-shrink: 0;
+	width: 40%;
+}
+
+p.bk_pra {
+	margin-bottom: 0;
+	word-wrap: break-word;
+	max-width: 100%;
+	font-weight: 400;
+	line-height: 1.58;
+	font-size: 18px;
+	font-family: "Inter", sans-serif;
+}
+
+.heading {
+		font-weight: 900;
+}
+</style>

@@ -1,24 +1,24 @@
 {
-    "Title": "Creative procedure",
-    "subTitle": "How We Do",
+    "Title": "Kreatywna Procedura",
+    "subTitle": "Jak To Robimy",
     "gradations": [
         {
             "id": 1,
             "count": "1",
-            "heading": "Brainstorming",
-            "desc": "study the problem and general materials to find out creative concepts."
+            "heading": "Pomysł",
+            "desc": "Analiza problemu i dostępnych możliwości, w celu znalezienia kreatywnego rozwiązania."
         },
         {
             "id": 2,
             "count": "2",
-            "heading": "Approaching",
-            "desc": "quickly translate the visions into reality and patent possible approaches."
+            "heading": "Realizacja",
+            "desc": "Szybkie przekucie wizji na rzeczywistość i wdrożenie możliwego podejścia."
         },
         {
             "id": 3,
             "count": "3",
-            "heading": "Adjusting",
-            "desc": "release approaches out into the world, submit it to criticism & adaptation."
+            "heading": "Dopasowanie",
+            "desc": "Otwarcie na  świat, poddanie się krytyce i dopasowanie realizacji."
         }
     ]
 }

@@ -8,13 +8,14 @@
             </div>
             <div class="col-lg-6 ptb-md--80 ptb-sm--80">
                 <div class="service-content authenthic-service plr--130 plr_lg--70 plr_md--30 plr_sm--30">
-                    <h6 class="heading headin-h6 theme-color letter-spacing-3 theme-color">BEST SERVICES</h6>
+                    <h6 class="heading headin-h6 theme-color letter-spacing-3 theme-color">CO ROBIMY?</h6>
                     <div class="bkseparator--30"></div>
-                    <h1 class="heading heading-h1 heading-font line-height-1-5 move-up wow">Top-notch creative theme for all kind  of
+                    <h2 class="heading heading-h1 heading-font line-height-1-5 move-up wow">Realizujemy filmy biznesowe, spoty wizerunkowe, filmy promocyjne, <br />
                         <span class="theme-color">
-                            <b>graphic</b>
+                            <b>spoty reklamowe i biznesowe.</b>
                         </span>
-                    </h1>
+                         
+                    </h2>
                 </div>
             </div>
 
@@ -38,7 +39,7 @@
             return {
                 videos: [
                     {
-                        src: 'https://www.youtube.com/watch?v=9No-FiEInLA',
+                        src: 'https://vimeo.com/462967760',
                         thumbnail: ""
                     }
                 ],

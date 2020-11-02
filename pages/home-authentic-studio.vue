@@ -17,6 +17,8 @@
 
         <TestimonialFive />
 
+        <ContactUsOne />
+
         <FooterStyleFour />
 
     </div>
@@ -34,6 +36,7 @@
             PortfolioTwo: () => import('@/components/sections/PortfolioTwo'),
             ServiceIconBoxWithTitleStleTwo: () => import('@/components/sections/ServiceIconBoxWithTitleStleTwo'),
             TestimonialFive: () => import('@/components/sections/TestimonialFive'),
+            ContactUsOne: () => import('@/components/ContactUsOne'),
             FooterStyleFour: () => import('@/components/FooterStyleFour'),
         },
 

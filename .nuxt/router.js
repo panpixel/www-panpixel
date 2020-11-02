@@ -7,8 +7,9 @@ const _00e5af30 = () => interopDefault(import('..\\pages\\about-us-01.vue' /* we
 const _0101de32 = () => interopDefault(import('..\\pages\\about-us-03.vue' /* webpackChunkName: "pages/about-us-03" */))
 const _010ff5b3 = () => interopDefault(import('..\\pages\\about-us-04.vue' /* webpackChunkName: "pages/about-us-04" */))
 const _6bf2f264 = () => interopDefault(import('..\\pages\\career.vue' /* webpackChunkName: "pages/career" */))
-const _674b79be = () => interopDefault(import('..\\pages\\contact-us-modern.vue' /* webpackChunkName: "pages/contact-us-modern" */))
 const _11c9f257 = () => interopDefault(import('..\\pages\\contact-us-with-map.vue' /* webpackChunkName: "pages/contact-us-with-map" */))
+const _885a2376 = () => interopDefault(import('..\\pages\\filmowanie.vue' /* webpackChunkName: "pages/filmowanie" */))
+const _e9a08c88 = () => interopDefault(import('..\\pages\\fotografia.vue' /* webpackChunkName: "pages/fotografia" */))
 const _248f6fd8 = () => interopDefault(import('..\\pages\\home-authentic-studio.vue' /* webpackChunkName: "pages/home-authentic-studio" */))
 const _1f746bf3 = () => interopDefault(import('..\\pages\\home-blog-grid.vue' /* webpackChunkName: "pages/home-blog-grid" */))
 const _006918aa = () => interopDefault(import('..\\pages\\home-corona.vue' /* webpackChunkName: "pages/home-corona" */))
@@ -32,9 +33,11 @@ const _3e05894b = () => interopDefault(import('..\\pages\\home-restaurant.vue' /
 const _b5c04ed2 = () => interopDefault(import('..\\pages\\home-service.vue' /* webpackChunkName: "pages/home-service" */))
 const _c98a7218 = () => interopDefault(import('..\\pages\\home-start-up.vue' /* webpackChunkName: "pages/home-start-up" */))
 const _705a3990 = () => interopDefault(import('..\\pages\\home-vertical-menu.vue' /* webpackChunkName: "pages/home-vertical-menu" */))
+const _6342dd00 = () => interopDefault(import('..\\pages\\kontakt.vue' /* webpackChunkName: "pages/kontakt" */))
+const _1efdbda2 = () => interopDefault(import('..\\pages\\o-nas.vue' /* webpackChunkName: "pages/o-nas" */))
 const _77357003 = () => interopDefault(import('..\\pages\\pricing-plans.vue' /* webpackChunkName: "pages/pricing-plans" */))
+const _6d8a6cfc = () => interopDefault(import('..\\pages\\realizacje.vue' /* webpackChunkName: "pages/realizacje" */))
 const _192b4cf3 = () => interopDefault(import('..\\pages\\services-classic.vue' /* webpackChunkName: "pages/services-classic" */))
-const _1080060d = () => interopDefault(import('..\\pages\\services-list.vue' /* webpackChunkName: "pages/services-list" */))
 const _bb770364 = () => interopDefault(import('..\\pages\\services-modern.vue' /* webpackChunkName: "pages/services-modern" */))
 const _ec642924 = () => interopDefault(import('..\\pages\\team-carousel-01.vue' /* webpackChunkName: "pages/team-carousel-01" */))
 const _ec47fa22 = () => interopDefault(import('..\\pages\\team-carousel-02.vue' /* webpackChunkName: "pages/team-carousel-02" */))
@@ -77,8 +80,8 @@ const _341b0ea0 = () => interopDefault(import('..\\pages\\portfolio\\portfolio-g
 const _70298862 = () => interopDefault(import('..\\pages\\portfolio\\portfolio-grid-filter.vue' /* webpackChunkName: "pages/portfolio/portfolio-grid-filter" */))
 const _342f891f = () => interopDefault(import('..\\pages\\portfolio\\portfolio-grid-metro-01.vue' /* webpackChunkName: "pages/portfolio/portfolio-grid-metro-01" */))
 const _344bb821 = () => interopDefault(import('..\\pages\\portfolio\\portfolio-grid-metro-03.vue' /* webpackChunkName: "pages/portfolio/portfolio-grid-metro-03" */))
-const _be3a9a86 = () => interopDefault(import('..\\pages\\portfolio\\portfolio-grid-wide.vue' /* webpackChunkName: "pages/portfolio/portfolio-grid-wide" */))
 const _940bda28 = () => interopDefault(import('..\\pages\\portfolio\\portfolio-with-caption.vue' /* webpackChunkName: "pages/portfolio/portfolio-with-caption" */))
+const _4d6de958 = () => interopDefault(import('..\\pages\\portfolio\\realizacje.vue' /* webpackChunkName: "pages/portfolio/realizacje" */))
 const _629f0bb8 = () => interopDefault(import('..\\pages\\blog\\_id.vue' /* webpackChunkName: "pages/blog/_id" */))
 const _08a9e09c = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
@@ -115,13 +118,17 @@ export const routerOptions = {
     component: _6bf2f264,
     name: "career"
   }, {
-    path: "/contact-us-modern",
-    component: _674b79be,
-    name: "contact-us-modern"
-  }, {
     path: "/contact-us-with-map",
     component: _11c9f257,
     name: "contact-us-with-map"
+  }, {
+    path: "/filmowanie",
+    component: _885a2376,
+    name: "filmowanie"
+  }, {
+    path: "/fotografia",
+    component: _e9a08c88,
+    name: "fotografia"
   }, {
     path: "/home-authentic-studio",
     component: _248f6fd8,
@@ -215,17 +222,25 @@ export const routerOptions = {
     component: _705a3990,
     name: "home-vertical-menu"
   }, {
+    path: "/kontakt",
+    component: _6342dd00,
+    name: "kontakt"
+  }, {
+    path: "/o-nas",
+    component: _1efdbda2,
+    name: "o-nas"
+  }, {
     path: "/pricing-plans",
     component: _77357003,
     name: "pricing-plans"
   }, {
+    path: "/realizacje",
+    component: _6d8a6cfc,
+    name: "realizacje"
+  }, {
     path: "/services-classic",
     component: _192b4cf3,
     name: "services-classic"
-  }, {
-    path: "/services-list",
-    component: _1080060d,
-    name: "services-list"
   }, {
     path: "/services-modern",
     component: _bb770364,
@@ -395,13 +410,13 @@ export const routerOptions = {
     component: _344bb821,
     name: "portfolio-portfolio-grid-metro-03"
   }, {
-    path: "/portfolio/portfolio-grid-wide",
-    component: _be3a9a86,
-    name: "portfolio-portfolio-grid-wide"
-  }, {
     path: "/portfolio/portfolio-with-caption",
     component: _940bda28,
     name: "portfolio-portfolio-with-caption"
+  }, {
+    path: "/portfolio/realizacje",
+    component: _4d6de958,
+    name: "portfolio-realizacje"
   }, {
     path: "/blog/:id?",
     component: _629f0bb8,

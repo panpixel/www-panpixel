@@ -9,7 +9,7 @@
                             <div class="header-left flex-20">
                                 <div class="logo">
                                     <n-link to="/">
-                                        <img src="/img/logo/brook-white.png" alt="Brook Logo">
+                                        <img src="/img/logo/panpixel_logo_white.png" alt="Panpixel.com Logo">
                                     </n-link>
                                 </div>
                             </div>

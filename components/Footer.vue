@@ -13,7 +13,7 @@
                 </div>
                 <div class="col-lg-3 col-xl-2 col-sm-6 mt_mobile--40">
                     <div class="footer-widget menu--about">
-                        <h2 class="widgettitle">About us</h2>
+                        <h2 class="widgettitle">O nas</h2>
                         <div class="footer-menu">
                             <ul class="ft-menu-list bk-hover">
                                 <li>

@@ -10,7 +10,6 @@
                                     <div class="hero-content-2 center">
                                         <h6>{{ slide.subHeading }}</h6>
                                         <h3>{{ slide.heading }}</h3>
-                                        <n-link :to="slide.btnUrl" class="brook-btn bk-btn-white btn-sd-size btn-rounded space-between">White button</n-link>
                                     </div>
                                 </div>
                             </div>
@@ -18,8 +17,9 @@
                     </div>
                 </div>
             </swiper>
-            <!-- Add Pagination -->
-            <div class="swiper-pagination"></div>
+            <!-- Add Pagination 
+            <div class="swiper-pagination"></div> 
+            -->
         </div>
     </div>
 </template>
@@ -44,25 +44,12 @@
                 sliders: [
                     {
                         id: 1,
-                        heading: "revolutionary creations and exquisite designs.",
-                        subHeading: "WE WORK SMART, WE PLAY HARD",
+                        heading: "WIDEO DLA BIZNESU",
+                        subHeading: "reklamy",
                         btnUrl: "/",
-                        bgImage: "/img/slider/authentic-studio-slide-01.jpg"
-                    },
-                    {
-                        id: 2,
-                        heading: "revolutionary creations and exquisite designs.",
-                        subHeading: "WE WORK SMART, WE PLAY HARD",
-                        btnUrl: "/",
-                        bgImage: "/img/slider/authentic-studio-slide-02.jpg"
-                    },
-                    {
-                        id: 3,
-                        heading: "revolutionary creations and exquisite designs.",
-                        subHeading: "WE WORK SMART, WE PLAY HARD",
-                        btnUrl: "/",
-                        bgImage: "/img/slider/authentic-studio-slide-03.jpg"
+                        bgImage: "/img/slider/wschod-slonca.jpg"
                     }
+           
                 ]
             }
         }

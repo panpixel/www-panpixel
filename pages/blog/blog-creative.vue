@@ -61,7 +61,7 @@
             SearchPopup: () => import('@/components/SearchPopup'),
             BlogPostFour: () => import('@/components/BlogPostFour'),
             BlogSidebar: () => import('@/components/BlogSidebar'),
-            FooterTwo: () => import('@/components/FooterTwo'),
+            FooterTwo: () => import('@/components/FooterTwo'), 
         },
         
         data () {

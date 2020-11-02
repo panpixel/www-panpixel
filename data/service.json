@@ -103,22 +103,28 @@
 
     "serviceList": [
         {
-            "image": "/img/service/modern/service-list-1.jpg",
-            "alt": "service image",
-            "title": "Creative services",
-            "desc": "Creative services are a sub sector of the creative industries, a part of the economy that creates wealth by offering creativity for hire to other businesses. Creative Services also means a department within a company that does creative work such as writing, designing, and production. It is often a sub-department of the marketing organization."
+            "image": "https://fast.wistia.com/embed/medias/xn1hqv1tyf/swatch",
+            "video": "https://fast.wistia.com/embed/medias/xn1hqv1tyf.jsonp",
+            "tail":  "wistia_embed wistia_async_xn1hqv1tyf videoFoam=true",            
+            "alt": "WIDEO MARKETING",
+            "title": "WIDEO MARKETING",
+            "desc": "Wideo Marketing to skuteczna metoda promocji. Polega na stworzeniu spotu reklamowego, przedstawiającego produkty i usługi firmy. Takie wideo pozwala na dotarcie do szerokiego grona Klientów, dzięki czemu marka zyskuje na rozpoznawalności. Ten rodzaj przedstawienia firmy daje znacznie lepsze efekty niż inne formy reklamy. Ludzie zwracają większą uwagę na obrazy i filmy, zapamiętują je. "
         },
         {
-            "image": "/img/service/modern/service-list-2.jpg",
+            "image": "https://fast.wistia.com/embed/medias/zi5pv3w19x/swatch",
+            "video": "https://fast.wistia.com/embed/medias/zi5pv3w19x.jsonp",
+            "tail":  "wistia_embed wistia_async_zi5pv3w19x videoFoam=true",  
             "alt": "service image",
-            "title": "Agency services",
-            "desc": "Creative services are a sub sector of the creative industries, a part of the economy that creates wealth by offering creativity for hire to other businesses. Creative Services also means a department within a company that does creative work such as writing, designing, and production. It is often a sub-department of the marketing organization."
+            "title": "FILM PROMOCYJNY",
+            "desc": "Film promocyjny jest rozszerzeniem reklamy, pozwala to zaprezentować pełny zakres produktów i usług firmy. Film umieszczony na stronie internetowej podniesie prestiż i skutecznie przyciągnie uwagę widza. "
         },
         {
-            "image": "/img/service/modern/service-list-3.jpg",
+            "image": "https://fast.wistia.com/embed/medias/5m10gw30ud/swatch",
+            "video": "https://fast.wistia.com/embed/medias/5m10gw30ud.jsonp",
+            "tail":  "wistia_embed wistia_async_5m10gw30ud videoFoam=true",  
             "alt": "service image",
-            "title": "Digital services",
-            "desc": "Creative services are a sub sector of the creative industries, a part of the economy that creates wealth by offering creativity for hire to other businesses. Creative Services also means a department within a company that does creative work such as writing, designing, and production. It is often a sub-department of the marketing organization."
+            "title": "FILM KORPORACYJNY",
+            "desc": "Filmowa prezentacja firmy to uproszczony film promocyjny, doskonały na targi, konferencje, spotkania z klientami, kontrahentami, na firmową stronę internetową, do katalogów branżowych. Doskonałe narzędzie do budowania wizerunku firmy. Za pomocą filmu można pokazać np. etapy produkcji, wybrane realizacje, strukturę firmy, pochwalić się certyfikatami. Prezentacja firmy za pomocą wideo jest dłuższa od tradycyjnego spotu telewizyjnego, zawiera więcej informacji."
         }
     ]
 }

@@ -53,7 +53,7 @@
         },
 
         mounted () {
-            document.body.classList.add('template-color-1', 'template-font-1')
+            document.body.classList.add('template-color-3', 'template-font-3')
         },
 
         head() {
