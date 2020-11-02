@@ -36,7 +36,7 @@
                 </div>
                 <div class="col-lg-6 col-12 pl--50">
                     <div class="contact-form">
-                        <form id="contact-form" name="contact" method="POST" data-netlify="true">
+                        <form id="contact-form" name="kontakt" method="POST" data-netlify="true">
                             <div class="row">
                                 <div class="col-lg-12">
                                     <input name="con_name" type="text" placeholder="Name *">
