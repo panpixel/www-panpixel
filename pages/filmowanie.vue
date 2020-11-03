@@ -61,6 +61,9 @@
             FooterTwo: () => import('@/components/FooterTwo'),
         },
 
+mounted () {
+            document.body.classList.add('template-color-20', 'template-font-3')
+        },
         data () {
             return {
                 data

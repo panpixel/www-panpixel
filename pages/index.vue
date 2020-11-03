@@ -46,7 +46,7 @@
 
         head() {
             return {
-                title: 'Filmowanie ⋆ Projektowanie i Tworzenie stron WWW Jaworzno ⋆ Fotografia'
+                title: 'filmy reklamowe ⋆ spoty reklamowe ⋆ reklama w internecie ⋆ tworzenie stron www ⋆ fotografia'
             }
         },
     };
