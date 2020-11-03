@@ -44,8 +44,8 @@
                 sliders: [
                     {
                         id: 1,
-                        heading: "WIDEO DLA BIZNESU",
-                        subHeading: "reklamy",
+                        heading: "REKLAMA W INTERNECIE",
+                        subHeading: "filmy reklamowe, fotografia, strony internetowe",
                         btnUrl: "/",
                         bgImage: "/img/slider/wschod-slonca.jpg"
                     }
