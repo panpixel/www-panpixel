@@ -19,9 +19,9 @@
                 <div class="col-xl-4 col-lg-5 col-md-6 col-sm-12">
                     <div class="what-do mt--40">
                         <div class="content">
-                            <h5 class="heading heading-h5 theme-color wow move-up">Fresh ideas</h5>
+                            <h5 class="heading heading-h5 theme-color wow move-up">Kreatywni ludzi</h5> 
                             <div class="bkseparator--20"></div>
-                            <p class="bk_pra wow move-up">Brook presents your services with flexible, convenient and multipurpose layouts. You can select your favorite layouts & elements for particular projects with unlimited customization possibilities.</p>
+                            <p class="bk_pra wow move-up">Jesteśmy zespołem kreatywnych ludzi, uzupełniających się nawzajem. Pracując z naszymi klientami staramy się zawsze znaleźć najlepszą drogę od pomysłu do realizacji, zawsze w najbardziej kreatywny i logiczny sposób.</p>
                         </div>
                     </div>
                 </div>

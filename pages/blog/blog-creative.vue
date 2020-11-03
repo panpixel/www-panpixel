@@ -12,7 +12,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="breadcrumb-inner text-center">
-                            <h1 class="heading heading-h1">Creative List</h1>
+                            <h1 class="heading heading-h1">Reklama w internecie</h1>
                         </div>
                     </div>
                 </div>
@@ -71,12 +71,12 @@
         },
 
         mounted () {
-            document.body.classList.add('template-color-1', 'template-font-1')
+            document.body.classList.add('template-color-20', 'template-font-3')
         },
 
         head() {
             return {
-                title: 'Blog Creative List'
+                title: 'bBlog Creative List'
             }
         },
     };

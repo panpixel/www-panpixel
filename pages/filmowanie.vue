@@ -38,7 +38,7 @@
                 <div class="content plr--130 plr_md--50 plr_sm--40">
                     <h3 class="heading heading-h3">{{ service.title }}</h3>
                     <div class="bkseparator--15"></div>
-                    <p class="bk_pra">{{ service.desc }}</p>
+                    <p class="bk_pra" v-html="service.desc"></p>
                 </div>
             </div>
         </div>
