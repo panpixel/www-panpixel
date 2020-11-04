@@ -28,9 +28,9 @@
                 <div class="col-xl-4 col-lg-5 col-md-6 col-sm-12 offset-xl-1">
                     <div class="what-do mt--40">
                         <div class="content">
-                            <h5 class="heading heading-h5 theme-color wow move-up">Unique designs</h5>
+                            <h5 class="heading heading-h5 theme-color wow move-up">Narzędzia marketingowe</h5>
                             <div class="bkseparator--20"></div>
-                            <p class="bk_pra wow move-up">Pixel-perfect replication of the designers is intended for both front-end & back-end developers to build their pages with greater comfort thanks to the higher custom ability as well as flexibility.</p>
+                            <p class="bk_pra wow move-up">Projektujemy i tworzymy narzędzia marketingowe, podnoszące skuteczność sprzedaży oraz prestiż przedsiębiorcy.</p>
                         </div>
                     </div>
                 </div>
