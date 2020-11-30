@@ -36,37 +36,48 @@
                 </div>
                 <div class="col-lg-6 col-12 pl--50">
                     <div class="contact-form">
-                        <form id="contact-form" name="kontakt" action="/" method="POST" netlify netlify-honeypot="bot-field">
-                        
-                            <input type="hidden" name="form-name" value="kontakt" />
+                        <form class="form-style--1 wow move-up" name="kontakt" action="/" method="POST" netlify netlify-honeypot="bot-field">
                             <div class="row">
-                                <div class="col-lg-12">
-                                    <input name="con_name" type="text" placeholder="Name *">
-                                </div>
 
-                                <div class="col-lg-12 mt--30">
-                                    <input name="con_email" type="text" placeholder="Email *">
-                                </div>
-
-                                <div class="col-lg-12 mt--30">
-                                    <input type="text" name="con_phone" placeholder="Phone number">
-                                </div>
-
-                                <div class="col-lg-12 mt--30">
-                                    <textarea name="con_message" placeholder="Your message"></textarea>
-                                </div>
-
-                                <div class="col-12 mt--30">
-                                    <div class="check-box">
-                                        <input type="checkbox" name="check" id="check">
-                                        <label for="check">Zgoda</label>
+                                <div class="col-lg-6">
+                                    <div class="input-box">
+                                        <span class="form-icon far fa-user"></span>
+                                        <input type="text" placeholder="Name *">
                                     </div>
                                 </div>
-                               
-                                <div class="col-lg-12 mt--30">
-                                    <input type="submit" value="Wyślij">
-                                    <p class="form-messege"></p>
+
+                                <div class="col-lg-6">
+                                    <div class="input-box">
+                                        <span class="form-icon far fa-envelope"></span>
+                                        <input type="text" placeholder="Email *">
+                                    </div>
                                 </div>
+
+                                <div class="col-lg-12">
+                                    <div class="input-box">
+                                        <span class="form-icon fas fa-mobile-alt"></span>
+                                        <input type="text" placeholder="Phone number">
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-12">
+                                    <div class="input-box">
+                                        <textarea placeholder="Your message"></textarea>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-12">
+                                    <div class="form-action">
+                                        <div class="form-description">
+                                            I’m available for commissions and collaborations, and i’m <br> excited to hear from you about new projects
+                                        </div>
+                                        <div class="form-submit">
+                                            <input type="submit" value="Send message">
+                                            <p class="form-messege"></p>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
                         </form>
                     </div>
