@@ -37,32 +37,34 @@
                 <div class="col-lg-6 col-12 pl--50">
                     <div class="contact-form">
                         <form class="form-style--1 wow move-up" name="kontakt" action="/" method="POST" netlify netlify-honeypot="bot-field">
+                            
+                            <input type="hidden" name="form-name" value="kontakt" />
                             <div class="row">
 
                                 <div class="col-lg-6">
                                     <div class="input-box">
                                         <span class="form-icon far fa-user"></span>
-                                        <input type="text" placeholder="Name *">
+                                        <input name="con_name" type="text" placeholder="Name *">
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6">
                                     <div class="input-box">
                                         <span class="form-icon far fa-envelope"></span>
-                                        <input type="text" placeholder="Email *">
+                                        <input name="con_email" type="text" placeholder="Email *">
                                     </div>
                                 </div>
 
                                 <div class="col-lg-12">
                                     <div class="input-box">
                                         <span class="form-icon fas fa-mobile-alt"></span>
-                                        <input type="text" placeholder="Phone number">
+                                        <input name="con_phone" type="text" placeholder="Phone number">
                                     </div>
                                 </div>
 
                                 <div class="col-lg-12">
                                     <div class="input-box">
-                                        <textarea placeholder="Your message"></textarea>
+                                        <textarea name="con_message" placeholder="Your message"></textarea>
                                     </div>
                                 </div>
 
