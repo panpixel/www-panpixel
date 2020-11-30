@@ -49,7 +49,7 @@
                 <!-- Start COntact Form -->
                 <div class="col-xl-8 offset-xl-1 col-lg-9 col-12 mt_md--40 mt_sm--40">
                     <div class="contact-form">
-                        <form class="form-style--1 wow move-up">
+                        <form class="form-style--1 wow move-up" name="kontakt" action="/" method="POST" netlify netlify-honeypot="bot-field">
                             <div class="row">
 
                                 <div class="col-lg-6">
@@ -86,6 +86,7 @@
                                         </div>
                                         <div class="form-submit">
                                             <input type="submit" value="Send message">
+                                            <p class="form-messege"></p>
                                         </div>
                                     </div>
                                 </div>
