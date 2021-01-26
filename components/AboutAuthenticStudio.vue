@@ -4,7 +4,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="about-inner authenthick-about pr--30">
-                        <h6 class="heading headin-h6 theme-color wow move-up">FILMOWANIE, PROJEKTOWANIE</h6>
+                        <h6 class="heading headin-h6 theme-color wow move-up">Produkcja filmowa i fotograficzna</h6>
                         <div class="bkseparator--30"></div>
                         <h3 class="heading heading-h3 heading-font line-height-1-5 wow move-up">
                             KOMUNIKUJEMY SIĘ POPRZEZ OBRAZ 
@@ -28,7 +28,7 @@
                     </div>
                      <div class="bkseparator--10"></div> 
                          <p class="bk_pra font-20 line-height-1-6 dark-2 heading-font2 wow move-up">
-                        Za pomocą obrazu wzbogaconego o odpowiedni tekst, skutecznie docieramy do określonej grupy odbiorców. 
+                        Za pomocą obrazu i dźwięku wzbogaconego o odpowiedni tekst, skutecznie docieramy do określonej grupy odbiorców. 
                         Projektujemy i tworzymy narzędzia marketingowe, podnoszące sprzedaż i prestiż.
                         </p>
                         
@@ -52,19 +52,19 @@
             return {
                 lists: [
                     {
-                        title: 'Film',
+                        title: 'Film promocyjne',
                         marker: 1,
                     },
                     {
-                        title: 'Fotografia',
+                        title: 'Spoty reklamowe ',
                         marker: 2,
                     },
                     {
-                        title: 'Ilustracja',
+                        title: 'Filmy reklamowe',
                         marker: 3,
                     },
                     {
-                        title: 'Animacja',
+                        title: 'Fotografia reklamowa',
                         marker: 4,
                     }
                 

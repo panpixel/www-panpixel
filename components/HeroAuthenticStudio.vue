@@ -30,8 +30,11 @@
             return {
                 swiperOption: {
                     spaceBetween: 20,
+                    autoplay: {
+                        delay: 3000,
+                    },
                     loop: true,
-                    speed: 1000,
+                    speed: 500,
                     pagination: {
                         el: '.swiper-pagination',
                         clickable: true,
@@ -44,7 +47,15 @@
                 sliders: [
                     {
                         id: 1,
-                        heading: "REKLAMA W INTERNECIE",
+                        heading: "FILMY, SPOTY REKLAMOWE",
+                        subHeading: "filmy reklamowe, fotografia, strony internetowe",
+                        btnUrl: "/",
+                        bgImage: "/img/slider/wschod-slonca.jpg"
+                    },
+
+                    {
+                        id: 2,
+                        heading: "WIDEO MARKETING",
                         subHeading: "filmy reklamowe, fotografia, strony internetowe",
                         btnUrl: "/",
                         bgImage: "/img/slider/wschod-slonca.jpg"
