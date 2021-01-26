@@ -71,7 +71,7 @@
 <style lang="scss">
   .bk-service-list .thumb {
 	flex-shrink: 0;
-	width: 40%;
+	width: 100%;
 }
 
 p.bk_pra {
