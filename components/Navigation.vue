@@ -22,20 +22,20 @@
                 
             </li>
 
-            <li class="lavel-1 with--drop slide--megamenu">
+            <li class="lavel-1">
                 <n-link to="/filmowanie">
                     <span>Filmowanie</span>
                 </n-link>
          
             </li>
-            <li class="lavel-1 with--drop slide--megamenu">
+            <li class="lavel-1">
                 <n-link to="/fotografia">
                     <span>Fotografia</span>
                 </n-link>
          
             </li>
             <li class="lavel-1">
-                <n-link to="/blog/blog-creative">
+                <n-link to="/blog/wideomarketing">
                     <span>Blog</span>
                 </n-link>
                

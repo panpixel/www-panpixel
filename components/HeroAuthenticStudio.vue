@@ -50,7 +50,7 @@
                         heading: "FILMY, SPOTY REKLAMOWE",
                         subHeading: "filmy reklamowe, fotografia, strony internetowe",
                         btnUrl: "/",
-                        bgImage: "/img/slider/wschod-slonca.jpg"
+                        bgImage: "/img/slider/film-reklamowy-dla-biznesu.jpg"
                     },
 
                     {
@@ -58,7 +58,7 @@
                         heading: "WIDEO MARKETING",
                         subHeading: "filmy reklamowe, fotografia, strony internetowe",
                         btnUrl: "/",
-                        bgImage: "/img/slider/wschod-slonca.jpg"
+                        bgImage: "/img/slider/spot-reklamowy-dla-biznesu.jpg"
                     }
            
                 ]

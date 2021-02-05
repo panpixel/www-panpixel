@@ -42,10 +42,12 @@ const _bb770364 = () => interopDefault(import('..\\pages\\services-modern.vue' /
 const _ec642924 = () => interopDefault(import('..\\pages\\team-carousel-01.vue' /* webpackChunkName: "pages/team-carousel-01" */))
 const _ec47fa22 = () => interopDefault(import('..\\pages\\team-carousel-02.vue' /* webpackChunkName: "pages/team-carousel-02" */))
 const _9b3864d4 = () => interopDefault(import('..\\pages\\team-grid.vue' /* webpackChunkName: "pages/team-grid" */))
+const _385448db = () => interopDefault(import('..\\pages\\blog\\5-sposobow-na-film-reklamowy.vue' /* webpackChunkName: "pages/blog/5-sposobow-na-film-reklamowy" */))
 const _bcd9a810 = () => interopDefault(import('..\\pages\\blog\\blog-creative.vue' /* webpackChunkName: "pages/blog/blog-creative" */))
 const _4683d089 = () => interopDefault(import('..\\pages\\blog\\blog-details.vue' /* webpackChunkName: "pages/blog/blog-details" */))
 const _25e053d4 = () => interopDefault(import('..\\pages\\blog\\blog-details-modern-layout.vue' /* webpackChunkName: "pages/blog/blog-details-modern-layout" */))
 const _943ca258 = () => interopDefault(import('..\\pages\\blog\\blog-grid-classic.vue' /* webpackChunkName: "pages/blog/blog-grid-classic" */))
+const _2e69c8f1 = () => interopDefault(import('..\\pages\\blog\\blog-grid-classic copy.vue' /* webpackChunkName: "pages/blog/blog-grid-classic copy" */))
 const _aa727c3a = () => interopDefault(import('..\\pages\\blog\\blog-grid-classic-sidebar.vue' /* webpackChunkName: "pages/blog/blog-grid-classic-sidebar" */))
 const _a3a7b0fa = () => interopDefault(import('..\\pages\\blog\\blog-grid-mesonry.vue' /* webpackChunkName: "pages/blog/blog-grid-mesonry" */))
 const _4fd6373a = () => interopDefault(import('..\\pages\\blog\\blog-grid-minimal.vue' /* webpackChunkName: "pages/blog/blog-grid-minimal" */))
@@ -54,6 +56,7 @@ const _4439dc4d = () => interopDefault(import('..\\pages\\blog\\blog-grid-modern
 const _666b2160 = () => interopDefault(import('..\\pages\\blog\\blog-grid-simple.vue' /* webpackChunkName: "pages/blog/blog-grid-simple" */))
 const _bb69392a = () => interopDefault(import('..\\pages\\blog\\blog-grid-standard.vue' /* webpackChunkName: "pages/blog/blog-grid-standard" */))
 const _493daa96 = () => interopDefault(import('..\\pages\\blog\\blog-standard-list.vue' /* webpackChunkName: "pages/blog/blog-standard-list" */))
+const _b1b791c8 = () => interopDefault(import('..\\pages\\blog\\wideomarketing.vue' /* webpackChunkName: "pages/blog/wideomarketing" */))
 const _7b88acc8 = () => interopDefault(import('..\\pages\\element\\accordion.vue' /* webpackChunkName: "pages/element/accordion" */))
 const _962ce7e6 = () => interopDefault(import('..\\pages\\element\\brand-logo.vue' /* webpackChunkName: "pages/element/brand-logo" */))
 const _493be0b4 = () => interopDefault(import('..\\pages\\element\\call-to-action-banner.vue' /* webpackChunkName: "pages/element/call-to-action-banner" */))
@@ -70,6 +73,13 @@ const _2eea4698 = () => interopDefault(import('..\\pages\\element\\pricing-box.v
 const _6644b269 = () => interopDefault(import('..\\pages\\element\\tab.vue' /* webpackChunkName: "pages/element/tab" */))
 const _378cc339 = () => interopDefault(import('..\\pages\\element\\team.vue' /* webpackChunkName: "pages/element/team" */))
 const _59c40673 = () => interopDefault(import('..\\pages\\element\\testimonial.vue' /* webpackChunkName: "pages/element/testimonial" */))
+const _4d232464 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\lukasiewicz.vue' /* webpackChunkName: "pages/filmy-reklamowe/lukasiewicz" */))
+const _28627770 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\portfolio-details.vue' /* webpackChunkName: "pages/filmy-reklamowe/portfolio-details" */))
+const _273e9094 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\sanen.vue' /* webpackChunkName: "pages/filmy-reklamowe/sanen" */))
+const _0368e5a9 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\ventix.vue' /* webpackChunkName: "pages/filmy-reklamowe/ventix" */))
+const _3f455e48 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\zlo.vue' /* webpackChunkName: "pages/filmy-reklamowe/zlo" */))
+const _023f5250 = () => interopDefault(import('..\\pages\\fotografia-reklamowa\\fornit.vue' /* webpackChunkName: "pages/fotografia-reklamowa/fornit" */))
+const _16e420cc = () => interopDefault(import('..\\pages\\fotografia-reklamowa\\ventix.vue' /* webpackChunkName: "pages/fotografia-reklamowa/ventix" */))
 const _6bdf7548 = () => interopDefault(import('..\\pages\\portfolio\\portfolio-ajax-filter.vue' /* webpackChunkName: "pages/portfolio/portfolio-ajax-filter" */))
 const _40316ec5 = () => interopDefault(import('..\\pages\\portfolio\\portfolio-details.vue' /* webpackChunkName: "pages/portfolio/portfolio-details" */))
 const _7b04176e = () => interopDefault(import('..\\pages\\portfolio\\portfolio-details-image-with-caption.vue' /* webpackChunkName: "pages/portfolio/portfolio-details-image-with-caption" */))
@@ -258,6 +268,10 @@ export const routerOptions = {
     component: _9b3864d4,
     name: "team-grid"
   }, {
+    path: "/blog/5-sposobow-na-film-reklamowy",
+    component: _385448db,
+    name: "blog-5-sposobow-na-film-reklamowy"
+  }, {
     path: "/blog/blog-creative",
     component: _bcd9a810,
     name: "blog-blog-creative"
@@ -273,6 +287,10 @@ export const routerOptions = {
     path: "/blog/blog-grid-classic",
     component: _943ca258,
     name: "blog-blog-grid-classic"
+  }, {
+    path: "/blog/blog-grid-classic copy",
+    component: _2e69c8f1,
+    name: "blog-blog-grid-classic copy"
   }, {
     path: "/blog/blog-grid-classic-sidebar",
     component: _aa727c3a,
@@ -305,6 +323,10 @@ export const routerOptions = {
     path: "/blog/blog-standard-list",
     component: _493daa96,
     name: "blog-blog-standard-list"
+  }, {
+    path: "/blog/wideomarketing",
+    component: _b1b791c8,
+    name: "blog-wideomarketing"
   }, {
     path: "/element/accordion",
     component: _7b88acc8,
@@ -369,6 +391,34 @@ export const routerOptions = {
     path: "/element/testimonial",
     component: _59c40673,
     name: "element-testimonial"
+  }, {
+    path: "/filmy-reklamowe/lukasiewicz",
+    component: _4d232464,
+    name: "filmy-reklamowe-lukasiewicz"
+  }, {
+    path: "/filmy-reklamowe/portfolio-details",
+    component: _28627770,
+    name: "filmy-reklamowe-portfolio-details"
+  }, {
+    path: "/filmy-reklamowe/sanen",
+    component: _273e9094,
+    name: "filmy-reklamowe-sanen"
+  }, {
+    path: "/filmy-reklamowe/ventix",
+    component: _0368e5a9,
+    name: "filmy-reklamowe-ventix"
+  }, {
+    path: "/filmy-reklamowe/zlo",
+    component: _3f455e48,
+    name: "filmy-reklamowe-zlo"
+  }, {
+    path: "/fotografia-reklamowa/fornit",
+    component: _023f5250,
+    name: "fotografia-reklamowa-fornit"
+  }, {
+    path: "/fotografia-reklamowa/ventix",
+    component: _16e420cc,
+    name: "fotografia-reklamowa-ventix"
   }, {
     path: "/portfolio/portfolio-ajax-filter",
     component: _6bdf7548,

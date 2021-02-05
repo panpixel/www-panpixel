@@ -58,7 +58,7 @@
 
         head() {
             return {
-                title: 'Portfolio Grid – Wide'
+                title: 'Filmy reklamowe, spoty reklamowe'
             }
         },
     };

@@ -11,15 +11,17 @@
 
         <VideoService />
 
-        <PortfolioTwo addClass="pt--130 pb--100 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
+        <PortfolioFilmy addClass="pt--130 pb--30 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
+        <PortfolioFotografia addClass="pt--30 pb--100 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
+
 
         <ServiceIconBoxWithTitleStleTwo class="pt-0 pb-0" />
 
-        <TestimonialFive />
+        <TestimonialTwo />
 
         
 
-        <FooterStyleFour />
+        <PanpixelFooterTwo />
 
     </div>
 </template>
@@ -33,15 +35,16 @@
             HeroAuthenticStudio: () => import('@/components/HeroAuthenticStudio'),
             AboutAuthenticStudio: () => import('@/components/AboutAuthenticStudio'),
             VideoService: () => import('@/components/VideoService'),
-            PortfolioTwo: () => import('@/components/sections/PortfolioTwo'),
+            PortfolioFilmy: () => import('@/components/sections/PortfolioFilmy'),
+            PortfolioFotografia: () => import('@/components/sections/PortfolioFotografia'),
             ServiceIconBoxWithTitleStleTwo: () => import('@/components/sections/ServiceIconBoxWithTitleStleTwo'),
-            TestimonialFive: () => import('@/components/sections/TestimonialFive'),
+            TestimonialTwo: () => import('@/components/sections/TestimonialTwo'),
             
-            FooterStyleFour: () => import('@/components/FooterStyleFour'),
+            PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
         },
          
         mounted () {
-            document.body.classList.add('template-color-20', 'template-font-3')
+            document.body.classList.add('template-color-20', 'template-font-1')
         },
 
         head() {

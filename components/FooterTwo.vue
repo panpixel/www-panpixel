@@ -23,16 +23,16 @@
                             <div class="footer-menu">
                                 <ul class="ft-menu-list bk-hover">
                                     <li>
-                                        <n-link to="/about-us-01">About Us</n-link>
+                                        <n-link to="/about-us-01">O nas</n-link>
                                     </li>
                                     <li>
-                                        <n-link to="/team-grid">Team</n-link>
+                                        <n-link to="/team-grid">Realizacje</n-link>
                                     </li>
                                     <li>
-                                        <n-link to="/career">Career</n-link>
+                                        <n-link to="/career">Filmowanie</n-link>
                                     </li>
                                     <li>
-                                        <n-link to="/services-classic">Services</n-link>
+                                        <n-link to="/services-classic">Kontakt</n-link>
                                     </li>
                                     <li>
                                         <n-link to="/contact-us-modern">Kontakt</n-link>
@@ -49,7 +49,7 @@
                                 <div class="bk-hover">
                                     
                                     <p>
-                                        <a href="mailto:do@panpixel.com">do@panpixel.com</a>
+                                        <a href="mailto:wojtek@panpixel.studio">wojtek@panpixel.studio</a>
                                     </p>
                                     <p>
                                         <a href="tel:790 583 100"> 790 583 100</a>

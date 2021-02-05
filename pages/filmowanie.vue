@@ -91,7 +91,7 @@ p.bk_pra {
 	font-weight: 400;
 	line-height: 1.58;
 	font-size: 18px;
-	font-family: "Inter", sans-serif;
+	font-family: "Poppins", sans-serif;
 }
 
 .heading {

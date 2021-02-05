@@ -23,7 +23,7 @@
                                     <!-- Start Social Icon -->
                                     <ul class="social-icon icon-size-medium text-center tooltip-layout d-none d-sm-flex text-dark-2">
                                         <li class="facebook">
-                                            <a href="https://www.facebook.com/" class="link hint--bounce hint--top hint--white" aria-label="Facebook" target="_blank">
+                                            <a href="https://www.facebook.com/panpixelCom" class="link hint--bounce hint--top hint--white" aria-label="Facebook" target="_blank">
                                                 <i class="fab fa-facebook"></i>
                                             </a>
                                         </li>

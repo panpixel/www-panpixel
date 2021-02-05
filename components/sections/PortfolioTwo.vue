@@ -4,15 +4,15 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="brook-section-title text-center mb--60">
-                        <h6 class="heading heading-h6 theme-color font-blod">PORTFOLIOS</h6>
+                        <h6 class="heading heading-h6 theme-color font-blod">Przykładowe filmy reklamowe, studium przypadków, case study</h6>
                         <div class="bkseparator--40"></div>
-                        <h2 class="heading heading-h2 heading-font">Nasze realizacje</h2>
+                        <h2 class="heading heading-h2 heading-font">Produkcja filmów reklamowych</h2>
                     </div>
                 </div>
             </div>
             <div class="row mtn--30">
                 <div class="col-lg-4 col-sm-6 mt--30" v-for="portfolio in data.portfolioItems.slice(0, 6)" :key="portfolio.id">
-                    <PortfolioItemCaptionBottom :portfolio="portfolio" />
+                    <PortfolioItemCenterCaption :portfolio="portfolio" />
                 </div>
             </div>
         </div>
@@ -36,7 +36,7 @@
         props: ["addClass", "seperator"],
 
         components: {
-            PortfolioItemCaptionBottom: () => import('@/components/PortfolioItemCaptionBottom'),
+            PortfolioItemCenterCaption: () => import('@/components/PortfolioItemCenterCaption'),
         },
 
         data () {

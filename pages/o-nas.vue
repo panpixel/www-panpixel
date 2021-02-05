@@ -20,9 +20,9 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="bk-title--default text-center">
-                            <h5 class="heading heading-h5 theme-color">Jak To Robimy</h5>
+                            <h5 class="heading heading-h5 theme-color">PROCES REALIZACJI</h5>
                             <div class="bkseparator--30"></div>
-                            <h3 class="heading heading-h3">Kreatywna Procedura</h3>
+                            <h3 class="heading heading-h3">Tak będzie wyglądać realizacja Twojego zlecenia</h3>
                         </div>
 
                         <GradationOne />

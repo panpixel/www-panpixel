@@ -4,14 +4,14 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="about-inner authenthick-about pr--30">
-                        <h6 class="heading headin-h6 theme-color wow move-up">Produkcja filmowa i fotograficzna</h6>
+                        <h6 class="heading headin-h6 theme-color letter-spacing-3 wow move-up">PRODUKCJA FILMOWA I FOTOGRAFICZNA</h6>
                         <div class="bkseparator--30"></div>
                         <h3 class="heading heading-h3 heading-font line-height-1-5 wow move-up">
                             KOMUNIKUJEMY SIĘ POPRZEZ OBRAZ 
                         </h3>
 
                         <div class="bkseparator--40"></div>
-                        <p class="bk_pra font-20 line-height-1-6 dark-2 heading-font2 wow move-up">
+                        <p class="bk_pra font-18 line-height-1-6 dark-2 heading-font1 wow move-up">
                         Wykorzystujemy takie formy przekazu jak:
                         </p>
                    <div class="bkseparator--10"></div>   
@@ -20,14 +20,14 @@
                             <div class="list-header with-ckeck" v-for="list in lists" :key="list.i">
                                 <div class="marker"></div>
                                 <div class="title-wrap">
-                                    <h6 class="heading heading-h5">{{ list.title }}</h6>
+                                    <h6 class="heading heading-h3">{{ list.title }}</h6>
                                 </div>
                             </div>
                         </div>
 
                     </div>
                      <div class="bkseparator--10"></div> 
-                         <p class="bk_pra font-20 line-height-1-6 dark-2 heading-font2 wow move-up">
+                         <p class="bk_pra font-18 line-height-1-6 dark-2 heading-font1 wow move-up">
                         Za pomocą obrazu i dźwięku wzbogaconego o odpowiedni tekst, skutecznie docieramy do określonej grupy odbiorców. 
                         Projektujemy i tworzymy narzędzia marketingowe, podnoszące sprzedaż i prestiż.
                         </p>
@@ -52,7 +52,7 @@
             return {
                 lists: [
                     {
-                        title: 'Film promocyjne',
+                        title: 'Filmy reklamowe',
                         marker: 1,
                     },
                     {
@@ -60,11 +60,11 @@
                         marker: 2,
                     },
                     {
-                        title: 'Filmy reklamowe',
+                        title: 'Fotografia reklamowa',
                         marker: 3,
                     },
                     {
-                        title: 'Fotografia reklamowa',
+                        title: 'Strony internetowe',
                         marker: 4,
                     }
                 

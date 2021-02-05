@@ -76,7 +76,7 @@
 
         head() {
             return {
-                title: 'bBlog Creative List'
+                title: 'Skuteczne sposoby na film reklamowy'
             }
         },
     };

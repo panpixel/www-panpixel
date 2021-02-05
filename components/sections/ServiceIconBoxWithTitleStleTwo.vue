@@ -5,9 +5,9 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="brook-section-title text-center mb--20">
-                            <h6 class="heading heading-h6 theme-color font-blod">REASONS WHY</h6>
+                            <h6 class="heading heading-h3 theme-color letter-spacing-3 font-blod">PROCES REALIZACJI</h6>
                             <div class="bkseparator--40"></div>
-                            <h2 class="heading heading-h2 heading-font">We're trusted by clients</h2>
+                            <h2 class="heading heading-h2 heading-font">Tak będzie wyglądać realizacja Twojego zlecenia</h2>
                         </div>
                     </div>
                 </div>

@@ -3,37 +3,39 @@
         <div class="bk-footer-inner pt--150 pb--100 pt_sm--80 pb_sm--40 pt_md--80 pb_md--40">
             <div class="row">
                 <div class="col-lg-6 col-xl-6">
-                    <div class="bk-footer-widget">
+                       <div class="footer-widget text-var--2">
                         <h2 class="heading heading-h2 text-white line-height-1-39">
-                            Start working on a <br> new project?
+                            Stwórzmy razem <br> coś ładnego!
                         </h2>
+                        <div class="footer-inner">
+                         <p>Projektujemy i tworzymy narzędzia marketingowe, podnoszące skuteczność sprzedaży oraz prestiż przedsiębiorcy.</p>
+                        </div>
+                        
                     </div>
                 </div>
 
                 <div class="col-lg-6 col-xl-5 offset-xl-1">
                     <div class="bk-footer-widget menu--contact mt_md--30 mt_sm--30">
-                        <h4 class="heading heading-h4 text-white line-height-1-2">Contact us</h4>
+                        <h4 class="heading heading-h4 text-white line-height-1-2">Skontaktuj się z nami</h4>
                         <div class="bkseparator--35"></div>
                         <div class="footer-address">
                             <div class="row">
                                 <div class="col-lg-7 col-md-6 col-sm-6 col-12">
                                     <p class="bk_pra line-height-1-63 text-white">
-                                        2005 Stokes Isle Apt. 896, <br> Vacaville 10010, USA
+                                        2005 Stokes Isle Apt. 896, <br> Jaworzno, woj. śląskie
                                     </p>
                                     <div class="social-share social--transparent text-white mt--45">
                                         <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a>
-                                        <a href="https://twitter.com/explore" target="_blank"><i class="fab fa-twitter"></i></a>
                                         <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
-                                        <a href="https://dribbble.com/" target="_blank"><i class="fab fa-dribbble"></i></a>
-                                        <a href="https://www.pinterest.com/" target="_blank"><i class="fab fa-pinterest"></i></a>
+                                        
                                     </div>
                                 </div>
                                 <div class="col-lg-5 col-md-6 col-sm-6 col-12 mt_mobile--30">
                                     <p class="bk_pra line-height-1-63 bk-hover">
-                                        <a class="text-white" href="mailto:info@yourdomain.com">info@yourdomain.com</a>
+                                        <a class="text-white" href="mailto:wojtek@panpixel.studio">wojtek@panpixel.studio</a>
                                     </p>
                                     <p class="bk_pra line-height-1-63 bk-hover">
-                                        <a class="text-white" href="tel:(+68)120034509">(+68) 120034509</a>
+                                        <a class="text-white" href="tel:(+48)790583100">(+48) 790583100</a>
                                     </p>
                                 </div>
                             </div>

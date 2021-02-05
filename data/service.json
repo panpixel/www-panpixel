@@ -3,25 +3,25 @@
         {
             "id": 1,
             "icon": "ion-ios-eye-outline",
-            "heading": "Modern Design",
+            "heading": "Propozycja scenariusza",
             "desc": "Brook embraces a modern look with various enhanced pre-defined page elements."
         },
         {
             "id": 2,
             "icon": "ion-ios-bookmarks-outline",
-            "heading": "UI/UX designs",
+            "heading": "Przygotowanie treści",
             "desc": "We successfully implemented numerous UI/UX projects for both global & local clients."
         },
         {
             "id": 3,
-            "icon": "ion-ios-browsers-outline",
-            "heading": "SEO marketing",
+            "icon": "ion-ios-cloudy-outline",
+            "heading": "Publikacja",
             "desc": "Brook is highly responsive thanks to built-in WP Bakery Page Builder & Slider Revolution."
         },
         {
             "id": 4,
             "icon": "ion-ios-bell-outline",
-            "heading": "Resource use",
+            "heading": "Publikacja",
             "desc": "We participate in knowledge and technology transfers in resource use."
         },
         {
