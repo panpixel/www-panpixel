@@ -13,7 +13,7 @@
 
         <AboutSkill />
 
-        <FlexibleSlider />
+        <PanpixelFlexibleSlider />
 
         <div class="brook-gradation-area ptb--150 ptb-md--80 ptb-sm--60 bg_color--1 basic-thine-line">
             <div class="container">
@@ -25,7 +25,7 @@
                             <h3 class="heading heading-h3">Tak będzie wyglądać realizacja Twojego zlecenia</h3>
                         </div>
 
-                        <GradationOne />
+                        <PanpixelProcesRealizacji />
                     </div>
                 </div>
             </div>
@@ -51,8 +51,8 @@
             AboutBreadcrumb: () => import('@/components/AboutBreadcrumb'),
             WhatWeDo: () => import('@/components/WhatWeDo'),
             AboutSkill: () => import('@/components/AboutSkill'),
-            FlexibleSlider: () => import('@/components/FlexibleSlider'),
-            GradationOne: () => import('@/components/GradationOne'),
+            PanpixelFlexibleSlider: () => import('@/components/PanpixelFlexibleSlider'),
+            PanpixelProcesRealizacji: () => import('@/components/PanpixelProcesRealizacji'),
             TestimonialTwo: () => import('@/components/sections/TestimonialTwo'),
             BrandLogoCarousel: () => import('@/components/BrandLogoCarousel'),
             CallToAction: () => import('@/components/CallToAction'),
