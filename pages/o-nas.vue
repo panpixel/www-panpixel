@@ -1,18 +1,11 @@
 <template>
     <div class="main-container">
 
-        <HeaderAbout />
-
-        <OffCanvasMobileMenu />
-
-        <SearchPopup />
-
-        <AboutBreadcrumb />
-
-        <WhatWeDo />
-
-        <AboutSkill />
-
+        <PanpixelHeaderOnas />
+        <PanpixelMobileMenu />
+        <PanpixelBanerOnas />
+        <PanpixelWhatWeDo />
+        <PanpixelOnasSkill />
         <PanpixelFlexibleSlider />
 
         <div class="brook-gradation-area ptb--150 ptb-md--80 ptb-sm--60 bg_color--1 basic-thine-line">
@@ -45,12 +38,11 @@
 <script>
     export default {
         components: {
-            HeaderAbout: () => import('@/components/HeaderAbout'),
-            OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
-            SearchPopup: () => import('@/components/SearchPopup'),
-            AboutBreadcrumb: () => import('@/components/AboutBreadcrumb'),
-            WhatWeDo: () => import('@/components/WhatWeDo'),
-            AboutSkill: () => import('@/components/AboutSkill'),
+            PanpixelHeaderOnas: () => import('@/components/PanpixelHeaderOnas'),
+            PanpixelMobileMenu: () => import('@/components/PanpixelMobileMenu'),
+            PanpixelBanerOnas : () => import('@/components/PanpixelBanerOnas'),
+            PanpixelWhatWeDo: () => import('@/components/PanpixelWhatWeDo'),
+            PanpixelOnasSkill: () => import('@/components/PanpixelOnasSkill'),
             PanpixelFlexibleSlider: () => import('@/components/PanpixelFlexibleSlider'),
             PanpixelProcesRealizacji: () => import('@/components/PanpixelProcesRealizacji'),
             TestimonialTwo: () => import('@/components/sections/TestimonialTwo'),
