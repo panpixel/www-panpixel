@@ -66,16 +66,11 @@
                                         <div class="marker"></div>
                                         <div class="title-wrap">
                                         <h5 class="heading heading-h5">Referencje</h5>
-                                       <p class="bk_pra wow move-up">w filmie są zawarte wywiady z ludźmi, którzy mieli do czynienia z Twoją firmą i są z tej współpracy zadowoleni; opowiadają w jaki sposób rozwiązałeś ich problem.</p>
+                                       <p class="bk_pra wow move-up">W filmie są zawarte wywiady z ludźmi, którzy mieli do czynienia z Twoją firmą i są z tej współpracy zadowoleni; opowiadają w jaki sposób rozwiązałeś ich problem.</p>
                                        </div>
                                        </div>
                                        </div>
-                                       <!-- End Single List -->
-
-
-
-
-                                           
+                                       <!-- End Single List -->                                         
                                             
                                             
                                             
@@ -86,13 +81,17 @@
                                         <img class="w-100" src="/img/blog/big-img/standard-post-2.jpg" alt="Multipurpose">
                                     </div>
                                     <div class="desc mt--45">
-                                        <p class="bk_pra wow move-up">Money provides us the freedoms we crave in terms of the lifestyles we want to . Making money is a noble and necessary motivation which directs us into our careers and motivates us to stay in them. Money is a tool we all need for survival, but earning money also provides us with feelings of status, success and achievement.</p>
+                                        <p class="bk_pra wow move-up">
+                                        Do właściwego określenia celu naszej produkcji, konieczne jest określenie odbiorców, do których chcemy skierować przekaz. Takie informacje jak wiek, płeć, status ekonomiczno-społeczny, 
+                                        poziom wykształcenia, preferencje, przekonania itp pomogą nam w tym.
+                                        
+                                        </p>
                                     </div>
 
                                     <!-- Start Blockquote -->
                                     <div class="bk-quote-content">
                                         <blockquote class="brook-quote move-up wow">
-                                            <div class="quote-text">Music makes one feel so romantic – at least it always gets on one’s nerves –which is the same thing nowadays. ― Oscar Wilde</div>
+                                            <div class="quote-text">Produkcja filmów reklamowych do internetu nie jest droga i może pozwolić sobie na to każda firma.</div>
                                         </blockquote>
                                     </div>
                                     <!-- End Blockquote -->
@@ -105,8 +104,8 @@
                                             <div class="post-tag d-flex align-items-center justify-content-center">
                                                 <h6 class="heading heading-h6">TAGS:</h6>
                                                 <div class="blog-tag-list pl--5">
-                                                    <n-link to="/blog/blog-creative">business</n-link>
-                                                    <n-link to="/blog/blog-creative">format</n-link>
+                                                    <n-link to="/blog/5-sposobow-na-film-reklamowy">filmy reklamowe</n-link>
+                                                    <n-link to="/blog/5-sposobow-na-film-reklamowy">spoty reklamowe</n-link>
                                                 </div>
                                             </div>
                                         </div>
@@ -141,127 +140,7 @@
         </div>
         <!-- End Pagination Area -->
 
-        <!-- Start Post Comment Area -->
-        <div class="blog-post-review-area bg_color--5 pt--100 pt_sm--60 pt_md--80 pb--100 pb_sm--60 pb_lg--100 pb_md--80">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 offset-lg-2">
-                        <!-- Start Comment Area -->
-                        <div class="comments-wrapper bg_color--1">
-                            <div class="inner">
-                                <h4 class="heading heading-h4">3 Comments</h4>
-                                <div class="commnent-list-wrap mt--25">
-
-                                    <!-- Start Single Comment -->
-                                    <div class="comment wow move-up">
-                                        <div class="thumb">
-                                            <img src="/img/blog/client/client-1.jpg" alt="Multipurpose">
-                                        </div>
-                                        <div class="content">
-                                            <h6 class="heading heading-h6">SCOTT JAMES</h6>
-                                            <div class="text mt--10 pr--50 pr_sm--5">
-                                                <p class="bk_pra">To link your Facebook and Twitter accounts, open the Instagram app on your phone or tablet, and select the Profile tab in the bottom-right corner of the screen.</p>
-                                            </div>
-                                            <div class="comment-footer mt--10">
-                                                <span>May 17, 2018 at 1:59 am</span>
-                                                <span class="reply-btn">
-                                                    <button>Reply</button>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Single Comment -->
-
-                                    <!-- Start Single Comment -->
-                                    <div class="comment comment-reply wow move-up">
-                                        <div class="thumb">
-                                            <img src="/img/blog/client/client-2.jpg" alt="Multipurpose">
-                                        </div>
-                                        <div class="content">
-                                            <h6 class="heading heading-h6">OWEN CHRIST</h6>
-                                            <div class="text mt--10 pr--50 pr_sm--5">
-                                                <p class="bk_pra">To link your Facebook and Twitter accounts, open the Instagram app on your phone or tablet, and select the Profile tab in the bottom-right corner of the screen.</p>
-                                            </div>
-                                            <div class="comment-footer mt--10">
-                                                <span>May 17, 2018 at 1:59 am</span>
-                                                <span class="reply-btn">
-                                                    <button>Reply</button>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Single Comment -->
-
-                                    <!-- Start Single Comment -->
-                                    <div class="comment wow move-up">
-                                        <div class="thumb">
-                                            <img src="/img/blog/client/client-3.jpg" alt="Multipurpose">
-                                        </div>
-                                        <div class="content">
-                                            <h6 class="heading heading-h6">EDNA WATSON</h6>
-                                            <div class="text mt--10 pr--50 pr_sm--5">
-                                                <p class="bk_pra">To link your Facebook and Twitter accounts, open the Instagram app on your phone or tablet, and select the Profile tab in the bottom-right corner of the screen.</p>
-                                            </div>
-                                            <div class="comment-footer mt--10">
-                                                <span>May 17, 2018 at 1:59 am</span>
-                                                <span class="reply-btn">
-                                                    <button>Reply</button>
-                                                </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Single Comment -->
-
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Comment Area -->
-
-                        <!-- Start Comment Form -->
-                        <div class="comment-form-wrapper">
-                            <div class="header wow move-up">
-                                <h4 class="heading heading-h4">Leave A Comment</h4>
-                                <div class="coppent-note mt--20 mb--30">
-                                    <p class="bk_pra">Your email address will not be published. Required fields are marked</p>
-                                </div>
-                            </div>
-                            <!-- Start Contact Area -->
-                            <div class="contact-form wow move-up">
-                                <form>
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            <input type="text" placeholder="Name *">
-                                        </div>
-
-                                        <div class="col-lg-12 mt--30">
-                                            <input type="text" placeholder="Email *">
-                                        </div>
-
-                                        <div class="col-lg-12 mt--30">
-                                            <input type="text" placeholder="Website">
-                                        </div>
-
-                                        <div class="col-lg-12 mt--30">
-                                            <textarea placeholder="Your Comment"></textarea>
-                                        </div>
-
-                                        <div class="col-lg-12 mt--30">
-                                            <div class="blog-btn">
-                                                <button class="brook-btn bk-btn-theme btn-sd-size btn-rounded space-between">Post Comment</button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                            <!-- End Contact Area -->
-
-                        </div>
-                        <!-- End Comment Form -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Post Comment Area -->
+       
 
         <FooterTwo />
 
@@ -287,7 +166,7 @@
         },
 
         mounted () {
-            document.body.classList.add('template-color-1', 'template-font-1')
+            document.body.classList.add('template-color-20', 'template-font-1')
         },
 
         head() {
@@ -297,3 +176,21 @@
         },
     };
 </script>
+<style lang="scss">
+.bk-list .list-header .marker::before {
+
+	color: #CE8F4F;
+	
+}
+.bk-list .list-header p.bk_pra {
+margin-bottom: 0;
+	word-wrap: break-word;
+	max-width: 100%;
+	font-weight: 400;
+	line-height: 1.58;
+	font-size: 18px;
+	font-family: "Poppins", sans-serif;
+}
+
+
+</style>
