@@ -8,16 +8,16 @@
                             <h2 class="heading heading-h2 text-white">Zaczynamy nowy projekt?</h2>
 
                             <div class="classic-address text-left mt--60">
-                                <h4 class="heading heading-h4 text-white">Visit our studio at</h4>
+                                <h4 class="heading heading-h4 text-white">Odwiedź nas w social media</h4>
                                 <div class="desc mt--15">
-                                    <p class="bk_pra line-height-2-22 text-white">2005 Stokes Isle Apt. 896, <br> Vacaville 10010, USA</p>
+                                    <p class="bk_pra line-height-2-22 text-white">Facebook <br> Instagram</p>
                                 </div>
                             </div>
 
                             <div class="classic-address text-left mt--60">
                                 <h4 class="heading heading-h4 text-white">Kontakt</h4>
                                 <div class="desc mt--15 mb--30">
-                                    <p class="bk_pra line-height-2-22 text-white">do@panpixel.com <br> (+48) 790 583 100</p>
+                                    <p class="bk_pra line-height-2-22 text-white">wojtek@panpixel.studio <br>(+48) 790 583 100</p>
                                 </div>
                                 <div class="social-share social--transparent text-white">
                                     <a href="https://www.facebook.com/" target="_blank">
@@ -44,37 +44,37 @@
                                 <div class="col-lg-6">
                                     <div class="input-box">
                                         <span class="form-icon far fa-user"></span>
-                                        <input name="con_name" type="text" placeholder="Name *">
+                                        <input name="con_name" type="text" placeholder="Kto ? *">
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6">
                                     <div class="input-box">
                                         <span class="form-icon far fa-envelope"></span>
-                                        <input name="con_email" type="text" placeholder="Email *">
+                                        <input name="con_email" type="text" placeholder="adres e-mail *">
                                     </div>
                                 </div>
 
                                 <div class="col-lg-12">
                                     <div class="input-box">
                                         <span class="form-icon fas fa-mobile-alt"></span>
-                                        <input name="con_phone" type="text" placeholder="Phone number">
+                                        <input name="con_phone" type="text" placeholder="Telefon kontaktowy">
                                     </div>
                                 </div>
 
                                 <div class="col-lg-12">
                                     <div class="input-box">
-                                        <textarea name="con_message" placeholder="Your message"></textarea>
+                                        <textarea name="con_message" placeholder="Wiadomość"></textarea>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-12">
                                     <div class="form-action">
                                         <div class="form-description">
-                                            I’m available for commissions and collaborations, and i’m <br> excited to hear from you about new projects
+                                            Jesteśmy otwarci na każdą współpracę, czekamy <br> na Twoją wiadomość.
                                         </div>
                                         <div class="form-submit">
-                                            <input type="submit" value="Send message">
+                                            <input type="submit" value="Wyślij">
                                             <p class="form-messege"></p>
                                         </div>
                                     </div>

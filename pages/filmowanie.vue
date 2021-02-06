@@ -3,7 +3,7 @@
 
         <HeaderAbout />
 
-        <OffCanvasMobileMenu />
+        <PanpixelMobileMenu />
 
         <SearchPopup />
 
@@ -55,7 +55,7 @@
     export default {
         components: {
             HeaderAbout: () => import('@/components/HeaderAbout'),
-            OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
+            PanpixelMobileMenu: () => import('@/components/PanpixelMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
             CallToAction: () => import('@/components/CallToAction'),
             FooterTwo: () => import('@/components/FooterTwo'),

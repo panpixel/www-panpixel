@@ -5,7 +5,7 @@
             <div class="mobileheader">
                 <div class="logo">
                     <n-link to="/">
-                        <img src="/img/logo/brook-black.png" alt="brand logo">
+                        <img src="/img/logo/panpixel_logo_black.png" alt="Panpixel Studio">
                     </n-link>
                 </div>
                 <a class="mobile-close" href="javascript:void(0)" @click="mobiletoggleClass('removeClass', 'show-mobile-menu')"></a>

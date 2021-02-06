@@ -3,11 +3,11 @@
 
         <HeaderElement />
 
-        <OffCanvasMobileMenu />
+        <PanpixelMobileMenu />
 
         <SearchPopup />
 
-        <Breadcrumb :items="items" title="Blog Grid Simple" />
+        <Breadcrumb :items="items" title="Video Content Marketing" />
 
         <div class="bk-blog-grid-area pt--100 pb--100 pt_md--80 pb_md--80 pb_sm--80 pt_sm--60">
             <div class="container">
@@ -17,21 +17,7 @@
                     </div>
                 </div>
 
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="brook-pagination-wrapper text-center pt--80 pt_sm--50">
-                            <paginate
-                                :page-count="4"
-                                :page-range="3"
-                                :margin-pages="2"
-                                :prev-text="'Prev'"
-                                :next-text="'Next'"
-                                :container-class="'brook-pagination'"
-                                :page-class="'page-item'">
-                            </paginate>
-                        </div>
-                    </div>
-                </div>
+           
             </div>
         </div>
 
@@ -46,7 +32,7 @@
     export default {
         components: {
             HeaderElement: () => import('@/components/HeaderElement'),
-            OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
+            PanpixelMobileMenu: () => import('@/components/PanpixelMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
             Breadcrumb: () => import('@/components/Breadcrumb'),
             BlogPostThree: () => import('@/components/BlogPostThree'),
@@ -66,7 +52,7 @@
                         to: "/blog"
                     },
                     {
-                        text: 'Blog Grid Simple',
+                        text: 'Video content marketing',
                         active: true
                     }
                 ]

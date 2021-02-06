@@ -37,7 +37,7 @@
          
             </li>
              <li class="lavel-1">
-                <n-link to="/blog/blog-creative">
+                <n-link to="/blog/wideomarketing">
                     <span>Blog</span>
                 </n-link>
                

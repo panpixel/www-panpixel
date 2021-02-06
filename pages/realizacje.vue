@@ -3,7 +3,7 @@
 
         <HeaderBlack />
 
-        <OffCanvasMobileMenu />
+        <PanpixelMobileMenu />
 
         <SearchPopup />
 
@@ -40,7 +40,7 @@
     export default {
         components: {
             HeaderBlack: () => import('@/components/HeaderBlack'),
-            OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
+            PanpixelMobileMenu: () => import('@/components/PanpixelMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
             PortfolioItemCenterCaption: () => import('@/components/PortfolioItemCenterCaption'),
             FooterTwo: () => import('@/components/FooterTwo'),

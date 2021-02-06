@@ -3,7 +3,7 @@
 
         <HeaderElement />
 
-        <OffCanvasMobileMenu />
+        <PanpixelMobileMenu />
 
         <SearchPopup />
 
@@ -20,7 +20,7 @@
     export default {
         components: {
             HeaderElement: () => import('@/components/HeaderElement'),
-            OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
+            PanpixelMobileMenu: () => import('@/components/PanpixelMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
             ContactUsBreadcrumb: () => import('@/components/ContactUsBreadcrumb'),
             ContactModern: () => import('@/components/sections/ContactModern'),

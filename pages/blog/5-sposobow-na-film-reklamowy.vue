@@ -3,7 +3,7 @@
 
         <HeaderBlack />
 
-        <OffCanvasMobileMenu />
+        <PanpixelMobileMenu />
 
         <SearchPopup />
 
@@ -16,9 +16,9 @@
                                 <div class="header mb--40 text-center">
                                     <h3 class="heading heading-h3 font-32 text-white">5 sposobów na film reklamowy.</h3>
                                     <div class="post-meta mt--20 text-white bk-hover align-items-center d-flex justify-content-center">
-                                        <div class="post-date">May 21, 2018</div>
+                                        <div class="post-date"></div>
                                         <div class="post-category">
-                                            <n-link to="/">Inspiration</n-link>
+                                            <n-link to="/"></n-link>
                                         </div>
                                     </div>
                                 </div>
@@ -54,7 +54,9 @@
                                 <div class="content basic-dark2-line-1px pb--50 mb--35">
                                     <div class="inner">
                                         <h5 class="heading heading-h5 line-height-1-95 wow move-up">
-                                            Each of us respond to different drives and motivations, but there are many drives we can choose from that not only make our careers more fruitful but also more enjoyable. Those people who experience the “Sunday Blues” are in careers which may provide security and certain freedoms, but they lack joy and fulfillment.</h5>
+                                            Film reklamowy jest ważnym narzędziem do pozyskiwania nowych klientów. Możesz wywołać emocje, zachęcić do reakcji i nawiązać kontakt z potencjalnym klientem znacznie sprawniej niż w jakikolwiek inny 
+                                            dostępny sposób. Produkcja filmów reklamowych do internetu nie jest droga i może pozwolić sobie na to każda firma. 
+                                        </h5>
                                         <div class="desc mt--45 mb--50">
 
 
@@ -64,7 +66,7 @@
                                         <div class="marker"></div>
                                         <div class="title-wrap">
                                         <h5 class="heading heading-h5">Referencje</h5>
-                                       <p class="bk_pra">w filmie są zawarte wywiady z ludźmi, którzy mieli do czynienia z Twoją firmą i są z tej współpracy zadowoleni; opowiadają w jaki sposób rozwiązałeś ich problem.</p>
+                                       <p class="bk_pra wow move-up">w filmie są zawarte wywiady z ludźmi, którzy mieli do czynienia z Twoją firmą i są z tej współpracy zadowoleni; opowiadają w jaki sposób rozwiązałeś ich problem.</p>
                                        </div>
                                        </div>
                                        </div>
@@ -272,7 +274,7 @@
     export default {
         components: {
             HeaderBlack: () => import('@/components/HeaderBlack'),
-            OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
+            PanpixelMobileMenu: () => import('@/components/PanpixelMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
             BlogSidebar: () => import('@/components/BlogSidebar'),
             FooterTwo: () => import('@/components/FooterTwo'),
@@ -290,7 +292,7 @@
 
         head() {
             return {
-                title: 'Blog Details'
+                title: '5 sposobów na film reklamowy'
             }
         },
     };
