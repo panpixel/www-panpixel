@@ -65,8 +65,8 @@
                                         <div class="list-header">
                                         <div class="marker"></div>
                                         <div class="title-wrap">
-                                        <h5 class="heading heading-h5">Referencje</h5>
-                                       <p class="bk_pra wow move-up">W filmie są zawarte wywiady z ludźmi, którzy mieli do czynienia z Twoją firmą i są z tej współpracy zadowoleni; opowiadają w jaki sposób rozwiązałeś ich problem.</p>
+                                        <h5 class="heading heading-h5">Wideo Referencje</h5>
+                                       <p class="bk_pra wow move-up">Rodzaj referencji w postaci filmu są zawarte wywiady z ludźmi, którzy mieli do czynienia z Twoją firmą i są z tej współpracy zadowoleni; opowiadają w jaki sposób rozwiązałeś ich problem.</p>
                                        </div>
                                        </div>
                                        </div>
