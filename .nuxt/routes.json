@@ -28,11 +28,39 @@
     "_name": "_1efdbda2"
   },
   {
+    "name": "projektowanie-stron-internetowych",
+    "path": "/projektowanie-stron-internetowych",
+    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\projektowanie-stron-internetowych.vue",
+    "chunkName": "pages/projektowanie-stron-internetowych",
+    "_name": "_928077a6"
+  },
+  {
     "name": "realizacje",
     "path": "/realizacje",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\realizacje.vue",
     "chunkName": "pages/realizacje",
     "_name": "_6d8a6cfc"
+  },
+  {
+    "name": "services-list",
+    "path": "/services-list",
+    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\services-list.vue",
+    "chunkName": "pages/services-list",
+    "_name": "_1080060d"
+  },
+  {
+    "name": "services-modern",
+    "path": "/services-modern",
+    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\services-modern.vue",
+    "chunkName": "pages/services-modern",
+    "_name": "_bb770364"
+  },
+  {
+    "name": "wideomarketing",
+    "path": "/wideomarketing",
+    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\wideomarketing.vue",
+    "chunkName": "pages/wideomarketing",
+    "_name": "_69e7aafa"
   },
   {
     "name": "blog-5-sposobow-na-film-reklamowy",

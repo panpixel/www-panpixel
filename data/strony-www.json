@@ -2,27 +2,27 @@
     "services": [
         {
             "id": 1,
-            "icon": "ion-alert",
-            "heading": "SILNY PRZEKAZ",
-            "desc": "Film oddziałuje znacznie mocniej na zmysły niż tekst i statyczne fotografie. Wideo to przekaz oddziaływujący na dwa zmysły jednocześnie: wzrok i słuch."
+            "icon": "ion-ios-eye-outline",
+            "heading": "Modern Design",
+            "desc": "Brook embraces a modern look with various enhanced pre-defined page elements."
         },
         {
             "id": 2,
-            "icon": "ion-eye",
-            "heading": "ZAPADA W PAMIĘCI ",
-            "desc": "Informacje podane w wideo oddziałują na wyobraźnię przez co bardziej zapadają w pamięci."
+            "icon": "ion-ios-bookmarks-outline",
+            "heading": "UI/UX designs",
+            "desc": "We successfully implemented numerous UI/UX projects for both global & local clients."
         },
         {
             "id": 3,
-            "icon": "ion-ios-pulse",
-            "heading": "ŁADUNEK EMOCJONALNY",
-            "desc": "Wideo ma moc niesienia ładunku emocjonalnego, budzi nostalgię, potrzebę posiadania produktu, przy pomocy połączenia obrazu i muzyki. "
+            "icon": "ion-ios-browsers-outline",
+            "heading": "SEO marketing",
+            "desc": "Brook is highly responsive thanks to built-in WP Bakery Page Builder & Slider Revolution."
         },
         {
             "id": 4,
-            "icon": "ion-android-time",
-            "heading": "OSZCZĘDNOŚĆ CZASU",
-            "desc": "Film to prosty, niebanalny przekaz, który skraca czas przekazywania informacji do kilkunastu sekund. "
+            "icon": "ion-ios-bell-outline",
+            "heading": "Resource use",
+            "desc": "We participate in knowledge and technology transfers in resource use."
         },
         {
             "id": 5,
@@ -103,28 +103,11 @@
 
     "serviceList": [
         {
-            "image": "https://fast.wistia.com/embed/medias/xn1hqv1tyf/swatch",
-            "video": "https://fast.wistia.com/embed/medias/xn1hqv1tyf.jsonp",
-            "tail":  "wistia_embed wistia_async_xn1hqv1tyf videoFoam=true",            
-            "alt": "WIDEO MARKETING",
-            "title": "WIDEO MARKETING",
-            "desc": "Wideo Marketing to skuteczna metoda promocji. Polega na stworzeniu spotu reklamowego, przedstawiającego produkty i usługi firmy. Takie wideo pozwala na dotarcie do szerokiego grona Klientów, dzięki czemu marka zyskuje na rozpoznawalności. Ten rodzaj przedstawienia firmy daje znacznie lepsze efekty niż inne formy reklamy. Ludzie zwracają większą uwagę na obrazy i filmy, zapamiętują je. "
-        },
-        {
-            "image": "https://fast.wistia.com/embed/medias/zi5pv3w19x/swatch",
-            "video": "https://fast.wistia.com/embed/medias/zi5pv3w19x.jsonp",
-            "tail":  "wistia_embed wistia_async_zi5pv3w19x videoFoam=true",  
+            "image": "/img/service/modern/service-list-1.jpg",
             "alt": "service image",
-            "title": "FILM PROMOCYJNY",
-            "desc": "Film promocyjny jest rozszerzeniem reklamy, pozwala to zaprezentować pełny zakres produktów i usług firmy. Film umieszczony na stronie internetowej podniesie prestiż i skutecznie przyciągnie uwagę widza. "
-        },
-        {
-            "image": "https://fast.wistia.com/embed/medias/5m10gw30ud/swatch",
-            "video": "https://fast.wistia.com/embed/medias/5m10gw30ud.jsonp",
-            "tail":  "wistia_embed wistia_async_5m10gw30ud videoFoam=true",  
-            "alt": "service image",
-            "title": "FILM KORPORACYJNY",
-            "desc": "<b>Filmowa prezentacja</b> firmy to uproszczony film promocyjny, doskonały na targi, konferencje, spotkania z klientami, kontrahentami, na firmową stronę internetową, do katalogów branżowych. Doskonałe narzędzie do budowania wizerunku firmy. Za pomocą filmu można pokazać np. etapy produkcji, wybrane realizacje, strukturę firmy, pochwalić się certyfikatami. Prezentacja firmy za pomocą wideo jest dłuższa od tradycyjnego spotu telewizyjnego, zawiera więcej informacji."
+            "title": "Projektowanie i tworzenie stron",
+            "desc": "Kluczem do sukcesu, by zaistnieć w Sieci i zostać zapamiętanym jest atrakcyjna wizualnie i merytorycznie strona WWW. Naszym zadaniem jest projektowanie i tworzenie stron internetowych w oparciu o te założenia. Posiadamy zmysł estetyczny, dlatego przywiązujemy dużą wagę do strony wizualnej projektu, uważamy, że w dzisiejszych czasach dobra strona internetowa jest podstawowym wyznacznikiem wiarygodności firmy. "
         }
+       
     ]
 }

@@ -1,7 +1,7 @@
 <template>
     <div class="main-container">
 
-        <PanpixelHeaderOnas />
+        <PanpixelHeaderBG />
         <PanpixelMobileMenu />
         <PanpixelBanerOnas />
         <PanpixelWhatWeDo />
@@ -38,7 +38,7 @@
 <script>
     export default {
         components: {
-            PanpixelHeaderOnas: () => import('@/components/PanpixelHeaderOnas'),
+            PanpixelHeaderBG: () => import('@/components/PanpixelHeaderBG'),
             PanpixelMobileMenu: () => import('@/components/PanpixelMobileMenu'),
             PanpixelBanerOnas : () => import('@/components/PanpixelBanerOnas'),
             PanpixelWhatWeDo: () => import('@/components/PanpixelWhatWeDo'),

@@ -7,7 +7,11 @@ const _885a2376 = () => interopDefault(import('..\\pages\\filmowanie.vue' /* web
 const _e9a08c88 = () => interopDefault(import('..\\pages\\fotografia.vue' /* webpackChunkName: "pages/fotografia" */))
 const _6342dd00 = () => interopDefault(import('..\\pages\\kontakt.vue' /* webpackChunkName: "pages/kontakt" */))
 const _1efdbda2 = () => interopDefault(import('..\\pages\\o-nas.vue' /* webpackChunkName: "pages/o-nas" */))
+const _928077a6 = () => interopDefault(import('..\\pages\\projektowanie-stron-internetowych.vue' /* webpackChunkName: "pages/projektowanie-stron-internetowych" */))
 const _6d8a6cfc = () => interopDefault(import('..\\pages\\realizacje.vue' /* webpackChunkName: "pages/realizacje" */))
+const _1080060d = () => interopDefault(import('..\\pages\\services-list.vue' /* webpackChunkName: "pages/services-list" */))
+const _bb770364 = () => interopDefault(import('..\\pages\\services-modern.vue' /* webpackChunkName: "pages/services-modern" */))
+const _69e7aafa = () => interopDefault(import('..\\pages\\wideomarketing.vue' /* webpackChunkName: "pages/wideomarketing" */))
 const _385448db = () => interopDefault(import('..\\pages\\blog\\5-sposobow-na-film-reklamowy.vue' /* webpackChunkName: "pages/blog/5-sposobow-na-film-reklamowy" */))
 const _bcd9a810 = () => interopDefault(import('..\\pages\\blog\\blog-creative.vue' /* webpackChunkName: "pages/blog/blog-creative" */))
 const _4683d089 = () => interopDefault(import('..\\pages\\blog\\blog-details.vue' /* webpackChunkName: "pages/blog/blog-details" */))
@@ -94,9 +98,25 @@ export const routerOptions = {
     component: _1efdbda2,
     name: "o-nas"
   }, {
+    path: "/projektowanie-stron-internetowych",
+    component: _928077a6,
+    name: "projektowanie-stron-internetowych"
+  }, {
     path: "/realizacje",
     component: _6d8a6cfc,
     name: "realizacje"
+  }, {
+    path: "/services-list",
+    component: _1080060d,
+    name: "services-list"
+  }, {
+    path: "/services-modern",
+    component: _bb770364,
+    name: "services-modern"
+  }, {
+    path: "/wideomarketing",
+    component: _69e7aafa,
+    name: "wideomarketing"
   }, {
     path: "/blog/5-sposobow-na-film-reklamowy",
     component: _385448db,
