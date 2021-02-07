@@ -40,7 +40,7 @@
                 videos: [
                     {
                         src: 'https://www.youtube.com/watch?v=cJRfYScImO4',
-                        thumbnail: ""
+                        thumbnail: "/img/about/filmy-reklamowe-dla-firm-bg.jpg"
                     }
                 ],
             }
