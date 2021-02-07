@@ -1,0 +1,126 @@
+{
+    "portfolios": [
+        {
+            "heading": "header 01",
+            "image": "/img/portfolio/portfolio-1/portfolio-1.jpg"
+        }
+    ],
+    
+    "portfolioFeaturd": [
+        {
+            "id": 1,
+            "image": "/img/portfolio/portfolio-2/portfolio-01.jpg",
+            "alt": "Portfolio Image",
+            "title": "Digital Marketing Basics",
+            "category": "Digital"
+        },
+        {
+            "id": 2,
+            "image": "/img/portfolio/portfolio-2/portfolio-02.jpg",
+            "alt": "Portfolio Image",
+            "title": "Digital Marketing Basics",
+            "category": "Photography"
+        },
+        {
+            "id": 3,
+            "image": "/img/portfolio/portfolio-2/portfolio-03.jpg",
+            "alt": "Portfolio Image",
+            "title": "Digital Marketing Basics",
+            "category": "Design"
+        },
+        {
+            "id": 4,
+            "image": "/img/portfolio/portfolio-2/portfolio-04.jpg",
+            "alt": "Portfolio Image",
+            "title": "Digital Marketing Basics",
+            "category": "Marketing"
+        },
+        {
+            "id": 5,
+            "image": "/img/portfolio/portfolio-2/portfolio-05.jpg",
+            "alt": "Portfolio Image",
+            "title": "Digital Marketing Basics",
+            "category": "SEO"
+        },
+        {
+            "id": 6,
+            "image": "/img/portfolio/portfolio-2/portfolio-06.jpg",
+            "alt": "Portfolio Image",
+            "title": "Digital Marketing Basics",
+            "category": "Digital"
+        }
+    ],
+
+    "portfolioItems": [
+        {
+            "id": 1,
+            "image": "/img/fotografia.produktowa/Fornit-producent.mebli.481-325.jpg",
+            "heading": "Strona dla",
+            "link": "/fotografia-reklamowa/fornit",
+            "category": "Fotografia reklamowa",
+            "filterClass": "fotografia"
+        },
+        {
+            "id": 2,
+            "image": "/img/fotografia.produktowa/Ventix-instalacje.sanitarne.481-325.jpg",
+            "heading": "Instalacje sanitarne",
+            "link": "/fotografia-reklamowa/ventix",
+            "category": "Fotografia przemysłowa",
+            "filterClass": "fotografia"
+        },
+        {
+            "id": 3,
+            "image": "/img/fotografia.produktowa/Contea-hurtownia.kawy.herbaty.481-325.jpg",
+            "heading": "hurtownia kawy i herbaty",
+            "link": "/fotografia-reklamowa/contea",
+            "category": "Photography",
+            "filterClass": "photography creative"
+        },
+        {
+            "id": 4,
+            "image": "/img/filmy.reklamowe/talmex.instalacje.przemyslowe.481-325.jpg",
+            "heading": "Awe-inspiring Projects",
+            "link": "/filmy-reklamowe/talmex",
+            "category": "Life Style",
+            "filterClass": "design"
+        },
+        {
+            "id": 5,
+            "image": "/img/filmy.reklamowe/zespol.lecznictwa.otwartego.481-325.jpg",
+            "heading": "Gifts for Photography",
+            "link": "/filmy-reklamowe/zlo",
+            "category": "Design",
+            "filterClass": "creative"
+        },
+        {
+            "id": 6,
+            "image": "/img/portfolio/grid/caption-6.jpg",
+            "heading": "Enchanting Portrait Hacks",
+            "link": "/filmy-reklamowe/sanen",
+            "category": "Photography",
+            "filterClass": "digital"
+        },
+        {
+            "id": 7,
+            "image": "/img/portfolio/grid/caption-7.jpg",
+            "heading": "Digital Marketing Basics",
+            "link": "/filmy-reklamowe/sanen",
+            "category": "Design"
+        },
+        {
+            "id": 8,
+            "image": "/img/portfolio/grid/caption-8.jpg",
+            "heading": "Measure Digital Progress",
+            "link": "/filmy-reklamowe/sanen",
+            "filterClass": "digital design"
+        },
+        {
+            "id": 9,
+            "image": "/img/portfolio/grid/caption-9.jpg",
+            "heading": "B-sharp High-end Audio",
+            "link": "/filmy-reklamowe/sanen",
+            "category": "Design",
+            "filterClass": "digital"
+        }
+    ]
+}

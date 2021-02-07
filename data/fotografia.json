@@ -109,16 +109,11 @@
             "desc": "fotografia przemysłowa pozwala budować zaufanie w oczach inwestorów, wykorzystywana w materiałach marketingowych zwiększa prestiż."
         },
         {
-            "image": "/img/service/modern/service-list-2.jpg",
+            "image": "/img/service/modern/fotografia-przemyslowa-002.jpg",
             "alt": "service image",
             "title": "PROCESY PRODUKCJI",
             "desc": "fotografia przemysłowa pokazuje w sposób możliwie dyskretny procesy produkcyjne, pracę ludzi i maszyn."
-        },
-        {
-            "image": "/img/service/modern/service-list-3.jpg",
-            "alt": "service image",
-            "title": "Digital services",
-            "desc": "Creative services are a sub sector of the creative industries, a part of the economy that creates wealth by offering creativity for hire to other businesses. Creative Services also means a department within a company that does creative work such as writing, designing, and production. It is often a sub-department of the marketing organization."
         }
+       
     ]
 }

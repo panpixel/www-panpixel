@@ -44,7 +44,7 @@
 </template>
 
 <script>
-    import data from '../data/strony-www.json';
+    import data from '../data/stronywww.json';
     export default {
         components: {
             PanpixelHeaderBG: () => import('@/components/PanpixelHeaderBG'),

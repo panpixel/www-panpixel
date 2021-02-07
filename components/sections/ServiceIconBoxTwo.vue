@@ -2,7 +2,7 @@
     <div class="brook-icon-boxes-area bg_color--1 pb_lg--50 ptb--70">
         <div class="container-fluid p-0">
             <div class="row">
-                <div class="col-lg-7 pl--350 plr_lg--30 plr_md--50 plr_sm--15">
+                <div class="col-lg-7 pl--250 plr_lg--30 plr_md--50 plr_sm--15">
                     <div class="row mtn--50">
                         <div class="col-sm-6 wow move-up mt--50" v-for="service in data.services.slice(0, 4)" :key="service.id">
                             <div class="icon-box text-left no-border">

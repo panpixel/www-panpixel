@@ -8,6 +8,7 @@
         <PanpixelVideoService />
         <PortfolioFilmy addClass="pt--130 pb--30 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
         <PortfolioFotografia addClass="pt--30 pb--100 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
+        <PortfolioStronyWWW addClass="pt--30 pb--100 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
           <div class="brook-gradation-area ptb--0 ptb-md--80 ptb-sm--60 bg_color--1 basic-thine-line">
             <div class="container">
                 <div class="row">
@@ -40,6 +41,7 @@
             PanpixelVideoService: () => import('@/components/PanpixelVideoService'),
             PortfolioFilmy: () => import('@/components/sections/PortfolioFilmy'),
             PortfolioFotografia: () => import('@/components/sections/PortfolioFotografia'),
+            PortfolioStronyWWW: () => import('@/components/sections/PortfolioStronyWWW'),
             PanpixelProcesRealizacji: () => import('@/components/PanpixelProcesRealizacji'),
             PanpixelTestimonial: () => import('@/components/sections/PanpixelTestimonial'),
             
