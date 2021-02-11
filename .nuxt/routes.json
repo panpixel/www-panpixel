@@ -294,11 +294,11 @@
     "_name": "_28627770"
   },
   {
-    "name": "filmy-reklamowe-sanen",
-    "path": "/filmy-reklamowe/sanen",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\sanen.vue",
-    "chunkName": "pages/filmy-reklamowe/sanen",
-    "_name": "_273e9094"
+    "name": "filmy-reklamowe-produkcja-kanalow-wentylacyjnych-sanen",
+    "path": "/filmy-reklamowe/produkcja-kanalow-wentylacyjnych-sanen",
+    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\produkcja-kanalow-wentylacyjnych-sanen.vue",
+    "chunkName": "pages/filmy-reklamowe/produkcja-kanalow-wentylacyjnych-sanen",
+    "_name": "_4888bc6d"
   },
   {
     "name": "filmy-reklamowe-ventix",

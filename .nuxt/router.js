@@ -45,7 +45,7 @@ const _378cc339 = () => interopDefault(import('..\\pages\\element\\team.vue' /* 
 const _59c40673 = () => interopDefault(import('..\\pages\\element\\testimonial.vue' /* webpackChunkName: "pages/element/testimonial" */))
 const _4d232464 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\lukasiewicz.vue' /* webpackChunkName: "pages/filmy-reklamowe/lukasiewicz" */))
 const _28627770 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\portfolio-details.vue' /* webpackChunkName: "pages/filmy-reklamowe/portfolio-details" */))
-const _273e9094 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\sanen.vue' /* webpackChunkName: "pages/filmy-reklamowe/sanen" */))
+const _4888bc6d = () => interopDefault(import('..\\pages\\filmy-reklamowe\\produkcja-kanalow-wentylacyjnych-sanen.vue' /* webpackChunkName: "pages/filmy-reklamowe/produkcja-kanalow-wentylacyjnych-sanen" */))
 const _0368e5a9 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\ventix.vue' /* webpackChunkName: "pages/filmy-reklamowe/ventix" */))
 const _3f455e48 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\zlo.vue' /* webpackChunkName: "pages/filmy-reklamowe/zlo" */))
 const _023f5250 = () => interopDefault(import('..\\pages\\fotografia-reklamowa\\fornit.vue' /* webpackChunkName: "pages/fotografia-reklamowa/fornit" */))
@@ -250,9 +250,9 @@ export const routerOptions = {
     component: _28627770,
     name: "filmy-reklamowe-portfolio-details"
   }, {
-    path: "/filmy-reklamowe/sanen",
-    component: _273e9094,
-    name: "filmy-reklamowe-sanen"
+    path: "/filmy-reklamowe/produkcja-kanalow-wentylacyjnych-sanen",
+    component: _4888bc6d,
+    name: "filmy-reklamowe-produkcja-kanalow-wentylacyjnych-sanen"
   }, {
     path: "/filmy-reklamowe/ventix",
     component: _0368e5a9,

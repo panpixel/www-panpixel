@@ -56,9 +56,9 @@
             "id": 1,
             "image": "/img/filmy.reklamowe/sanen.producent.kanalow.wentylacyjnych.481-325.jpg",
             "heading": "Producent kanałów wentylacyjnych",
-            "link": "/filmy-reklamowe/sanen",
-            "category": "Design",
-            "filterClass": "creative digital"
+            "link": "/filmy-reklamowe/produkcja-kanalow-wentylacyjnych-sanen",
+            "category": "Wentylacja",
+            "filterClass": "klimatyzacja wentylacja"
         },
         {
             "id": 2,
@@ -71,7 +71,7 @@
         {
             "id": 3,
             "image": "/img/filmy.reklamowe/Lukasiewicz.EMAG.481-325.jpg",
-            "heading": "Smart Sound System",
+            "heading": "Instytut Łukasiewicza",
             "link": "/filmy-reklamowe/lukasiewicz",
             "category": "Photography",
             "filterClass": "photography creative"
@@ -79,7 +79,7 @@
         {
             "id": 4,
             "image": "/img/filmy.reklamowe/talmex.instalacje.przemyslowe.481-325.jpg",
-            "heading": "Awe-inspiring Projects",
+            "heading": "Talmex",
             "link": "/filmy-reklamowe/talmex",
             "category": "Life Style",
             "filterClass": "design"
@@ -87,7 +87,7 @@
         {
             "id": 5,
             "image": "/img/filmy.reklamowe/zespol.lecznictwa.otwartego.481-325.jpg",
-            "heading": "Gifts for Photography",
+            "heading": "Zespół Lecznictwa Otwartego Jaworzno",
             "link": "/filmy-reklamowe/zlo",
             "category": "Design",
             "filterClass": "creative"
@@ -95,7 +95,7 @@
         {
             "id": 6,
             "image": "/img/portfolio/grid/caption-6.jpg",
-            "heading": "Enchanting Portrait Hacks",
+            "heading": "firma",
             "link": "/filmy-reklamowe/sanen",
             "category": "Photography",
             "filterClass": "digital"
@@ -103,21 +103,21 @@
         {
             "id": 7,
             "image": "/img/portfolio/grid/caption-7.jpg",
-            "heading": "Digital Marketing Basics",
+            "heading": "firma",
             "link": "/filmy-reklamowe/sanen",
             "category": "Design"
         },
         {
             "id": 8,
             "image": "/img/portfolio/grid/caption-8.jpg",
-            "heading": "Measure Digital Progress",
+            "heading": "firma",
             "link": "/filmy-reklamowe/sanen",
             "filterClass": "digital design"
         },
         {
             "id": 9,
             "image": "/img/portfolio/grid/caption-9.jpg",
-            "heading": "B-sharp High-end Audio",
+            "heading": "firma",
             "link": "/filmy-reklamowe/sanen",
             "category": "Design",
             "filterClass": "digital"

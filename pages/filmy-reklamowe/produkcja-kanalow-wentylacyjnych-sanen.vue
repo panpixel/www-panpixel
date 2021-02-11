@@ -25,8 +25,8 @@
                                 <div class="portfolio-details-list">
 
                                     <div class="details-list">
-                                        <label>Data</label>
-                                        <span>28 Sep 2007</span>
+                                        <label>Data realizacji</label>
+                                        <span>Wrzesień 2020</span>
                                     </div>
 
                                     <div class="details-list">
@@ -37,22 +37,20 @@
                                     <div class="details-list">
                                         <label>Kategoria</label>
                                         <span>
-                                            <n-link to="">Digital</n-link>
+                                            <n-link to="">Wentylacja</n-link>
                                         </span>
                                     </div>
 
                                     <div class="details-list">
-                                        <label>Awards</label>
-                                        <span>2015 Cambridge Impressive Design 2016 Best Design of the Year</span>
+                                        <label>Notatka</label>
+                                        <span></span>
                                     </div>
 
                                 </div>
                                 <!-- End Details List -->
 
                                 <!-- Start Portfolio Share -->
-                                <div class="portfolio-share pt--70 pt_md--40 pt_sm--40">
-                                    <h6 class="heading heading-h6">SHARE</h6>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -70,18 +68,18 @@
 
                             <!-- Start Portfolio Image -->
                             <div class="portfolio-image mb--50">
-                                <img class="w-100" src="/img/portfolio/big-image/caption-2.jpg" alt="portfolio">
+                                <img class="w-100" src="/img/portfolio/firmy/film-reklamowy-sanen02.jpg" alt="produkcja kanałów wentylacyjnych">
                                 <div class="cation-text ptb--20 bg_color--5 text-center">
-                                    <p class="bk_pra">Natural light and it's importance on your health</p>
+                                    <p class="bk_pra">Produkcja kanałów wentylacyjnych</p>
                                 </div>
                             </div>
                             <!-- End Portfolio Image -->
 
                             <!-- Start Portfolio Image -->
                             <div class="portfolio-image">
-                                <img class="w-100" src="/img/portfolio/big-image/caption-3.jpg" alt="portfolio">
+                                <img class="w-100" src="/img/portfolio/firmy/film-reklamowy-sanen04.jpg" alt="produkcja kanałów wentylacyjnych">
                                 <div class="cation-text ptb--20 bg_color--5 text-center">
-                                    <p class="bk_pra">Bring natural light into your interiors as a design element</p>
+                                    <p class="bk_pra">Pracownik zespala elementy</p>
                                 </div>
                             </div>
                             <!-- End Portfolio Image -->
