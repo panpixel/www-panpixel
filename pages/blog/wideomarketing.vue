@@ -12,7 +12,7 @@
         <div class="bk-blog-grid-area pt--100 pb--100 pt_md--80 pb_md--80 pb_sm--80 pt_sm--60">
             <div class="container">
                 <div class="row mtn--50">
-                    <div class="col-lg-4 col-sm-6 move-up wow mt--50" v-for="blog in data.blogs.slice(1, 6)" :key="blog.id">
+                    <div class="col-lg-4 col-sm-6 move-up wow mt--50" v-for="blog in data.blogs.slice(0, 1)" :key="blog.id">
                         <BlogPostThree :blog="blog" addClass="grid-simple" />
                     </div>
                 </div>

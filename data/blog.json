@@ -4,33 +4,9 @@
     "blogs": [
      
 
+        
         {
-            "id": 1,
-            "title": "Niche Blogs for Rising Metal Bands",
-            "date": "July 08, 2020",
-            "category": "Marketing",
-            "image": "/img/blog/grid/grid-11.jpg",
-            "alt": "blog image"
-        },
-        {
-            "id": 2,
-            "title": "Career Tips For Emerging Photographers",
-            "date": "September 16, 2019",
-            "category": "Digital",
-            "image": "/img/blog/grid/grid-12.jpg",
-            "alt": "blog image"
-        },
-        {
-            "id": 3,
-            "title": "Career Tips For Emerging Photographers",
-            "date": "September 16, 2019",
-            "category": "Digital",
-            "image": "/img/blog/grid/grid-13.jpg",
-            "alt": "blog image"
-        },
-
-        {
-            "id":4,
+            "id":1,
             "date": "Styczeń 05, 2021",
             "category": "Life Style",
             "image": "/img/blog/grid/creative-1.jpg",
@@ -40,7 +16,7 @@
             "details": "Simple point-and-shoot digital cameras can give surprising quality when they have the right lenses and sensors. Because they are totally automatic in focus and exposure, they just have to be pointed at a subject and clicked. They have limited capabilities for controlling the image, although…"
         },
         {
-            "id": 5,
+            "id": 2,
             "date": "May 16, 2020",
             "category": "Life Style",
             "image": "/img/blog/grid/creative-2.jpg",
@@ -50,7 +26,7 @@
         },
        
         {
-            "id": 6,
+            "id": 3,
             "title": "Healthy Eating With Fruit And Vegetables",
             "date": "January 02, 2020",
             "category": "Food",
