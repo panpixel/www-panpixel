@@ -88,17 +88,17 @@
             "id": 5,
             "image": "/img/filmy.reklamowe/zespol.lecznictwa.otwartego.481-325.jpg",
             "heading": "Zespół Lecznictwa Otwartego Jaworzno",
-            "link": "/filmy-reklamowe/zlo",
+            "link": "/filmy-reklamowe/zespol-lecznictwa-otwartego",
             "category": "Design",
             "filterClass": "creative"
         },
         {
             "id": 6,
-            "image": "/img/portfolio/grid/caption-6.jpg",
-            "heading": "firma",
-            "link": "/filmy-reklamowe/sanen",
-            "category": "Photography",
-            "filterClass": "digital"
+            "image": "/img/filmy.reklamowe/UM.Jaworzno.481-325.jpg",
+            "heading": "Urząd Miasta Jaworzno - wydział inwestycji",
+            "link": "/filmy-reklamowe/um-jaworzno",
+            "category": "inwestycje",
+            "filterClass": "inwestycje"
         }
        
     ]

@@ -48,7 +48,8 @@ const _764f4f60 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\insty
 const _38603dfc = () => interopDefault(import('..\\pages\\filmy-reklamowe\\klimatyzacja-wentylacja-ventixserwis.vue' /* webpackChunkName: "pages/filmy-reklamowe/klimatyzacja-wentylacja-ventixserwis" */))
 const _28627770 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\portfolio-details.vue' /* webpackChunkName: "pages/filmy-reklamowe/portfolio-details" */))
 const _4888bc6d = () => interopDefault(import('..\\pages\\filmy-reklamowe\\produkcja-kanalow-wentylacyjnych-sanen.vue' /* webpackChunkName: "pages/filmy-reklamowe/produkcja-kanalow-wentylacyjnych-sanen" */))
-const _3f455e48 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\zlo.vue' /* webpackChunkName: "pages/filmy-reklamowe/zlo" */))
+const _25192038 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\um-jaworzno.vue' /* webpackChunkName: "pages/filmy-reklamowe/um-jaworzno" */))
+const _1a717648 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\zespol-lecznictwa-otwartego.vue' /* webpackChunkName: "pages/filmy-reklamowe/zespol-lecznictwa-otwartego" */))
 const _023f5250 = () => interopDefault(import('..\\pages\\fotografia-reklamowa\\fornit.vue' /* webpackChunkName: "pages/fotografia-reklamowa/fornit" */))
 const _16e420cc = () => interopDefault(import('..\\pages\\fotografia-reklamowa\\ventix.vue' /* webpackChunkName: "pages/fotografia-reklamowa/ventix" */))
 const _6bdf7548 = () => interopDefault(import('..\\pages\\portfolio\\portfolio-ajax-filter.vue' /* webpackChunkName: "pages/portfolio/portfolio-ajax-filter" */))
@@ -263,9 +264,13 @@ export const routerOptions = {
     component: _4888bc6d,
     name: "filmy-reklamowe-produkcja-kanalow-wentylacyjnych-sanen"
   }, {
-    path: "/filmy-reklamowe/zlo",
-    component: _3f455e48,
-    name: "filmy-reklamowe-zlo"
+    path: "/filmy-reklamowe/um-jaworzno",
+    component: _25192038,
+    name: "filmy-reklamowe-um-jaworzno"
+  }, {
+    path: "/filmy-reklamowe/zespol-lecznictwa-otwartego",
+    component: _1a717648,
+    name: "filmy-reklamowe-zespol-lecznictwa-otwartego"
   }, {
     path: "/fotografia-reklamowa/fornit",
     component: _023f5250,
