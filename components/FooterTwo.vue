@@ -8,7 +8,7 @@
                         <div class="footer-widget text-var--2">
                             <div class="logo">
                                 <n-link to="">
-                                      <img src="/img/logo/panpixel_logo_white.png" alt="Panpixel.com Logo">
+                                      <img src="/img/logo/panpixel_logo_white.png" alt="Panpixel.studio Logo">
                                 </n-link>
                             </div>
                             <div class="footer-inner">

@@ -29,7 +29,7 @@
 
         head() {
             return {
-                title: 'Kontakt || skuteczne filmy reklamowe'
+                title: 'Kontakt || Skuteczne filmy reklamowe'
             }
         },
     };

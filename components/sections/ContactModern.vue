@@ -8,18 +8,19 @@
                             <h2 class="heading heading-h2 text-white">Zaczynamy nowy projekt?</h2>
 
                             <div class="classic-address text-left mt--60">
-                                <h4 class="heading heading-h4 text-white">Odwiedź nas w social media</h4>
-                                <div class="desc mt--15">
-                                    <p class="bk_pra line-height-2-22 text-white">Facebook <br> Instagram</p>
-                                </div>
-                            </div>
-
-                            <div class="classic-address text-left mt--60">
-                                <h4 class="heading heading-h4 text-white">Kontakt</h4>
+                                <h4 class="heading heading-h4 text-white">FILM, STRONY WWW </h4>
                                 <div class="desc mt--15 mb--30">
-                                    <p class="bk_pra line-height-2-22 text-white">wojtek@panpixel.studio <br>(+48) 790 583 100</p>
+                                    <p class="bk_pra line-height-2-22 text-white">wojtek@panpixel.studio ⋆ (+48) 790 583 100</p>
+                                    
+
+                                </div>
+                                 <h4 class="heading heading-h4 text-white">GRAFIKA, FOTOGRAFIA </h4>
+                                  <div class="desc mt--15 mb--30">
+                                     <p class="bk_pra line-height-2-22 text-white">sabina@panpixel.studio ⋆ (+48) 884 777 407 </p>
+
                                 </div>
                                 <div class="social-share social--transparent text-white">
+                                <h4 class="heading heading-h4 text-white">Odwiedź nas w social media</h4>
                                     <a href="https://www.facebook.com/" target="_blank">
                                         <i class="fab fa-facebook"></i>
                                     </a>
