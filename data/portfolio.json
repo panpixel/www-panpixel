@@ -73,16 +73,16 @@
             "image": "/img/filmy.reklamowe/Lukasiewicz.EMAG.481-325.jpg",
             "heading": "Instytut Łukasiewicza",
             "link": "/filmy-reklamowe/instytut-lukasiewicza",
-            "category": "Photography",
-            "filterClass": "photography creative"
+            "category": "przemysł 4.0",
+            "filterClass": "przemysł 4.0"
         },
         {
             "id": 4,
             "image": "/img/filmy.reklamowe/talmex.instalacje.przemyslowe.481-325.jpg",
-            "heading": "Talmex",
-            "link": "/filmy-reklamowe/talmex",
-            "category": "Life Style",
-            "filterClass": "design"
+            "heading": "Talmex - instalacje przemysłowe",
+            "link": "/filmy-reklamowe/instalacje-przemyslowe-talmex",
+            "category": "przemysł",
+            "filterClass": "przemysł"
         },
         {
             "id": 5,

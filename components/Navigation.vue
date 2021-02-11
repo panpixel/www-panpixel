@@ -10,7 +10,7 @@
 
             <li class="lavel-1">
                 <n-link to="/o-nas">
-                    <span>O nas</span>
+                    <span>O-nas</span>
                 </n-link>
                
             </li>
@@ -53,7 +53,7 @@
             </li>
               <li class="lavel-1">
                 <n-link to="/projektowanie-stron-internetowych">
-                    <span>Projektowanie stron www</span>
+                    <span>Strony-WWW</span>
                 </n-link>
          
             </li>

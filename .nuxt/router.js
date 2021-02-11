@@ -43,6 +43,7 @@ const _2eea4698 = () => interopDefault(import('..\\pages\\element\\pricing-box.v
 const _6644b269 = () => interopDefault(import('..\\pages\\element\\tab.vue' /* webpackChunkName: "pages/element/tab" */))
 const _378cc339 = () => interopDefault(import('..\\pages\\element\\team.vue' /* webpackChunkName: "pages/element/team" */))
 const _59c40673 = () => interopDefault(import('..\\pages\\element\\testimonial.vue' /* webpackChunkName: "pages/element/testimonial" */))
+const _442de44d = () => interopDefault(import('..\\pages\\filmy-reklamowe\\instalacje-przemyslowe-talmex.vue' /* webpackChunkName: "pages/filmy-reklamowe/instalacje-przemyslowe-talmex" */))
 const _764f4f60 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\instytut-lukasiewicza.vue' /* webpackChunkName: "pages/filmy-reklamowe/instytut-lukasiewicza" */))
 const _38603dfc = () => interopDefault(import('..\\pages\\filmy-reklamowe\\klimatyzacja-wentylacja-ventixserwis.vue' /* webpackChunkName: "pages/filmy-reklamowe/klimatyzacja-wentylacja-ventixserwis" */))
 const _28627770 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\portfolio-details.vue' /* webpackChunkName: "pages/filmy-reklamowe/portfolio-details" */))
@@ -241,6 +242,10 @@ export const routerOptions = {
     path: "/element/testimonial",
     component: _59c40673,
     name: "element-testimonial"
+  }, {
+    path: "/filmy-reklamowe/instalacje-przemyslowe-talmex",
+    component: _442de44d,
+    name: "filmy-reklamowe-instalacje-przemyslowe-talmex"
   }, {
     path: "/filmy-reklamowe/instytut-lukasiewicza",
     component: _764f4f60,
