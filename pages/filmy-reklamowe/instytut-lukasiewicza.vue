@@ -14,11 +14,11 @@
                     <div class="col-lg-4">
                         <div class="portfolio-left bk-portfolio-details">
                             <div class="portfolio-main-info">
-                                <h3 class="heading heading-h3 line-height-1-42">Producent kanałów wentylacyjnych</h3>
+                                <h3 class="heading heading-h3 line-height-1-42">Sieć Badawcza Łukasiewicz </h3>
                                 <div class="portfolio-content mt--75 mb--75 mt_md--40 mb_md--40 mt_sm--40 mb_sm--40">
-                                    <h5 class="heading heading-h6">Produkcja filmu reklamowego</h5>
+                                    <h5 class="heading heading-h6">Produkcja filmu promocyjnego</h5>
                                     <div class="desc mt--20">
-                                        <p class="bk_pra">Przedstawiciele filmy Sanen zgłosili się do nas ...</p>
+                                        <p class="bk_pra">Instytut Łukasiewicza - film zrealizowany przy współpracy ze Stadler Media. <br/> Sieć Badawcza Łukasiewicza dostarcza atrakcyjne, kompletne i konkurencyjne rozwiązania biznesowe w obszarach automatyki, chemii, biomedycyny, teleinformatyki, materiałów oraz zaawansowanego wytwarzania. </p>
                                     </div>
                                 </div>
                                 <!-- Start Details List -->
@@ -26,12 +26,12 @@
 
                                     <div class="details-list">
                                         <label>Data</label>
-                                        <span>28 Sep 2007</span>
+                                        <span>kwiecień 2020</span>
                                     </div>
 
                                     <div class="details-list">
                                         <label>Klient</label>
-                                        <span>Sanen ⋆ Sanitary Engineering</span>
+                                        <span>Instytut Łukasiewicza</span>
                                     </div>
 
                                     <div class="details-list">
@@ -42,17 +42,15 @@
                                     </div>
 
                                     <div class="details-list">
-                                        <label>Awards</label>
-                                        <span>2015 Cambridge Impressive Design 2016 Best Design of the Year</span>
+                                        <label>Notatka</label>
+                                        <span></span>
                                     </div>
 
                                 </div>
                                 <!-- End Details List -->
 
                                 <!-- Start Portfolio Share -->
-                                <div class="portfolio-share pt--70 pt_md--40 pt_sm--40">
-                                    <h6 class="heading heading-h6">SHARE</h6>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -61,7 +59,7 @@
                         <div class="portfolio-right portfolio-details-gallery text-center text-md-right">
                             <!-- Start Portfolio Image -->
                             <div class="portfolio-image mb--50">
-                                <script src="https://fast.wistia.com/embed/medias/w8k12bqs1d.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_w8k12bqs1d videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/w8k12bqs1d/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
+<script src="https://fast.wistia.com/embed/medias/hv2x6xul67.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_hv2x6xul67 videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/hv2x6xul67/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>                               
                                 <div class="cation-text ptb--20 bg_color--5 text-center">
                                     <p class="bk_pra">Produkcja kanałów wentylacyjnych</p>
                                 </div>
@@ -70,18 +68,18 @@
 
                             <!-- Start Portfolio Image -->
                             <div class="portfolio-image mb--50">
-                                <img class="w-100" src="/img/portfolio/big-image/caption-2.jpg" alt="portfolio">
+                                <img class="w-100" src="/img/portfolio/firmy/spot-reklamowy-siec-badawcza-lukasiewicza01.jpg" alt="Sieć Badawcza Łukasiewicza">
                                 <div class="cation-text ptb--20 bg_color--5 text-center">
-                                    <p class="bk_pra">Natural light and it's importance on your health</p>
+                                    <p class="bk_pra">Komora</p>
                                 </div>
                             </div>
                             <!-- End Portfolio Image -->
 
                             <!-- Start Portfolio Image -->
                             <div class="portfolio-image">
-                                <img class="w-100" src="/img/portfolio/big-image/caption-3.jpg" alt="portfolio">
+                                <img class="w-100" src="/img/portfolio/firmy/spot-reklamowy-siec-badawcza-lukasiewicza02.jpg" alt="Sieć Badawcza Łukasiewicza">
                                 <div class="cation-text ptb--20 bg_color--5 text-center">
-                                    <p class="bk_pra">Bring natural light into your interiors as a design element</p>
+                                    <p class="bk_pra">Cyberbezpieczeństwo</p>
                                 </div>
                             </div>
                             <!-- End Portfolio Image -->

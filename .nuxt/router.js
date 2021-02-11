@@ -43,10 +43,10 @@ const _2eea4698 = () => interopDefault(import('..\\pages\\element\\pricing-box.v
 const _6644b269 = () => interopDefault(import('..\\pages\\element\\tab.vue' /* webpackChunkName: "pages/element/tab" */))
 const _378cc339 = () => interopDefault(import('..\\pages\\element\\team.vue' /* webpackChunkName: "pages/element/team" */))
 const _59c40673 = () => interopDefault(import('..\\pages\\element\\testimonial.vue' /* webpackChunkName: "pages/element/testimonial" */))
-const _4d232464 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\lukasiewicz.vue' /* webpackChunkName: "pages/filmy-reklamowe/lukasiewicz" */))
+const _764f4f60 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\instytut-lukasiewicza.vue' /* webpackChunkName: "pages/filmy-reklamowe/instytut-lukasiewicza" */))
+const _38603dfc = () => interopDefault(import('..\\pages\\filmy-reklamowe\\klimatyzacja-wentylacja-ventixserwis.vue' /* webpackChunkName: "pages/filmy-reklamowe/klimatyzacja-wentylacja-ventixserwis" */))
 const _28627770 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\portfolio-details.vue' /* webpackChunkName: "pages/filmy-reklamowe/portfolio-details" */))
 const _4888bc6d = () => interopDefault(import('..\\pages\\filmy-reklamowe\\produkcja-kanalow-wentylacyjnych-sanen.vue' /* webpackChunkName: "pages/filmy-reklamowe/produkcja-kanalow-wentylacyjnych-sanen" */))
-const _0368e5a9 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\ventix.vue' /* webpackChunkName: "pages/filmy-reklamowe/ventix" */))
 const _3f455e48 = () => interopDefault(import('..\\pages\\filmy-reklamowe\\zlo.vue' /* webpackChunkName: "pages/filmy-reklamowe/zlo" */))
 const _023f5250 = () => interopDefault(import('..\\pages\\fotografia-reklamowa\\fornit.vue' /* webpackChunkName: "pages/fotografia-reklamowa/fornit" */))
 const _16e420cc = () => interopDefault(import('..\\pages\\fotografia-reklamowa\\ventix.vue' /* webpackChunkName: "pages/fotografia-reklamowa/ventix" */))
@@ -242,9 +242,13 @@ export const routerOptions = {
     component: _59c40673,
     name: "element-testimonial"
   }, {
-    path: "/filmy-reklamowe/lukasiewicz",
-    component: _4d232464,
-    name: "filmy-reklamowe-lukasiewicz"
+    path: "/filmy-reklamowe/instytut-lukasiewicza",
+    component: _764f4f60,
+    name: "filmy-reklamowe-instytut-lukasiewicza"
+  }, {
+    path: "/filmy-reklamowe/klimatyzacja-wentylacja-ventixserwis",
+    component: _38603dfc,
+    name: "filmy-reklamowe-klimatyzacja-wentylacja-ventixserwis"
   }, {
     path: "/filmy-reklamowe/portfolio-details",
     component: _28627770,
@@ -253,10 +257,6 @@ export const routerOptions = {
     path: "/filmy-reklamowe/produkcja-kanalow-wentylacyjnych-sanen",
     component: _4888bc6d,
     name: "filmy-reklamowe-produkcja-kanalow-wentylacyjnych-sanen"
-  }, {
-    path: "/filmy-reklamowe/ventix",
-    component: _0368e5a9,
-    name: "filmy-reklamowe-ventix"
   }, {
     path: "/filmy-reklamowe/zlo",
     component: _3f455e48,

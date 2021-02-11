@@ -280,11 +280,18 @@
     "_name": "_59c40673"
   },
   {
-    "name": "filmy-reklamowe-lukasiewicz",
-    "path": "/filmy-reklamowe/lukasiewicz",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\lukasiewicz.vue",
-    "chunkName": "pages/filmy-reklamowe/lukasiewicz",
-    "_name": "_4d232464"
+    "name": "filmy-reklamowe-instytut-lukasiewicza",
+    "path": "/filmy-reklamowe/instytut-lukasiewicza",
+    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\instytut-lukasiewicza.vue",
+    "chunkName": "pages/filmy-reklamowe/instytut-lukasiewicza",
+    "_name": "_764f4f60"
+  },
+  {
+    "name": "filmy-reklamowe-klimatyzacja-wentylacja-ventixserwis",
+    "path": "/filmy-reklamowe/klimatyzacja-wentylacja-ventixserwis",
+    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\klimatyzacja-wentylacja-ventixserwis.vue",
+    "chunkName": "pages/filmy-reklamowe/klimatyzacja-wentylacja-ventixserwis",
+    "_name": "_38603dfc"
   },
   {
     "name": "filmy-reklamowe-portfolio-details",
@@ -299,13 +306,6 @@
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\produkcja-kanalow-wentylacyjnych-sanen.vue",
     "chunkName": "pages/filmy-reklamowe/produkcja-kanalow-wentylacyjnych-sanen",
     "_name": "_4888bc6d"
-  },
-  {
-    "name": "filmy-reklamowe-ventix",
-    "path": "/filmy-reklamowe/ventix",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\ventix.vue",
-    "chunkName": "pages/filmy-reklamowe/ventix",
-    "_name": "_0368e5a9"
   },
   {
     "name": "filmy-reklamowe-zlo",

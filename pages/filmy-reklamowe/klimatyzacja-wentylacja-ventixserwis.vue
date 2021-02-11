@@ -14,11 +14,11 @@
                     <div class="col-lg-4">
                         <div class="portfolio-left bk-portfolio-details">
                             <div class="portfolio-main-info">
-                                <h3 class="heading heading-h3 line-height-1-42">Producent kanałów wentylacyjnych</h3>
+                                <h3 class="heading heading-h3 line-height-1-42">Serwis urządzeń sanitarnych</h3>
                                 <div class="portfolio-content mt--75 mb--75 mt_md--40 mb_md--40 mt_sm--40 mb_sm--40">
-                                    <h5 class="heading heading-h6">Produkcja filmu reklamowego</h5>
+                                    <h5 class="heading heading-h6">Produkcja filmu promocyjnego</h5>
                                     <div class="desc mt--20">
-                                        <p class="bk_pra">Przedstawiciele filmy Sanen zgłosili się do nas ...</p>
+                                        <p class="bk_pra">Firma Ventix sp. z o.o.</p>
                                     </div>
                                 </div>
                                 <!-- Start Details List -->
@@ -26,33 +26,31 @@
 
                                     <div class="details-list">
                                         <label>Data</label>
-                                        <span>28 Sep 2007</span>
+                                        <span>grudzień 2020</span>
                                     </div>
 
                                     <div class="details-list">
                                         <label>Klient</label>
-                                        <span>Sanen ⋆ Sanitary Engineering</span>
+                                        <span>Ventix Serwis ⋆ klimatyzacja wentylacja</span>
                                     </div>
 
                                     <div class="details-list">
                                         <label>Kategoria</label>
                                         <span>
-                                            <n-link to="">Digital</n-link>
+                                            <n-link to="">Klimatyzacja Wentylacja</n-link>
                                         </span>
                                     </div>
 
                                     <div class="details-list">
-                                        <label>Awards</label>
-                                        <span>2015 Cambridge Impressive Design 2016 Best Design of the Year</span>
+                                        <label>Notatka</label>
+                                        <span></span>
                                     </div>
 
                                 </div>
                                 <!-- End Details List -->
 
                                 <!-- Start Portfolio Share -->
-                                <div class="portfolio-share pt--70 pt_md--40 pt_sm--40">
-                                    <h6 class="heading heading-h6">SHARE</h6>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -69,16 +67,16 @@
 
                             <!-- Start Portfolio Image -->
                             <div class="portfolio-image mb--50">
-                                <img class="w-100" src="/img/portfolio/big-image/caption-2.jpg" alt="portfolio">
+                                <img class="w-100" src="/img/portfolio/firmy/spot-reklamowy-ventixserwis03.jpg" alt="Ventix Serwis">
                                 <div class="cation-text ptb--20 bg_color--5 text-center">
-                                    <p class="bk_pra">Natural light and it's importance on your health</p>
+                                    <p class="bk_pra">Wymiana filtrów  w jednostce</p>
                                 </div>
                             </div>
                             <!-- End Portfolio Image -->
 
                             <!-- Start Portfolio Image -->
                             <div class="portfolio-image">
-                                <img class="w-100" src="/img/portfolio/big-image/caption-3.jpg" alt="portfolio">
+                                <img class="w-100" src="/img/portfolio/firmy/spot-reklamowy-ventixserwis03.jpg" alt="entix Serwis">
                                 <div class="cation-text ptb--20 bg_color--5 text-center">
                                     <p class="bk_pra">Bring natural light into your interiors as a design element</p>
                                 </div>

@@ -64,15 +64,15 @@
             "id": 2,
             "image": "/img/filmy.reklamowe/ventix.serwis.urzadzen.sanitarnych.481-325.jpg",
             "heading": "Serwis urządzeń sanitarnych",
-            "link": "/filmy-reklamowe/ventix",
-            "category": "Marketing",
-            "filterClass": "photography design"
+            "link": "/filmy-reklamowe/klimatyzacja-wentylacja-ventixserwis",
+            "category": "klimatyzacja wentylacja",
+            "filterClass": "klimatyzacja wentylacja"
         },
         {
             "id": 3,
             "image": "/img/filmy.reklamowe/Lukasiewicz.EMAG.481-325.jpg",
             "heading": "Instytut Łukasiewicza",
-            "link": "/filmy-reklamowe/lukasiewicz",
+            "link": "/filmy-reklamowe/instytut-lukasiewicza",
             "category": "Photography",
             "filterClass": "photography creative"
         },
@@ -99,28 +99,7 @@
             "link": "/filmy-reklamowe/sanen",
             "category": "Photography",
             "filterClass": "digital"
-        },
-        {
-            "id": 7,
-            "image": "/img/portfolio/grid/caption-7.jpg",
-            "heading": "firma",
-            "link": "/filmy-reklamowe/sanen",
-            "category": "Design"
-        },
-        {
-            "id": 8,
-            "image": "/img/portfolio/grid/caption-8.jpg",
-            "heading": "firma",
-            "link": "/filmy-reklamowe/sanen",
-            "filterClass": "digital design"
-        },
-        {
-            "id": 9,
-            "image": "/img/portfolio/grid/caption-9.jpg",
-            "heading": "firma",
-            "link": "/filmy-reklamowe/sanen",
-            "category": "Design",
-            "filterClass": "digital"
         }
+       
     ]
 }
