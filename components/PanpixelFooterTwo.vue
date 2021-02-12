@@ -23,20 +23,18 @@
                             <div class="footer-menu">
                                 <ul class="ft-menu-list bk-hover">
                                     <li>
-                                        <n-link to="/about-us-01">O nas</n-link>
+                                        <n-link to="/o-nas">O nas</n-link>
                                     </li>
                                     <li>
-                                        <n-link to="/team-grid">Realizacje</n-link>
+                                        <n-link to="/realizacje">Realizacje</n-link>
                                     </li>
                                     <li>
-                                        <n-link to="/career">Filmowanie</n-link>
+                                        <n-link to="/filmowanie">Filmowanie</n-link>
                                     </li>
                                     <li>
-                                        <n-link to="/services-classic">Kontakt</n-link>
+                                        <n-link to="/kontakt">Kontakt</n-link>
                                     </li>
-                                    <li>
-                                        <n-link to="/contact-us-modern">Kontakt</n-link>
-                                    </li>
+                                 
                                 </ul>
                             </div>
                         </div>

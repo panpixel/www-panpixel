@@ -11,7 +11,7 @@
 
         <ContactModern />
 
-        <FooterTwo />
+        <PanpixelFooterTwo />
 
     </div>
 </template>
@@ -24,7 +24,7 @@
             SearchPopup: () => import('@/components/SearchPopup'),
             ContactUsBreadcrumb: () => import('@/components/ContactUsBreadcrumb'),
             ContactModern: () => import('@/components/sections/ContactModern'),
-            FooterTwo: () => import('@/components/FooterTwo'),
+            PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
         },
 
         head() {

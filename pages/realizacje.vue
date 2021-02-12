@@ -29,7 +29,7 @@
             </div>
         </div>
 
-        <FooterTwo />
+        <PanpixelFooterTwo />
 
     </div>
 </template>
@@ -43,7 +43,7 @@
             PanpixelMobileMenu: () => import('@/components/PanpixelMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
             PortfolioItemCenterCaption: () => import('@/components/PortfolioItemCenterCaption'),
-            FooterTwo: () => import('@/components/FooterTwo'),
+           PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
         },
         
         data () {

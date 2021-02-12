@@ -30,7 +30,7 @@
 
         <CallToAction />
 
-        <FooterTwo />
+        <PanpixelFooterTwo />
 
     </div>
 </template>
@@ -48,7 +48,7 @@
             TestimonialTwo: () => import('@/components/sections/TestimonialTwo'),
             BrandLogoCarousel: () => import('@/components/BrandLogoCarousel'),
             CallToAction: () => import('@/components/CallToAction'),
-            FooterTwo: () => import('@/components/FooterTwo'),
+            PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
         },
 
         mounted () {

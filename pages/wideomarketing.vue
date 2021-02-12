@@ -15,7 +15,7 @@
 
         <CallToAction />
 
-        <FooterTwo />
+        <PanpixelFooterTwo />
 
     </div>
 </template>
@@ -30,7 +30,7 @@
             ServiceModern: () => import('@/components/ServiceModern'),
             ServiceIconBoxTwo: () => import('@/components/sections/ServiceIconBoxTwo'),
             CallToAction: () => import('@/components/CallToAction'),
-            FooterTwo: () => import('@/components/FooterTwo'),
+            PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
         },
 
         head() {

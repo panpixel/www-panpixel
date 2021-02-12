@@ -38,7 +38,7 @@
 
         <CallToAction />
 
-        <FooterTwo />
+        <PanpixelFooterTwo />
 
     </div>
 </template>
@@ -51,7 +51,7 @@
             PanpixelMobileMenu: () => import('@/components/PanpixelMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
             CallToAction: () => import('@/components/CallToAction'),
-            FooterTwo: () => import('@/components/FooterTwo'),
+            PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
         },
 
         data () {
