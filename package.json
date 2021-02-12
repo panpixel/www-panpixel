@@ -1,8 +1,8 @@
 {
-    "name": "Filmy reklamowe ⋆ fotografia reklamowa ⋆ tworzenie stron www",
+    "name": "panpixel.com",
     "version": "1.0.0",
-    "description": "Za pomocą obrazu i dźwięku wzbogaconego o odpowiedni tekst, skutecznie docieramy do określonej grupy odbiorców. Projektujemy i tworzymy narzędzia marketingowe.",
-    "author": "panpixel.com",
+    "description": "Filmowanie, Fotografia, Strony Internetowe",
+    "author": "uzzal",
     "private": true,
     "scripts": {
         "dev": "nuxt",
