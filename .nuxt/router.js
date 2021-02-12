@@ -64,6 +64,7 @@ const _342f891f = () => interopDefault(import('..\\pages\\portfolio\\portfolio-g
 const _344bb821 = () => interopDefault(import('..\\pages\\portfolio\\portfolio-grid-metro-03.vue' /* webpackChunkName: "pages/portfolio/portfolio-grid-metro-03" */))
 const _940bda28 = () => interopDefault(import('..\\pages\\portfolio\\portfolio-with-caption.vue' /* webpackChunkName: "pages/portfolio/portfolio-with-caption" */))
 const _4d6de958 = () => interopDefault(import('..\\pages\\portfolio\\realizacje.vue' /* webpackChunkName: "pages/portfolio/realizacje" */))
+const _e344839c = () => interopDefault(import('..\\pages\\tworzenie-stron-www\\kratkiochronne.vue' /* webpackChunkName: "pages/tworzenie-stron-www/kratkiochronne" */))
 const _629f0bb8 = () => interopDefault(import('..\\pages\\blog\\_id.vue' /* webpackChunkName: "pages/blog/_id" */))
 const _08a9e09c = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
@@ -327,6 +328,10 @@ export const routerOptions = {
     path: "/portfolio/realizacje",
     component: _4d6de958,
     name: "portfolio-realizacje"
+  }, {
+    path: "/tworzenie-stron-www/kratkiochronne",
+    component: _e344839c,
+    name: "tworzenie-stron-www-kratkiochronne"
   }, {
     path: "/blog/:id?",
     component: _629f0bb8,

@@ -54,11 +54,11 @@
     "portfolioItems": [
         {
             "id": 1,
-            "image": "/img/fotografia.produktowa/Fornit-producent.mebli.481-325.jpg",
-            "heading": "Strona dla",
-            "link": "/fotografia-reklamowa/fornit",
-            "category": "Fotografia reklamowa",
-            "filterClass": "fotografia"
+            "image": "/img/strony-www/kratkiochronne.pl.481-325.jpg",
+            "heading": "Strona dla Kratki Ochronne",
+            "link": "/tworzenie-stron-www/kratkiochronne",
+            "category": "Strony WWW",
+            "filterClass": "strony-www"
         },
         {
             "id": 2,
