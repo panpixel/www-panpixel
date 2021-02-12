@@ -48,10 +48,7 @@
             PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
         },
          
-        mounted () {
-            document.body.classList.add('template-color-20', 'template-font-1')
-        },
-
+      
         head() {
             return {
                 title: 'Filmy reklamowe | Fotografia | Tworzenie stron WWWW |',
@@ -61,8 +58,12 @@
                           content: 'Za pomocą obrazu i dźwięku wzbogaconego o odpowiedni tekst, skutecznie docieramy do określonej grupy odbiorców. Projektujemy i tworzymy narzędzia marketingowe.'
                         }]
             }
+        },
+          mounted () {
+            document.body.classList.add('template-color-20', 'template-font-1')
         }
     };
-</script>
+</script> 
 
  
+
