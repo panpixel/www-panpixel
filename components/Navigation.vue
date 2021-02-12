@@ -3,7 +3,7 @@
         <ul class="mainmenu">
             <li class="lavel-1">
                 <n-link to="/">
-                    <span>Home</span>
+                    <span>Główna</span>
                 </n-link>
                
             </li>
