@@ -45,7 +45,7 @@ export default {
         '~/plugins/vue-masonry-css.js',
         '~/plugins/Mixitup.client.js',
         '~/plugins/silentbox.js',
-        { src: '~/plugins/vue-masonry', ssr: false },
+        { src: '~/plugins/vue-masonry', ssr: true },
         { src:'~/plugins/ga.js', mode: 'client' },
     ],
     /*
