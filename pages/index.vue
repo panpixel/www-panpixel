@@ -54,10 +54,15 @@
 
         head() {
             return {
-                title: 'filmy reklamowe ⋆ fotografia reklamowa ⋆ tworzenie stron www'
+                title: 'Filmy reklamowe | Fotografia | Tworzenie stron WWWW |',
+                meta: [ {
+                          hid: 'description',
+                          name: 'description',
+                          content: 'Za pomocą obrazu i dźwięku wzbogaconego o odpowiedni tekst, skutecznie docieramy do określonej grupy odbiorców. Projektujemy i tworzymy narzędzia marketingowe.'
+                        }]
             }
-        },
+        }
     };
 </script>
 
-
+ 
