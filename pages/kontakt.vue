@@ -27,10 +27,15 @@
             PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
         },
 
-        head() {
-            return {
-                title: 'Kontakt || Skuteczne filmy reklamowe'
-            }
-        },
+       head: {
+    title: 'Kontakt | skuteczne filmy reklamowe',
+    meta: [
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Skontakuj się z nami'
+      }
+    ],
+  },
     };
 </script>

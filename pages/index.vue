@@ -52,16 +52,11 @@
             document.body.classList.add('template-color-20', 'template-font-1')
         },
 
-      head: {
-    title: 'Filmy reklamowe ⋆ fotografia reklamowa ⋆ tworzenie stron www',
-    meta: [
-      {
-        hid: 'description',
-        name: 'description',
-        content: 'Produkcja filmów reklamowych'
-      }
-    ],
-  },
+        head() {
+            return {
+                title: 'filmy reklamowe ⋆ fotografia reklamowa ⋆ tworzenie stron www'
+            }
+        },
     };
 </script>
 
