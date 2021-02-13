@@ -57,7 +57,12 @@
 
         head() {
             return {
-                title: 'Filmowanie ⋆ spot reklamowy, film promocyjny, videomarketing || Jaworzno, Katowice'
+                title: 'Filmowanie ⋆ spot reklamowy ⋆ film promocyjny ⋆ videomarketing || Jaworzno, Katowice',
+                meta: [ {
+                          hid: 'description',
+                          name: 'description',
+                          content: 'Projektujemy i tworzymy narzędzia marketingowe tj. spot reklamowy, podnoszące skuteczność sprzedaży oraz prestiż przedsiębiorcy.'
+                        }]
             }
         },
     };
