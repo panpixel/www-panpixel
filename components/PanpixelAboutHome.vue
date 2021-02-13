@@ -56,11 +56,11 @@
                         marker: 1,
                     },
                     {
-                        title: 'Spoty reklamowe ',
+                        title: 'Wirtualny spacer',
                         marker: 2,
                     },
                     {
-                        title: 'Fotografia reklamowa',
+                        title: 'Fotografia',
                         marker: 3,
                     },
                     {
