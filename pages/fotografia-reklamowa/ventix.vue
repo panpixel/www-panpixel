@@ -14,11 +14,11 @@
                     <div class="col-lg-4">
                         <div class="portfolio-left bk-portfolio-details">
                             <div class="portfolio-main-info">
-                                <h3 class="heading heading-h3 line-height-1-42">Producent mebli</h3>
+                                <h3 class="heading heading-h3 line-height-1-42">Klimatyzacja i wentylacja</h3>
                                 <div class="portfolio-content mt--75 mb--75 mt_md--40 mb_md--40 mt_sm--40 mb_sm--40">
                                     <h5 class="heading heading-h6">Fotografia przemysłowa</h5>
                                     <div class="desc mt--20">
-                                        <p class="bk_pra">Sesja zdjęciowa dla firmy Ventix, wykonana w siedzibie</p>
+                                        <p class="bk_pra">Sesja zdjęciowa dla firmy Ventix</p>
                                     </div>
                                 </div>
                                 <!-- Start Details List -->
@@ -42,8 +42,8 @@
                                     </div>
 
                                     <div class="details-list">
-                                        <label>Awards</label>
-                                        <span>2015 Cambridge Impressive Design 2016 Best Design of the Year</span>
+                                        <label>Notatka</label>
+                                        <span></span>
                                     </div>
 
                                 </div>

@@ -42,8 +42,8 @@
                                     </div>
 
                                     <div class="details-list">
-                                        <label>Awards</label>
-                                        <span>2015 Cambridge Impressive Design 2016 Best Design of the Year</span>
+                                        <label>Notatka</label>
+                                        <span></span>
                                     </div>
 
                                 </div>
