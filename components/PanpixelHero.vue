@@ -59,6 +59,13 @@
                         subHeading: "filmy reklamowe, fotografia, strony internetowe",
                         btnUrl: "/",
                         bgImage: "/img/slider/spot-reklamowy-dla-biznesu.jpg"
+                    },
+                     {
+                        id: 2,
+                        heading: "TWORZENIE STRON WWW",
+                        subHeading: "strony internetowe dla firm",
+                        btnUrl: "/",
+                        bgImage: "/img/slider/tworzenie-stron-www.jpg"
                     }
            
                 ]
