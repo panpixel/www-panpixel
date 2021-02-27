@@ -42,7 +42,8 @@ export default {
         '~/plugins/vue-awesome-swiper.js',
         '~/plugins/vuejs-paginate.js',
         '~/plugins/vue2-google-maps.js',
-        { src:'~/plugins/ga.js', mode: 'client' },
+        '~/plugins/silentbox.js',
+        { src:'~/plugins/ga.js', ssr: false },
     ],
     /*
     ** Nuxt.js dev-modules

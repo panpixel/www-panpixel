@@ -16,6 +16,7 @@ import nuxt_plugin_bootstrapvue_5cb27c71 from 'nuxt_plugin_bootstrapvue_5cb27c71
 import nuxt_plugin_vueawesomeswiper_5ce03f58 from 'nuxt_plugin_vueawesomeswiper_5ce03f58' // Source: ..\\plugins\\vue-awesome-swiper.js (mode: 'all')
 import nuxt_plugin_vuejspaginate_185e95ec from 'nuxt_plugin_vuejspaginate_185e95ec' // Source: ..\\plugins\\vuejs-paginate.js (mode: 'all')
 import nuxt_plugin_vue2googlemaps_51da65b7 from 'nuxt_plugin_vue2googlemaps_51da65b7' // Source: ..\\plugins\\vue2-google-maps.js (mode: 'all')
+import nuxt_plugin_silentbox_80b78152 from 'nuxt_plugin_silentbox_80b78152' // Source: ..\\plugins\\silentbox.js (mode: 'all')
 import nuxt_plugin_ga_34d435b2 from 'nuxt_plugin_ga_34d435b2' // Source: ..\\plugins\\ga.js (mode: 'client')
 
 // Component: <ClientOnly>
@@ -183,6 +184,10 @@ async function createApp(ssrContext, config = {}) {
 
   if (typeof nuxt_plugin_vue2googlemaps_51da65b7 === 'function') {
     await nuxt_plugin_vue2googlemaps_51da65b7(app.context, inject)
+  }
+
+  if (typeof nuxt_plugin_silentbox_80b78152 === 'function') {
+    await nuxt_plugin_silentbox_80b78152(app.context, inject)
   }
 
   if (process.client && typeof nuxt_plugin_ga_34d435b2 === 'function') {
