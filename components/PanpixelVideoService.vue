@@ -3,7 +3,7 @@
         <div class="row row--0 bg_color--14 align-items-center video-with-thumb">
             <div class="col-lg-6">
                 <div class="service-thumb authenthic-service">
-                    <img src="/img/about/filmy-reklamowe-dla-firm-bg.jpg" alt="filmy reklamowe dla firm">
+                    <img src="/img/about/filmy-reklamowe-dla-firm-bg.jpg" alt="filmy reklamowe dla">
                 </div>
             </div>
             <div class="col-lg-6 ptb-md--80 ptb-sm--80">
@@ -18,7 +18,7 @@
                     </h2>
                 </div>
             </div>
-
+            <client-only>
             <silent-box :image="videos[0]">
                 <template v-slot:silentbox-item>
                     <div class="video-btn position--center d-none d-lg-block">
@@ -28,6 +28,7 @@
                     </div>
                 </template>
             </silent-box>
+            </client-only>
 
         </div>
     </div>
@@ -40,7 +41,7 @@
                 videos: [
                     {
                         src: 'https://www.youtube.com/watch?v=cJRfYScImO4',
-                        thumbnail: ""
+                        thumbnail: "/img/about/filmy-reklamowe-dla-firm-bg.jpg"
                     }
                 ],
             }

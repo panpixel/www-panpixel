@@ -37,7 +37,7 @@
             PanpixelMobileMenu: () => import('@/components/PanpixelMobileMenu'),
             PanpixelHero: () => import('@/components/PanpixelHero'),
             PanpixelAboutHome: () => import('@/components/PanpixelAboutHome'),
-            PanpixelVideoService: () => import('@/components/PanpixelVideoService'),
+            PanpixelVideoService: () => import('@/components/VideoService'),
             PortfolioFilmy: () => import('@/components/sections/PortfolioFilmy'),
             PortfolioFotografia: () => import('@/components/sections/PortfolioFotografia'),
             PortfolioStronyWWW: () => import('@/components/sections/PortfolioStronyWWW'),
