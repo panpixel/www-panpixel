@@ -46,7 +46,7 @@
             PanpixelTestimonial: () => import('@/components/sections/PanpixelTestimonial'),
             
             PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
-        },
+        }, 
          
       
         head() {
