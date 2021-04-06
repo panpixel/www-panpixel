@@ -51,7 +51,7 @@
       
         head() {
             return {
-                title: 'Filmy reklamowe ⋆ wirtualny spacer ⋆ Tworzenie stron WWWW ',
+                title: 'Filmy reklamowe ⋆ Wirtualny spacer ⋆ Tworzenie stron WWWW ',
                 meta: [ {
                           hid: 'description',
                           name: 'description',
