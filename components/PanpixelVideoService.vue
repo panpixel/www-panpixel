@@ -3,7 +3,7 @@
         <div class="row row--0 bg_color--14 align-items-center video-with-thumb">
             <div class="col-lg-6">
                 <div class="service-thumb authenthic-service">
-                    <img src="/img/about/filmy-reklamowe-dla-firm-bg.jpg" alt="service image">
+                    <img src="/img/about/filmy-reklamowe-dla-firm-bg.jpg" alt="filmy reklamowe dla firm">
                 </div>
             </div>
             <div class="col-lg-6 ptb-md--80 ptb-sm--80">
@@ -40,7 +40,7 @@
                 videos: [
                     {
                         src: 'https://www.youtube.com/watch?v=cJRfYScImO4',
-                        thumbnail: "/img/about/filmy-reklamowe-dla-firm-bg.jpg"
+                        thumbnail: ""
                     }
                 ],
             }

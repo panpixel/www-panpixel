@@ -29,7 +29,6 @@
 
     </div>
 </template>
-
 <script>
 
     export default {
@@ -47,23 +46,19 @@
             
             PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
         }, 
-         
+           mounted () {
+            document.body.classList.add('template-color-20', 'template-font-1')
+        },
       
         head() {
             return {
-                title: 'Filmy reklamowe ⋆ Wirtualny spacer ⋆ Tworzenie stron WWWW ',
+                title: 'Filmy reklamowe ⋆ Wirtualny spacer ⋆ Tworzenie stron WWWW',
                 meta: [ {
                           hid: 'description',
                           name: 'description',
                           content: 'Za pomocą obrazu i dźwięku wzbogaconego o odpowiedni tekst, skutecznie docieramy do określonej grupy odbiorców. Tworzymy m.in. filmy reklamowe, wirtualny spacer'
                         }]
             }
-        },
-          mounted () {
-            document.body.classList.add('template-color-20', 'template-font-1')
-        }
+        }         
     };
 </script> 
-
- 
-
