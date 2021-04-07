@@ -58,7 +58,13 @@
 
         head() {
             return {
-                title: 'Filmy reklamowe, spoty reklamowe'
+                title: 'Tworzymy filmy reklamowe ⋆ spoty reklamowe || Realizacje',
+                 meta: [ {
+                          hid: 'description',
+                          name: 'description',
+                          content: 'Projektujemy i tworzymy narzędzia marketingowe tj. spot reklamowy, strony www podnoszące skuteczność sprzedaży oraz prestiż przedsiębiorcy.'
+                        }]
+           
             }
         },
     };

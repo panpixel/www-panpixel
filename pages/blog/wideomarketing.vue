@@ -21,7 +21,7 @@
             </div>
         </div>
 
-        <FooterTwo />
+        <PanpixelFooterTwo />
         
     </div>
 </template>
@@ -36,7 +36,7 @@
             SearchPopup: () => import('@/components/SearchPopup'),
             Breadcrumb: () => import('@/components/Breadcrumb'),
             BlogPostThree: () => import('@/components/BlogPostThree'),
-            FooterTwo: () => import('@/components/FooterTwo'),
+            PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
         },
 
         data () {

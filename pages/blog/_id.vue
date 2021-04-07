@@ -215,7 +215,7 @@
             </div>
         </div>
 
-        <FooterTwo />
+        <PanpixelFooterTwo />
 
     </div>
 </template>
@@ -229,7 +229,7 @@
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
             BlogSidebar: () => import('@/components/BlogSidebar'),
-            FooterTwo: () => import('@/components/FooterTwo'),
+             PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
         },
         
         data () {
