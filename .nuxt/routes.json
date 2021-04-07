@@ -60,88 +60,10 @@
     "chunkName": "pages/blog/5-sposobow-na-film-reklamowy"
   },
   {
-    "name": "blog-blog-creative",
-    "path": "/blog/blog-creative",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\blog-creative.vue",
-    "chunkName": "pages/blog/blog-creative"
-  },
-  {
-    "name": "blog-blog-details",
-    "path": "/blog/blog-details",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\blog-details.vue",
-    "chunkName": "pages/blog/blog-details"
-  },
-  {
-    "name": "blog-blog-details-modern-layout",
-    "path": "/blog/blog-details-modern-layout",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\blog-details-modern-layout.vue",
-    "chunkName": "pages/blog/blog-details-modern-layout"
-  },
-  {
-    "name": "blog-blog-grid-classic",
-    "path": "/blog/blog-grid-classic",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\blog-grid-classic.vue",
-    "chunkName": "pages/blog/blog-grid-classic"
-  },
-  {
-    "name": "blog-blog-grid-classic copy",
-    "path": "/blog/blog-grid-classic copy",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\blog-grid-classic copy.vue",
-    "chunkName": "pages/blog/blog-grid-classic copy"
-  },
-  {
-    "name": "blog-blog-grid-classic-sidebar",
-    "path": "/blog/blog-grid-classic-sidebar",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\blog-grid-classic-sidebar.vue",
-    "chunkName": "pages/blog/blog-grid-classic-sidebar"
-  },
-  {
-    "name": "blog-blog-grid-mesonry",
-    "path": "/blog/blog-grid-mesonry",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\blog-grid-mesonry.vue",
-    "chunkName": "pages/blog/blog-grid-mesonry"
-  },
-  {
-    "name": "blog-blog-grid-minimal",
-    "path": "/blog/blog-grid-minimal",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\blog-grid-minimal.vue",
-    "chunkName": "pages/blog/blog-grid-minimal"
-  },
-  {
-    "name": "blog-blog-grid-minimal-outline",
-    "path": "/blog/blog-grid-minimal-outline",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\blog-grid-minimal-outline.vue",
-    "chunkName": "pages/blog/blog-grid-minimal-outline"
-  },
-  {
-    "name": "blog-blog-grid-modern",
-    "path": "/blog/blog-grid-modern",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\blog-grid-modern.vue",
-    "chunkName": "pages/blog/blog-grid-modern"
-  },
-  {
-    "name": "blog-blog-grid-simple",
-    "path": "/blog/blog-grid-simple",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\blog-grid-simple.vue",
-    "chunkName": "pages/blog/blog-grid-simple"
-  },
-  {
-    "name": "blog-blog-grid-standard",
-    "path": "/blog/blog-grid-standard",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\blog-grid-standard.vue",
-    "chunkName": "pages/blog/blog-grid-standard"
-  },
-  {
-    "name": "blog-blog-standard-list",
-    "path": "/blog/blog-standard-list",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\blog-standard-list.vue",
-    "chunkName": "pages/blog/blog-standard-list"
-  },
-  {
-    "name": "blog-wideomarketing",
-    "path": "/blog/wideomarketing",
-    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\wideomarketing.vue",
-    "chunkName": "pages/blog/wideomarketing"
+    "name": "blog-marketing-internetowy",
+    "path": "/blog/marketing-internetowy",
+    "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\marketing-internetowy.vue",
+    "chunkName": "pages/blog/marketing-internetowy"
   },
   {
     "name": "element-accordion",

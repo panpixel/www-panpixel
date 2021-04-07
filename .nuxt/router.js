@@ -13,20 +13,7 @@ const _1080060d = () => interopDefault(import('..\\pages\\services-list.vue' /* 
 const _bb770364 = () => interopDefault(import('..\\pages\\services-modern.vue' /* webpackChunkName: "pages/services-modern" */))
 const _69e7aafa = () => interopDefault(import('..\\pages\\wideomarketing.vue' /* webpackChunkName: "pages/wideomarketing" */))
 const _385448db = () => interopDefault(import('..\\pages\\blog\\5-sposobow-na-film-reklamowy.vue' /* webpackChunkName: "pages/blog/5-sposobow-na-film-reklamowy" */))
-const _bcd9a810 = () => interopDefault(import('..\\pages\\blog\\blog-creative.vue' /* webpackChunkName: "pages/blog/blog-creative" */))
-const _4683d089 = () => interopDefault(import('..\\pages\\blog\\blog-details.vue' /* webpackChunkName: "pages/blog/blog-details" */))
-const _25e053d4 = () => interopDefault(import('..\\pages\\blog\\blog-details-modern-layout.vue' /* webpackChunkName: "pages/blog/blog-details-modern-layout" */))
-const _943ca258 = () => interopDefault(import('..\\pages\\blog\\blog-grid-classic.vue' /* webpackChunkName: "pages/blog/blog-grid-classic" */))
-const _2e69c8f1 = () => interopDefault(import('..\\pages\\blog\\blog-grid-classic copy.vue' /* webpackChunkName: "pages/blog/blog-grid-classic copy" */))
-const _aa727c3a = () => interopDefault(import('..\\pages\\blog\\blog-grid-classic-sidebar.vue' /* webpackChunkName: "pages/blog/blog-grid-classic-sidebar" */))
-const _a3a7b0fa = () => interopDefault(import('..\\pages\\blog\\blog-grid-mesonry.vue' /* webpackChunkName: "pages/blog/blog-grid-mesonry" */))
-const _4fd6373a = () => interopDefault(import('..\\pages\\blog\\blog-grid-minimal.vue' /* webpackChunkName: "pages/blog/blog-grid-minimal" */))
-const _ab7fdb50 = () => interopDefault(import('..\\pages\\blog\\blog-grid-minimal-outline.vue' /* webpackChunkName: "pages/blog/blog-grid-minimal-outline" */))
-const _4439dc4d = () => interopDefault(import('..\\pages\\blog\\blog-grid-modern.vue' /* webpackChunkName: "pages/blog/blog-grid-modern" */))
-const _666b2160 = () => interopDefault(import('..\\pages\\blog\\blog-grid-simple.vue' /* webpackChunkName: "pages/blog/blog-grid-simple" */))
-const _bb69392a = () => interopDefault(import('..\\pages\\blog\\blog-grid-standard.vue' /* webpackChunkName: "pages/blog/blog-grid-standard" */))
-const _493daa96 = () => interopDefault(import('..\\pages\\blog\\blog-standard-list.vue' /* webpackChunkName: "pages/blog/blog-standard-list" */))
-const _b1b791c8 = () => interopDefault(import('..\\pages\\blog\\wideomarketing.vue' /* webpackChunkName: "pages/blog/wideomarketing" */))
+const _47dc16f2 = () => interopDefault(import('..\\pages\\blog\\marketing-internetowy.vue' /* webpackChunkName: "pages/blog/marketing-internetowy" */))
 const _7b88acc8 = () => interopDefault(import('..\\pages\\element\\accordion.vue' /* webpackChunkName: "pages/element/accordion" */))
 const _962ce7e6 = () => interopDefault(import('..\\pages\\element\\brand-logo.vue' /* webpackChunkName: "pages/element/brand-logo" */))
 const _493be0b4 = () => interopDefault(import('..\\pages\\element\\call-to-action-banner.vue' /* webpackChunkName: "pages/element/call-to-action-banner" */))
@@ -125,61 +112,9 @@ export const routerOptions = {
     component: _385448db,
     name: "blog-5-sposobow-na-film-reklamowy"
   }, {
-    path: "/blog/blog-creative",
-    component: _bcd9a810,
-    name: "blog-blog-creative"
-  }, {
-    path: "/blog/blog-details",
-    component: _4683d089,
-    name: "blog-blog-details"
-  }, {
-    path: "/blog/blog-details-modern-layout",
-    component: _25e053d4,
-    name: "blog-blog-details-modern-layout"
-  }, {
-    path: "/blog/blog-grid-classic",
-    component: _943ca258,
-    name: "blog-blog-grid-classic"
-  }, {
-    path: "/blog/blog-grid-classic copy",
-    component: _2e69c8f1,
-    name: "blog-blog-grid-classic copy"
-  }, {
-    path: "/blog/blog-grid-classic-sidebar",
-    component: _aa727c3a,
-    name: "blog-blog-grid-classic-sidebar"
-  }, {
-    path: "/blog/blog-grid-mesonry",
-    component: _a3a7b0fa,
-    name: "blog-blog-grid-mesonry"
-  }, {
-    path: "/blog/blog-grid-minimal",
-    component: _4fd6373a,
-    name: "blog-blog-grid-minimal"
-  }, {
-    path: "/blog/blog-grid-minimal-outline",
-    component: _ab7fdb50,
-    name: "blog-blog-grid-minimal-outline"
-  }, {
-    path: "/blog/blog-grid-modern",
-    component: _4439dc4d,
-    name: "blog-blog-grid-modern"
-  }, {
-    path: "/blog/blog-grid-simple",
-    component: _666b2160,
-    name: "blog-blog-grid-simple"
-  }, {
-    path: "/blog/blog-grid-standard",
-    component: _bb69392a,
-    name: "blog-blog-grid-standard"
-  }, {
-    path: "/blog/blog-standard-list",
-    component: _493daa96,
-    name: "blog-blog-standard-list"
-  }, {
-    path: "/blog/wideomarketing",
-    component: _b1b791c8,
-    name: "blog-wideomarketing"
+    path: "/blog/marketing-internetowy",
+    component: _47dc16f2,
+    name: "blog-marketing-internetowy"
   }, {
     path: "/element/accordion",
     component: _7b88acc8,

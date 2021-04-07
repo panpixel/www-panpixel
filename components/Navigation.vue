@@ -58,7 +58,7 @@
          
             </li>
             <li class="lavel-1">
-                <n-link to="/blog/wideomarketing">
+                <n-link to="/blog/marketing-internetowy">
                     <span>Blog</span>
                 </n-link>
                
