@@ -7,7 +7,7 @@
 
         <SearchPopup />
 
-        <Breadcrumb :items="items" title="Video Content Marketing" />
+        <Breadcrumb :items="items" title="Marketing Internetowy" />
 
         <div class="bk-blog-grid-area pt--100 pb--100 pt_md--80 pb_md--80 pb_sm--80 pt_sm--60">
             <div class="container">
@@ -65,7 +65,12 @@
 
         head() {
             return {
-                title: 'Marketing Internetowy'
+                title: 'Marketing Internetowy',               
+                meta: [ {
+                          hid: 'description',
+                          name: 'description',
+                          content: 'Sprawdź, jakie korzyści przynosi firmie marketing internetowy. Sposobów dotarcia do potencjalnego klienta jest wiele. Znamy się na kilku. '
+                        }]
             }
         },
     };
