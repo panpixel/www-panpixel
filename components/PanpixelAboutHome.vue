@@ -4,7 +4,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="about-inner authenthick-about pr--30">
-                        <h6 class="heading headin-h6 theme-color letter-spacing-3 wow move-up">PRODUKCJA FILMOWA I FOTOGRAFICZNA</h6>
+                        <h1 style="font-size:16px;" class="heading headin-h1 theme-color letter-spacing-3 wow move-up">Filmy reklamowe ⋆ wirtualny spacer ⋆ tworzenie stron www ⋆ fotografia</h1>
                         <div class="bkseparator--30"></div>
                         <h3 class="heading heading-h3 heading-font line-height-1-5 wow move-up">
                             KOMUNIKUJEMY SIĘ POPRZEZ OBRAZ 
