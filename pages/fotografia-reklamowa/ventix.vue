@@ -77,14 +77,7 @@
                             </div>
                             <!-- End Portfolio Image -->
 
-                            <!-- Start Portfolio Image -->
-                            <div class="portfolio-image">
-                                <img class="w-100" src="/img/portfolio/big-image/caption-3.jpg" alt="portfolio">
-                                <div class="cation-text ptb--20 bg_color--5 text-center">
-                                    <p class="bk_pra">Produkcja mebli biurowych</p>
-                                </div>
-                            </div>
-                            <!-- End Portfolio Image -->
+                           
 
                         </div>
                     </div>
@@ -98,17 +91,17 @@
                         <div class="portfolio-nav-list pt--50 pb--150 pb_md--80 pb_sm--60 pt_md--5 pt_sm--5">
                             <div class="portfolio-page prev">
                                 <div class="inner">
-                                    <n-link to="">
-                                        <p>Prev</p>
-                                        <h3 class="heading heading-h3">Awe-inspiring <br> Projects</h3>
+                                    <n-link to="/fotografia-reklamowa/contea">
+                                        <p>Poprzednia</p>
+                                        <h3 class="heading heading-h3">Contea <br> hurtownia kawy i herbaty</h3>
                                     </n-link>
                                 </div>
                             </div>
                             <div class="portfolio-page next mt_sm--30">
                                 <div class="inner">
-                                    <n-link to="">
-                                        <p>Next</p>
-                                        <h3 class="heading heading-h3">B-sharp High-end <br> Audio</h3>
+                                    <n-link to="/fotografia-reklamowa/fornit">
+                                        <p>Następna</p>
+                                        <h3 class="heading heading-h3">Fornit<br> produkcja mebli</h3>
                                     </n-link>
                                 </div>
                             </div>

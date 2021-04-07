@@ -66,19 +66,17 @@
                                         <div class="marker"></div>
                                         <div class="title-wrap">
                                         <h5 class="heading heading-h5">Wideo Referencje</h5>
-                                       <p class="bk_pra wow move-up">Rodzaj referencji w postaci filmu są zawarte wywiady z ludźmi, którzy mieli do czynienia z Twoją firmą i są z tej współpracy zadowoleni; opowiadają w jaki sposób rozwiązałeś ich problem.</p>
+                                       <p class="bk_pra wow move-up">Rodzaj referencji w postaci filmu. Materiał wideo zawiera wywiady z ludźmi, którzy mieli do czynienia z Twoją firmą i są z tej współpracy zadowoleni. 
+                                        Opowiadają w jaki sposób rozwiązałeś ich problem.</p>
                                        </div>
                                        </div>
                                        </div>
-                                       <!-- End Single List -->                                         
-                                            
-                                            
-                                            
-                                            
+                                       <!-- End Single List -->                          
+                                        
                                         </div>
                                     </div>
                                     <div class="thumbnail wow move-up">
-                                        <img class="w-100" src="/img/blog/big-img/standard-post-2.jpg" alt="Multipurpose">
+                                        <img class="w-100" src="/img/blog/big-img/post-wideo-referencje.jpg" alt="Wideo referencje">
                                     </div>
                                     <div class="desc mt--45">
                                         <p class="bk_pra wow move-up">
@@ -171,7 +169,12 @@
 
         head() {
             return {
-                title: '5 sposobów na film reklamowy'
+                title: '5 sposobów na film reklamowy',
+                meta: [ {
+                          hid: 'description',
+                          name: 'description',
+                          content:'Filmy to doskonałe narzędzie marketingowe, które angażują odbiorcę.'
+                        }]
             }
         },
     };
