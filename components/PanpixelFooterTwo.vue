@@ -57,10 +57,10 @@
                             </div>
                        
                             <div class="social-share social--transparent text-white">
-                                    <a href="https://www.facebook.com/" target="_blank">
+                                    <a href="https://www.facebook.com/panpixel.studio" target="_blank">
                                         <i class="fab fa-facebook"></i>
                                     </a>
-                                    <a href="https://www.instagram.com/" target="_blank">
+                                    <a href="https://www.instagram.com/voytech.zee/" target="_blank">
                                         <i class="fab fa-instagram"></i>
                                     </a>
                                
@@ -75,21 +75,10 @@
                                 <div class="instagram-grid-wrap">
                                     <div class="item-grid grid-style--1" v-for="instagram in instagramPosts" :key="instagram.id">
                                         <div class="thumb">
-                                            <n-link to="">
-                                                <img :src="instagram.image" alt="instagram image">
+                                            <n-link to="https://www.instagram.com/voytech.zee/">
+                                                <img :src="instagram.image" alt="instagram panpixel.studio">
                                             </n-link>
-                                            <div class="item-info">
-                                                <div class="inner">
-                                                    <n-link to="">
-                                                        <i class="fas fa-heart"></i>
-                                                        {{ instagram.like }}
-                                                    </n-link>
-                                                    <n-link to="">
-                                                        <i class="fas fa-comment-dots"></i>
-                                                        {{ instagram.comment }}
-                                                    </n-link>
-                                                </div>
-                                            </div>
+                                       
                                         </div>
                                     </div>
                                 </div>
