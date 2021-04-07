@@ -75,9 +75,9 @@
                                 <div class="instagram-grid-wrap">
                                     <div class="item-grid grid-style--1" v-for="instagram in instagramPosts" :key="instagram.id">
                                         <div class="thumb">
-                                            <n-link to="https://www.instagram.com/voytech.zee/">
+                                            <a href="https://www.instagram.com/voytech.zee/">
                                                 <img :src="instagram.image" alt="instagram panpixel.studio">
-                                            </n-link>
+                                             </a>
                                        
                                         </div>
                                     </div>
