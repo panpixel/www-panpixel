@@ -5,7 +5,7 @@
                 <div class="col-lg-12">
                     <div class="brook-section-title text-center mb--60">
                         <h6 class="heading headin-h6 theme-color letter-spacing-3 font-blod">Gdybyś posiadał film ... wiesz ilu klientów mógłbyś zyskać?</h6>
-                        <div class="bkseparator--40"></div>
+                        <div class="bkseparator--10"></div>
                         <h2 class="heading heading-h2 heading-font">Film reklamowy dla firm</h2>
                     </div>
                 </div>

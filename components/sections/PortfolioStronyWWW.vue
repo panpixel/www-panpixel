@@ -4,8 +4,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="brook-section-title text-center mb--60">
-                        <h6 class="heading headin-h3 theme-color letter-spacing-3 font-blod">PROJEKTOWANIE STRON WWW, POZYCJONOWANIE STRON</h6>
-                        <div class="bkseparator--40"></div>
+                        <h5 class="heading heading-h5 theme-color">TWOJE MIEJSCE W INTERNECIE</h5>
                         <h2 class="heading heading-h2 heading-font">Tworzenie stron www</h2>
                     </div>
                 </div>
