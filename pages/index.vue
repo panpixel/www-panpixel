@@ -52,11 +52,11 @@
       
         head() {
             return {
-                title: 'Filmy reklamowe ⋆ Wirtualny spacer ⋆ Tworzenie stron WWWW',
+                title: 'Filmy reklamowe ⋆ Wirtualny spacer ⋆ Tworzenie stron WWW',
                 meta: [ {
                           hid: 'description',
                           name: 'description',
-                          content: 'Za pomocą obrazu i dźwięku wzbogaconego o odpowiedni tekst, skutecznie docieramy do określonej grupy odbiorców. Tworzymy m.in. filmy reklamowe, wirtualny spacer'
+                          content: 'Za pomocą obrazu i dźwięku wzbogaconego o odpowiedni tekst, skutecznie docieramy do określonej grupy odbiorców. Tworzymy filmy reklamowe'
                         }]
             }
         }         
