@@ -11,6 +11,9 @@ export default {
     */
     head: {
         title: process.env.npm_package_name || 'Vue.JS Technology',
+        htmlAttrs: {
+            lang: 'pl'
+          },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
