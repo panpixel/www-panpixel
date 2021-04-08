@@ -6,12 +6,14 @@
                     <div class="about-inner authenthick-about pr--30">
                         <h1 style="font-size:16px;" class="heading headin-h1 theme-color letter-spacing-3 wow move-up">Filmy reklamowe ⋆ Wirtualny spacer ⋆ Tworzenie stron www ⋆ Fotografia</h1>
                         <div class="bkseparator--30"></div>
-                        <h3 class="heading heading-h3 heading-font line-height-1-5 wow move-up">
-                            KOMUNIKUJEMY SIĘ POPRZEZ OBRAZ 
+                        <h3 class="heading heading-h3 heading-font wow move-up">
+                            OBRAZUJEMY SUKCES
                         </h3>
 
                         <div class="bkseparator--40"></div>
                         <p class="bk_pra font-18 line-height-1-6 dark-2 heading-font1 wow move-up">
+                        Pracujemy bezpośrednio z klientem. Sukces naszych klientów przekłada się proporcjonalnie na nasz sukces. 
+                        Pomagamy <strong>obrazować sukces</strong> klienta za pomocą naszych realizacji.
                         Komunikujemy się poprzez obraz. <br />Wykorzystujemy takie formy przekazu jak:
                         </p>
                    <div class="bkseparator--20"></div>   
@@ -52,7 +54,7 @@
             return {
                 lists: [
                     {
-                        title: 'Filmy reklamowe',
+                        title: 'Filmy reklamowe, spot reklamowy',
                         marker: 1,
                     },
                     {
@@ -60,7 +62,7 @@
                         marker: 2,
                     },
                     {
-                        title: 'Fotografia',
+                        title: 'Fotografia przemysłowa, biznesowa',
                         marker: 3,
                     },
                     {
