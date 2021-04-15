@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcrumb-inner text-center">
-                        <h1 class="heading heading-h1 text-white">Tworzymy skuteczny <br /> wideo marketing</h1>
+                        <h1 class="heading heading-h1 text-white">Marketing Internetowy</h1>
                     </div>
                 </div>
             </div>

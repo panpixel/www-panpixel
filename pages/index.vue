@@ -6,13 +6,8 @@
         <PanpixelHero />
         <PanpixelAboutHome />
         <PanpixelVideoService />
-        <PortfolioFilmy addClass="pt--130 pb--30 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
-        <PortfolioFotografia addClass="pt--30 pb--100 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
-        <PortfolioStronyWWW addClass="pt--30 pb--100 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
-          
-       
 
-        <!-- Start Contagion Area -->
+  <!-- Start Contagion Area -->
         <div class="brook-contagion-area bg_color--1 pt--110 pt_md--80 pt_sm--60 pb--90 pb_md--55 pb_sm--30">
             <div class="container">
                 <div class="row align-items-center">
@@ -20,8 +15,8 @@
                      <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                      <!-- Section Title Start -->
                             <div class="brook-section-title-corona mb--50">
-                                <h2>Obsługiwany obszar</h2>
-                                <p>Panpixel.Studio specjalizuje się w obsłudze firm i instytucji z województwa śląskiego i małopolskiego. </p>
+                                <h2>Zakres działalności</h2>
+                                <p>Przedstaw swoją ofertę w sposób, który najsilniej dociera do odbiorcy, wykorzystując przy tym narzędzi, które dla Ciebie przygotujemy. </p>
                             </div>
                             <!-- Section Title End -->
                     </div>
@@ -109,6 +104,14 @@
 
 
 
+        <PortfolioFilmy addClass="pt--130 pb--30 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
+        <PortfolioFotografia addClass="pt--30 pb--100 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
+        <PortfolioStronyWWW addClass="pt--30 pb--100 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
+          
+          
+
+        <StartUpStratagy />
+
 
         <PanpixelFooterTwo />
 
@@ -128,7 +131,7 @@
             PortfolioStronyWWW: () => import('@/components/sections/PortfolioStronyWWW'),
             PanpixelProcesRealizacji: () => import('@/components/PanpixelProcesRealizacji'),
             
-            
+            StartUpStratagy: () => import('@/components/sections/StartUpStratagy'),
             PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
         }, 
            mounted () {
