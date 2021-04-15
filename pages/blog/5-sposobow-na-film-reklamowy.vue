@@ -66,7 +66,7 @@
                                         <div class="marker"></div>
                                         <div class="title-wrap">
                                         <h5 class="heading heading-h5">Wideo Referencje</h5>
-                                       <p class="bk_pra wow move-up">Rodzaj referencji w postaci filmu. Materiał wideo zawiera wywiady z ludźmi, którzy mieli do czynienia z Twoją firmą i są z tej współpracy zadowoleni. 
+                                       <p class="wow move-up">Rodzaj referencji w postaci filmu. Materiał wideo zawiera wywiady z ludźmi, którzy mieli do czynienia z Twoją firmą i są z tej współpracy zadowoleni. 
                                         Opowiadają w jaki sposób rozwiązałeś ich problem.</p>
                                        </div>
                                        </div>
@@ -164,7 +164,7 @@
         },
 
         mounted () {
-            document.body.classList.add('template-color-20', 'template-font-1')
+            document.body.classList.add('template-color-20', 'template-font-3')
         },
 
         head() {
@@ -185,15 +185,7 @@
 	color: #CE8F4F;
 	
 }
-.bk-list .list-header p.bk_pra {
-margin-bottom: 0;
-	word-wrap: break-word;
-	max-width: 100%;
-	font-weight: 400;
-	line-height: 1.58;
-	font-size: 18px;
-	font-family: "Poppins", sans-serif;
-}
+
 
 
 </style>

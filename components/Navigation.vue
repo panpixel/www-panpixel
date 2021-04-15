@@ -45,10 +45,24 @@
           </ul>
 
             </li>
-            <li class="lavel-1">
+            <li class="lavel-1 with--drop slide--megamenu">
                 <n-link to="/fotografia">
                     <span>Fotografia</span>
                 </n-link>
+                 <ul class="mega__width--fullscreen">
+                    <div class="container">
+                        <div class="mega__list">                                          
+                      
+ 
+
+                    <li class="lavel-2">
+                      <n-link to="/wirtualny-spacer"><span>Wirtualny Spacer</span></n-link>
+                    </li>
+                  
+
+                </div></div>
+                    
+          </ul>
          
             </li>
               <li class="lavel-1">

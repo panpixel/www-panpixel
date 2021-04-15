@@ -12,6 +12,7 @@ const _6d8a6cfc = () => interopDefault(import('..\\pages\\realizacje.vue' /* web
 const _1080060d = () => interopDefault(import('..\\pages\\services-list.vue' /* webpackChunkName: "pages/services-list" */))
 const _bb770364 = () => interopDefault(import('..\\pages\\services-modern.vue' /* webpackChunkName: "pages/services-modern" */))
 const _69e7aafa = () => interopDefault(import('..\\pages\\wideomarketing.vue' /* webpackChunkName: "pages/wideomarketing" */))
+const _4cf484f2 = () => interopDefault(import('..\\pages\\wirtualny-spacer.vue' /* webpackChunkName: "pages/wirtualny-spacer" */))
 const _385448db = () => interopDefault(import('..\\pages\\blog\\5-sposobow-na-film-reklamowy.vue' /* webpackChunkName: "pages/blog/5-sposobow-na-film-reklamowy" */))
 const _47dc16f2 = () => interopDefault(import('..\\pages\\blog\\marketing-internetowy.vue' /* webpackChunkName: "pages/blog/marketing-internetowy" */))
 const _7b88acc8 = () => interopDefault(import('..\\pages\\element\\accordion.vue' /* webpackChunkName: "pages/element/accordion" */))
@@ -107,6 +108,10 @@ export const routerOptions = {
     path: "/wideomarketing",
     component: _69e7aafa,
     name: "wideomarketing"
+  }, {
+    path: "/wirtualny-spacer",
+    component: _4cf484f2,
+    name: "wirtualny-spacer"
   }, {
     path: "/blog/5-sposobow-na-film-reklamowy",
     component: _385448db,

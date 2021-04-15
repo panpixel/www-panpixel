@@ -9,22 +9,107 @@
         <PortfolioFilmy addClass="pt--130 pb--30 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
         <PortfolioFotografia addClass="pt--30 pb--100 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
         <PortfolioStronyWWW addClass="pt--30 pb--100 pt_md--80 pt_sm--80 pb_md--80 pb_sm--80" /> 
-          <div class="brook-gradation-area ptb--0 ptb-md--80 ptb-sm--60 bg_color--1 basic-thine-line">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="bk-title--default text-center">
-                            <h5 class="heading heading-h5 theme-color">PROCES REALIZACJI</h5>
-                            <div class="bkseparator--30"></div>
-                            <h3 class="heading heading-h3">Tak będzie wyglądać realizacja Twojego zlecenia</h3>
-                        </div>
+          
+       
 
-                        <PanpixelProcesRealizacji />
+        <!-- Start Contagion Area -->
+        <div class="brook-contagion-area bg_color--1 pt--110 pt_md--80 pt_sm--60 pb--90 pb_md--55 pb_sm--30">
+            <div class="container">
+                <div class="row align-items-center">
+                    
+                     <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                     <!-- Section Title Start -->
+                            <div class="brook-section-title-corona mb--50">
+                                <h2>Obsługiwany obszar</h2>
+                                <p>Panpixel.Studio specjalizuje się w obsłudze firm i instytucji z województwa śląskiego i małopolskiego. </p>
+                            </div>
+                            <!-- Section Title End -->
+                    </div>
+                    
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                      <div class="contagion-content wow move-up animate">
+                           
+                            <!-- Single Contagion Start -->
+                            <div class="single-contagion mb--30">
+                                <div class="contagion-image">
+                                    <img src="/img/spot-reklamowy-panpixel.studio.png" alt="spot reklamowy">
+                                </div>
+                                <div class="contagion-content">
+                                    <h3 class="title">Spot Reklamowy</h3>
+                                    <p>Wykorzystaj moc wideo i internetu. Spot reklamowy to doskonałe narzędzie do budowania wizerunku firmy.</p>
+                                </div>
+                            </div>
+                            <!-- Single Contagion End -->
+                            <!-- Single Contagion Start -->
+                            <div class="single-contagion mb--30">
+                                <div class="contagion-image rotate-center">
+                                    <img src="/img/wirtualny-spacer-panpixel.studio.png" alt="wirtualny spacer">
+                                </div>
+                                <div class="contagion-content">
+                                    <h3 class="title"><n-link to="/wirtualny-spacer">Wirtualny Spacer</n-link></h3>
+                                    <p>Zdobądź zaufanie klientów i przyciągnij ich uwagę, tworząc wysokiej jakości wirtualny spacer. Zaproś ich do siedziby firmy i oprowadź po jej wnętrzach.</p>
+                                </div>
+                            </div>
+                            <!-- Single Contagion End -->
+                            <!-- Single Contagion Start -->
+                            <div class="single-contagion mb--30">
+                                <div class="contagion-image">
+                                    <img src="/img/projektowanie-stron-www-panpixel.studio.png" alt="projektowanie stron www">
+                                </div>
+                                <div class="contagion-content">
+                                    <h3 class="title">Projektowanie Stron WWW</h3>
+                                    <p>Dobra strona internetowa jest podstawowym wyznacznikiem wiarygodności firmy. Naszym zadaniem jest projektowanie i tworzenie stron internetowych w sposób atrakcyjny wizualnie i merytoryczny.</p>
+                                </div>
+                            </div>
+                            <!-- Single Contagion End -->
+                        </div> 
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                        <div class="contagion-content wow move-up animate">
+                           
+                            <!-- Single Contagion Start -->
+                            <div class="single-contagion mb--30">
+                                <div class="contagion-image">
+                                    <img src="/img/fotografia-reklamowa-panpixel.studio.png" alt="fotografia reklamowa">
+                                </div>
+                                <div class="contagion-content">
+                                    <h3 class="title">Fotografia Reklamowa</h3>
+                                    <p>Pozwala budować zaufanie w oczach klienta, wykorzystywana w materiałach marketingowych zwiększa prestiż.</p>
+                                </div>
+                            </div>
+                            <!-- Single Contagion End -->
+                            <!-- Single Contagion Start -->
+                            <div class="single-contagion mb--30">
+                                <div class="contagion-image rotate-center">
+                                    <img src="/img/filmowanie-dronem-panpixel.studio.png" alt="Filmowanie Dronem">
+                                </div>
+                                <div class="contagion-content">
+                                    <h3 class="title">Filmowanie Dronem</h3>
+                                    <p>Fotografujemy i filmujemy z powietrza, aby zrelacjonować ważne wydarzenie, udokumentować inwestycje. Latamy, aby wykonać niezapomniane ujęcia do filmów promocyjnych i reklamowych. </p>
+                                </div>
+                            </div>
+                            <!-- Single Contagion End -->
+                            <!-- Single Contagion Start -->
+                            <div class="single-contagion mb--30">
+                                <div class="contagion-image">
+                                    <img src="/img/seo.png" alt="SEO">
+                                </div>
+                                <div class="contagion-content">
+                                    <h3 class="title">Optymalizacja Stron WWW SEO</h3>
+                                    <p>Optymalizacja stron www pod kątem wyszukiwarek internetowych, celem zwiększenia widoczności w organicznych wynikach wyszukiwania na określone słowa kluczowe.</p>
+                                </div>
+                            </div>
+                            <!-- Single Contagion End -->
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        <PanpixelTestimonial />
+        <!-- End Contagion Area -->
+
+
+
+
         <PanpixelFooterTwo />
 
     </div>
@@ -42,12 +127,12 @@
             PortfolioFotografia: () => import('@/components/sections/PortfolioFotografia'),
             PortfolioStronyWWW: () => import('@/components/sections/PortfolioStronyWWW'),
             PanpixelProcesRealizacji: () => import('@/components/PanpixelProcesRealizacji'),
-            PanpixelTestimonial: () => import('@/components/sections/PanpixelTestimonial'),
+            
             
             PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
         }, 
            mounted () {
-            document.body.classList.add('template-color-20', 'template-font-1')
+            document.body.classList.add('template-color-20', 'template-font-3')
         },
       
         head() {

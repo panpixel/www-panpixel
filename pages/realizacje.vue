@@ -7,7 +7,25 @@
 
         <SearchPopup />
 
-        <div class="breadcaump-area pt--130 pb--50 bg_color--1 breadcaump-title-bar">
+    
+
+        <div class="brook-gradation-area ptb--0 ptb-md--80 ptb-sm--60 bg_color--1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="bk-title--default text-center">
+                            <h5 class="heading heading-h5 theme-color">PROCES REALIZACJI</h5>
+                            <div class="bkseparator--30"></div>
+                            <h3 class="heading heading-h3">Tak będzie wyglądać realizacja Twojego zlecenia</h3>
+                        </div>
+
+                        <PanpixelProcesRealizacji />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <div class="breadcaump-area pt--130 pb--50 bg_color--1 breadcaump-title-bar">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -18,6 +36,7 @@
                 </div>
             </div>
         </div>
+
 
         <div class="brook-portfolio-area ptb--100 ptb-md--80 ptb-sm--60 bg_color--1">
             <div class="container-fluid plr--30">
@@ -44,6 +63,7 @@
             SearchPopup: () => import('@/components/SearchPopup'),
             PortfolioItemCenterCaption: () => import('@/components/PortfolioItemCenterCaption'),
            PanpixelFooterTwo: () => import('@/components/PanpixelFooterTwo'),
+           PanpixelProcesRealizacji: () => import('@/components/PanpixelProcesRealizacji'),
         },
         
         data () {
