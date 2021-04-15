@@ -41,7 +41,7 @@
                                     <img src="/img/wirtualny-spacer-panpixel.studio.png" alt="wirtualny spacer">
                                 </div>
                                 <div class="contagion-content">
-                                    <h3 class="title"><n-link to="/wirtualny-spacer">Wirtualny Spacer</n-link></h3>
+                                    <h3 class="title">Wirtualny Spacer</h3>
                                     <p>Zdobądź zaufanie klientów i przyciągnij ich uwagę, tworząc wysokiej jakości wirtualny spacer. Zaproś ich do siedziby firmy i oprowadź po jej wnętrzach.</p>
                                 </div>
                             </div>
