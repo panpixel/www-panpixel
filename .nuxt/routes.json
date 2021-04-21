@@ -3,364 +3,312 @@
     "name": "filmowanie",
     "path": "/filmowanie",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmowanie.vue",
-    "chunkName": "pages/filmowanie",
-    "_name": "_885a2376"
+    "chunkName": "pages/filmowanie"
   },
   {
     "name": "fotografia",
     "path": "/fotografia",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\fotografia.vue",
-    "chunkName": "pages/fotografia",
-    "_name": "_e9a08c88"
+    "chunkName": "pages/fotografia"
   },
   {
     "name": "kontakt",
     "path": "/kontakt",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\kontakt.vue",
-    "chunkName": "pages/kontakt",
-    "_name": "_6342dd00"
+    "chunkName": "pages/kontakt"
   },
   {
     "name": "o-nas",
     "path": "/o-nas",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\o-nas.vue",
-    "chunkName": "pages/o-nas",
-    "_name": "_1efdbda2"
+    "chunkName": "pages/o-nas"
   },
   {
     "name": "projektowanie-stron-internetowych",
     "path": "/projektowanie-stron-internetowych",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\projektowanie-stron-internetowych.vue",
-    "chunkName": "pages/projektowanie-stron-internetowych",
-    "_name": "_928077a6"
+    "chunkName": "pages/projektowanie-stron-internetowych"
   },
   {
     "name": "realizacje",
     "path": "/realizacje",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\realizacje.vue",
-    "chunkName": "pages/realizacje",
-    "_name": "_6d8a6cfc"
+    "chunkName": "pages/realizacje"
   },
   {
     "name": "services-list",
     "path": "/services-list",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\services-list.vue",
-    "chunkName": "pages/services-list",
-    "_name": "_1080060d"
+    "chunkName": "pages/services-list"
   },
   {
     "name": "services-modern",
     "path": "/services-modern",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\services-modern.vue",
-    "chunkName": "pages/services-modern",
-    "_name": "_bb770364"
+    "chunkName": "pages/services-modern"
   },
   {
     "name": "wideomarketing",
     "path": "/wideomarketing",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\wideomarketing.vue",
-    "chunkName": "pages/wideomarketing",
-    "_name": "_69e7aafa"
+    "chunkName": "pages/wideomarketing"
   },
   {
     "name": "wirtualny-spacer",
     "path": "/wirtualny-spacer",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\wirtualny-spacer.vue",
-    "chunkName": "pages/wirtualny-spacer",
-    "_name": "_4cf484f2"
+    "chunkName": "pages/wirtualny-spacer"
   },
   {
     "name": "blog-5-sposobow-na-film-reklamowy",
     "path": "/blog/5-sposobow-na-film-reklamowy",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\5-sposobow-na-film-reklamowy.vue",
-    "chunkName": "pages/blog/5-sposobow-na-film-reklamowy",
-    "_name": "_385448db"
+    "chunkName": "pages/blog/5-sposobow-na-film-reklamowy"
   },
   {
     "name": "blog-marketing-internetowy",
     "path": "/blog/marketing-internetowy",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\marketing-internetowy.vue",
-    "chunkName": "pages/blog/marketing-internetowy",
-    "_name": "_47dc16f2"
+    "chunkName": "pages/blog/marketing-internetowy"
   },
   {
     "name": "element-accordion",
     "path": "/element/accordion",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\accordion.vue",
-    "chunkName": "pages/element/accordion",
-    "_name": "_7b88acc8"
+    "chunkName": "pages/element/accordion"
   },
   {
     "name": "element-brand-logo",
     "path": "/element/brand-logo",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\brand-logo.vue",
-    "chunkName": "pages/element/brand-logo",
-    "_name": "_962ce7e6"
+    "chunkName": "pages/element/brand-logo"
   },
   {
     "name": "element-call-to-action-banner",
     "path": "/element/call-to-action-banner",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\call-to-action-banner.vue",
-    "chunkName": "pages/element/call-to-action-banner",
-    "_name": "_493be0b4"
+    "chunkName": "pages/element/call-to-action-banner"
   },
   {
     "name": "element-carousel-slider",
     "path": "/element/carousel-slider",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\carousel-slider.vue",
-    "chunkName": "pages/element/carousel-slider",
-    "_name": "_464a1a42"
+    "chunkName": "pages/element/carousel-slider"
   },
   {
     "name": "element-contact-subscribe",
     "path": "/element/contact-subscribe",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\contact-subscribe.vue",
-    "chunkName": "pages/element/contact-subscribe",
-    "_name": "_c4015c9e"
+    "chunkName": "pages/element/contact-subscribe"
   },
   {
     "name": "element-dividers",
     "path": "/element/dividers",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\dividers.vue",
-    "chunkName": "pages/element/dividers",
-    "_name": "_43f678d6"
+    "chunkName": "pages/element/dividers"
   },
   {
     "name": "element-flexible-image-slider",
     "path": "/element/flexible-image-slider",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\flexible-image-slider.vue",
-    "chunkName": "pages/element/flexible-image-slider",
-    "_name": "_5b3c3c29"
+    "chunkName": "pages/element/flexible-image-slider"
   },
   {
     "name": "element-gradation",
     "path": "/element/gradation",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\gradation.vue",
-    "chunkName": "pages/element/gradation",
-    "_name": "_6d66a38a"
+    "chunkName": "pages/element/gradation"
   },
   {
     "name": "element-icon-boxes",
     "path": "/element/icon-boxes",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\icon-boxes.vue",
-    "chunkName": "pages/element/icon-boxes",
-    "_name": "_ca1ca17e"
+    "chunkName": "pages/element/icon-boxes"
   },
   {
     "name": "element-instagram",
     "path": "/element/instagram",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\instagram.vue",
-    "chunkName": "pages/element/instagram",
-    "_name": "_7c22b1f4"
+    "chunkName": "pages/element/instagram"
   },
   {
     "name": "element-lists",
     "path": "/element/lists",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\lists.vue",
-    "chunkName": "pages/element/lists",
-    "_name": "_7f3a9769"
+    "chunkName": "pages/element/lists"
   },
   {
     "name": "element-message-box",
     "path": "/element/message-box",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\message-box.vue",
-    "chunkName": "pages/element/message-box",
-    "_name": "_10c6544e"
+    "chunkName": "pages/element/message-box"
   },
   {
     "name": "element-pricing-box",
     "path": "/element/pricing-box",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\pricing-box.vue",
-    "chunkName": "pages/element/pricing-box",
-    "_name": "_2eea4698"
+    "chunkName": "pages/element/pricing-box"
   },
   {
     "name": "element-tab",
     "path": "/element/tab",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\tab.vue",
-    "chunkName": "pages/element/tab",
-    "_name": "_6644b269"
+    "chunkName": "pages/element/tab"
   },
   {
     "name": "element-team",
     "path": "/element/team",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\team.vue",
-    "chunkName": "pages/element/team",
-    "_name": "_378cc339"
+    "chunkName": "pages/element/team"
   },
   {
     "name": "element-testimonial",
     "path": "/element/testimonial",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\element\\\\testimonial.vue",
-    "chunkName": "pages/element/testimonial",
-    "_name": "_59c40673"
+    "chunkName": "pages/element/testimonial"
   },
   {
     "name": "filmy-reklamowe-instalacje-przemyslowe-talmex",
     "path": "/filmy-reklamowe/instalacje-przemyslowe-talmex",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\instalacje-przemyslowe-talmex.vue",
-    "chunkName": "pages/filmy-reklamowe/instalacje-przemyslowe-talmex",
-    "_name": "_442de44d"
+    "chunkName": "pages/filmy-reklamowe/instalacje-przemyslowe-talmex"
   },
   {
     "name": "filmy-reklamowe-instytut-lukasiewicza",
     "path": "/filmy-reklamowe/instytut-lukasiewicza",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\instytut-lukasiewicza.vue",
-    "chunkName": "pages/filmy-reklamowe/instytut-lukasiewicza",
-    "_name": "_764f4f60"
+    "chunkName": "pages/filmy-reklamowe/instytut-lukasiewicza"
   },
   {
     "name": "filmy-reklamowe-klimatyzacja-wentylacja-ventixserwis",
     "path": "/filmy-reklamowe/klimatyzacja-wentylacja-ventixserwis",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\klimatyzacja-wentylacja-ventixserwis.vue",
-    "chunkName": "pages/filmy-reklamowe/klimatyzacja-wentylacja-ventixserwis",
-    "_name": "_38603dfc"
+    "chunkName": "pages/filmy-reklamowe/klimatyzacja-wentylacja-ventixserwis"
   },
   {
     "name": "filmy-reklamowe-portfolio-details",
     "path": "/filmy-reklamowe/portfolio-details",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\portfolio-details.vue",
-    "chunkName": "pages/filmy-reklamowe/portfolio-details",
-    "_name": "_28627770"
+    "chunkName": "pages/filmy-reklamowe/portfolio-details"
   },
   {
     "name": "filmy-reklamowe-produkcja-kanalow-wentylacyjnych-sanen",
     "path": "/filmy-reklamowe/produkcja-kanalow-wentylacyjnych-sanen",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\produkcja-kanalow-wentylacyjnych-sanen.vue",
-    "chunkName": "pages/filmy-reklamowe/produkcja-kanalow-wentylacyjnych-sanen",
-    "_name": "_4888bc6d"
+    "chunkName": "pages/filmy-reklamowe/produkcja-kanalow-wentylacyjnych-sanen"
   },
   {
     "name": "filmy-reklamowe-um-jaworzno",
     "path": "/filmy-reklamowe/um-jaworzno",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\um-jaworzno.vue",
-    "chunkName": "pages/filmy-reklamowe/um-jaworzno",
-    "_name": "_25192038"
+    "chunkName": "pages/filmy-reklamowe/um-jaworzno"
   },
   {
     "name": "filmy-reklamowe-zespol-lecznictwa-otwartego",
     "path": "/filmy-reklamowe/zespol-lecznictwa-otwartego",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\filmy-reklamowe\\\\zespol-lecznictwa-otwartego.vue",
-    "chunkName": "pages/filmy-reklamowe/zespol-lecznictwa-otwartego",
-    "_name": "_1a717648"
+    "chunkName": "pages/filmy-reklamowe/zespol-lecznictwa-otwartego"
   },
   {
     "name": "fotografia-reklamowa-fornit",
     "path": "/fotografia-reklamowa/fornit",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\fotografia-reklamowa\\\\fornit.vue",
-    "chunkName": "pages/fotografia-reklamowa/fornit",
-    "_name": "_023f5250"
+    "chunkName": "pages/fotografia-reklamowa/fornit"
   },
   {
     "name": "fotografia-reklamowa-ventix",
     "path": "/fotografia-reklamowa/ventix",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\fotografia-reklamowa\\\\ventix.vue",
-    "chunkName": "pages/fotografia-reklamowa/ventix",
-    "_name": "_16e420cc"
+    "chunkName": "pages/fotografia-reklamowa/ventix"
   },
   {
     "name": "portfolio-portfolio-ajax-filter",
     "path": "/portfolio/portfolio-ajax-filter",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\portfolio\\\\portfolio-ajax-filter.vue",
-    "chunkName": "pages/portfolio/portfolio-ajax-filter",
-    "_name": "_6bdf7548"
+    "chunkName": "pages/portfolio/portfolio-ajax-filter"
   },
   {
     "name": "portfolio-portfolio-details",
     "path": "/portfolio/portfolio-details",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\portfolio\\\\portfolio-details.vue",
-    "chunkName": "pages/portfolio/portfolio-details",
-    "_name": "_40316ec5"
+    "chunkName": "pages/portfolio/portfolio-details"
   },
   {
     "name": "portfolio-portfolio-details-image-with-caption",
     "path": "/portfolio/portfolio-details-image-with-caption",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\portfolio\\\\portfolio-details-image-with-caption.vue",
-    "chunkName": "pages/portfolio/portfolio-details-image-with-caption",
-    "_name": "_7b04176e"
+    "chunkName": "pages/portfolio/portfolio-details-image-with-caption"
   },
   {
     "name": "portfolio-portfolio-details-left-wide",
     "path": "/portfolio/portfolio-details-left-wide",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\portfolio\\\\portfolio-details-left-wide.vue",
-    "chunkName": "pages/portfolio/portfolio-details-left-wide",
-    "_name": "_b781585e"
+    "chunkName": "pages/portfolio/portfolio-details-left-wide"
   },
   {
     "name": "portfolio-portfolio-details-right",
     "path": "/portfolio/portfolio-details-right",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\portfolio\\\\portfolio-details-right.vue",
-    "chunkName": "pages/portfolio/portfolio-details-right",
-    "_name": "_37e70f94"
+    "chunkName": "pages/portfolio/portfolio-details-right"
   },
   {
     "name": "portfolio-portfolio-details-right-wide",
     "path": "/portfolio/portfolio-details-right-wide",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\portfolio\\\\portfolio-details-right-wide.vue",
-    "chunkName": "pages/portfolio/portfolio-details-right-wide",
-    "_name": "_db0ab8c8"
+    "chunkName": "pages/portfolio/portfolio-details-right-wide"
   },
   {
     "name": "portfolio-portfolio-grid-boxed",
     "path": "/portfolio/portfolio-grid-boxed",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\portfolio\\\\portfolio-grid-boxed.vue",
-    "chunkName": "pages/portfolio/portfolio-grid-boxed",
-    "_name": "_341b0ea0"
+    "chunkName": "pages/portfolio/portfolio-grid-boxed"
   },
   {
     "name": "portfolio-portfolio-grid-filter",
     "path": "/portfolio/portfolio-grid-filter",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\portfolio\\\\portfolio-grid-filter.vue",
-    "chunkName": "pages/portfolio/portfolio-grid-filter",
-    "_name": "_70298862"
+    "chunkName": "pages/portfolio/portfolio-grid-filter"
   },
   {
     "name": "portfolio-portfolio-grid-metro-01",
     "path": "/portfolio/portfolio-grid-metro-01",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\portfolio\\\\portfolio-grid-metro-01.vue",
-    "chunkName": "pages/portfolio/portfolio-grid-metro-01",
-    "_name": "_342f891f"
+    "chunkName": "pages/portfolio/portfolio-grid-metro-01"
   },
   {
     "name": "portfolio-portfolio-grid-metro-03",
     "path": "/portfolio/portfolio-grid-metro-03",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\portfolio\\\\portfolio-grid-metro-03.vue",
-    "chunkName": "pages/portfolio/portfolio-grid-metro-03",
-    "_name": "_344bb821"
+    "chunkName": "pages/portfolio/portfolio-grid-metro-03"
   },
   {
     "name": "portfolio-portfolio-with-caption",
     "path": "/portfolio/portfolio-with-caption",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\portfolio\\\\portfolio-with-caption.vue",
-    "chunkName": "pages/portfolio/portfolio-with-caption",
-    "_name": "_940bda28"
+    "chunkName": "pages/portfolio/portfolio-with-caption"
   },
   {
     "name": "portfolio-realizacje",
     "path": "/portfolio/realizacje",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\portfolio\\\\realizacje.vue",
-    "chunkName": "pages/portfolio/realizacje",
-    "_name": "_4d6de958"
+    "chunkName": "pages/portfolio/realizacje"
   },
   {
     "name": "tworzenie-stron-www-kratkiochronne",
     "path": "/tworzenie-stron-www/kratkiochronne",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\tworzenie-stron-www\\\\kratkiochronne.vue",
-    "chunkName": "pages/tworzenie-stron-www/kratkiochronne",
-    "_name": "_e344839c"
+    "chunkName": "pages/tworzenie-stron-www/kratkiochronne"
   },
   {
     "name": "blog-id",
     "path": "/blog/:id?",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\blog\\\\_id.vue",
-    "chunkName": "pages/blog/_id",
-    "_name": "_629f0bb8"
+    "chunkName": "pages/blog/_id"
   },
   {
     "name": "index",
     "path": "/",
     "component": "F:\\\\Nuxt\\\\www-panpixel\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_08a9e09c"
+    "chunkName": "pages/index"
   }
 ]
